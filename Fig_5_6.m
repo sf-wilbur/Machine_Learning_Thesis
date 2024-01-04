@@ -5,19 +5,19 @@ max_lat=42.7;
 min_lon=-111.6;
 max_lon=-111.30;
 
-EQT_Sulphur=readtable('eqt_Sulphur_sulvel.csv'); % local velocity model
+EQT_Sulphur=readtable('EQ_Catalogs/eqt_Sulphur_sulvel.csv'); % local velocity model
 
 
 A_B=[EQT_Sulphur.Verr<=5 & EQT_Sulphur.Herr<=5];
 
 % p_model=readtable('sawtooth_p_model.txt');
-stations=readtable('UU_Sulphur_Stations.csv');
+stations=readtable('Station_Data/UU_Sulphur_Stations.csv');
 USGS_mainshock=[42.6474	-111.4492]; %M5.3 mainshock, 9/2/2017
 UU_mainshock=[42.651 -111.441];
 USGS_aftershock=[42.563 -111.416]; %M5 aftershock, 9/10/2017
 UU_aftershock=[42.569 -111.419];
-Qfaults = shaperead('QuaternaryFaults.shp', 'UseGeoCoords', true,'BoundingBox',[min_lon min_lat; max_lon max_lat]);
-Qfaults2 = shaperead('Qfaults_US_Database.shp', 'UseGeoCoords', true,'BoundingBox',[min_lon min_lat; max_lon max_lat]);
+Qfaults = shaperead('Shape_Files/QuaternaryFaults.shp', 'UseGeoCoords', true,'BoundingBox',[min_lon min_lat; max_lon max_lat]);
+Qfaults2 = shaperead('Shape_Files/Qfaults_US_Database.shp', 'UseGeoCoords', true,'BoundingBox',[min_lon min_lat; max_lon max_lat]);
 
 %%
 

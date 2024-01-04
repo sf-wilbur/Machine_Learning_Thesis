@@ -2,7 +2,7 @@ clear; close all; clc;
 
 % load the two catalogs
 load('PICK_DATA/eqt-all.mat');
-load('norhin-seisan.mat');
+load('PICK_DATA/norhin-seisan.mat');
 
 % Rename the catalogs like this
 eqt = S; % ...then you dont' have 'eqt.S.otime', but 'eqt.otime' instead. 

@@ -1,0 +1,977 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2019-01-04T07:29:37.170Z,42.6747,-111.2117,12.11,2.5,ml,,43,0.122,0.51,us,us2000j0aa,2019-03-08T17:50:15.040Z,"18 km W of Fairview, Wyoming",earthquake,1.2,8.8,0.052,48,reviewed,us,us
+2018-12-30T07:46:57.800Z,42.6746,-111.4756,10,2.4,ml,,50,0.095,0.56,us,us2000iz4q,2019-03-05T17:46:39.040Z,"10 km ENE of Soda Springs, Idaho",earthquake,2.1,2,0.056,42,reviewed,us,us
+2018-12-26T23:10:36.080Z,42.5715,-111.4438,8.61,2.4,ml,,68,0.109,0.47,us,us2000ixw8,2019-03-05T17:46:34.040Z,"11 km NNW of Georgetown, Idaho",earthquake,2,9.2,0.074,24,reviewed,us,us
+2018-12-26T21:30:08.380Z,42.577,-111.4649,9.12,3.2,ml,,45,0.129,0.58,us,us2000ixth,2019-03-05T17:46:34.040Z,"13 km NW of Georgetown, Idaho",earthquake,1.5,9.7,0.053,46,reviewed,us,us
+2018-12-25T18:01:05.910Z,42.6101667,-111.4551667,-2.58,2.13,ml,19,124,0.1477,0.18,uu,uu60308182,2018-12-26T17:22:15.930Z,"13 km ESE of Soda Springs, Idaho",earthquake,0.49,1.14,0.129,3,reviewed,uu,uu
+2018-12-19T21:43:52.870Z,42.5946667,-111.4245,0.11,2.22,ml,9,182,0.1247,0.15,uu,uu60307587,2018-12-19T22:21:52.680Z,"13 km NNW of Georgetown, Idaho",earthquake,1.06,1.85,0.161,3,reviewed,uu,uu
+2018-12-01T10:40:05.180Z,42.6896,-111.4968,5,2.5,ml,,138,0.232,0.23,us,us1000hzgd,2019-02-09T19:02:09.040Z,"9 km ENE of Soda Springs, Idaho",earthquake,1.6,1.9,0.06,36,reviewed,us,us
+2018-11-30T16:39:27.430Z,42.6552,-111.4984,5.54,2.3,ml,,58,0.202,0.4,us,us1000i1b0,2019-02-09T19:02:09.040Z,"8 km E of Soda Springs, Idaho",earthquake,1.4,9.5,0.051,50,reviewed,us,us
+2018-11-21T19:03:08.820Z,42.6625,-111.4741667,10.39,2.02,ml,13,130,0.2012,0.16,uu,uu60305267,2018-11-21T20:02:10.020Z,"10 km E of Soda Springs, Idaho",earthquake,0.52,1.35,0.033,5,reviewed,uu,uu
+2018-11-20T01:22:30.010Z,42.6568333,-111.4775,8.66,2.15,ml,8,139,0.1969,0.06,uu,uu60304972,2018-11-20T21:12:52.605Z,"10 km E of Soda Springs, Idaho",earthquake,0.35,1.39,0.131,4,reviewed,uu,uu
+2018-11-19T16:28:56.830Z,42.6591667,-111.4795,-1.79,2.26,ml,15,131,0.1997,0.2,uu,uu60304917,2018-11-20T18:08:47.060Z,"10 km E of Soda Springs, Idaho",earthquake,0.61,2.94,0.118,4,reviewed,uu,uu
+2018-11-17T07:43:30.070Z,42.6453333,-111.47,1.7,2.06,ml,10,128,0.1842,0.09,uu,uu60304802,2018-11-19T18:35:22.590Z,"11 km E of Soda Springs, Idaho",earthquake,0.41,3.25,0.167,3,reviewed,uu,uu
+2018-11-17T01:04:40.420Z,42.6476667,-111.47,-1.75,2.17,ml,10,128,0.1863,0.26,uu,uu60304777,2018-11-19T18:32:46.040Z,"11 km E of Soda Springs, Idaho",earthquake,0.76,5.6,0.108,3,reviewed,uu,uu
+2018-11-15T09:33:12.630Z,42.6699,-111.4571,9.83,3.8,mwr,,50,0.203,0.51,us,us1000hs2y,2019-01-30T18:36:24.040Z,"12 km E of Soda Springs, Idaho",earthquake,2.4,6.5,0.039,63,reviewed,us,us
+2018-11-15T07:13:26.150Z,42.6815,-111.4578333,8.72,2.24,ml,15,128,0.2148,0.16,uu,uu60304477,2018-11-15T22:26:20.490Z,"12 km ENE of Soda Springs, Idaho",earthquake,0.7,1.77,0.193,4,reviewed,uu,uu
+2018-11-15T02:38:37.000Z,42.6734,-111.4714,10,2.8,ml,,50,0.21,0.74,us,us1000hrzx,2019-01-30T18:36:24.040Z,"11 km E of Soda Springs, Idaho",earthquake,2.4,2,0.036,102,reviewed,us,us
+2018-11-14T21:51:23.060Z,42.6567,-111.4654,7.62,3.1,ml,,71,0.193,0.54,us,us1000hrw3,2019-01-30T18:36:24.040Z,"11 km E of Soda Springs, Idaho",earthquake,1.4,5.6,0.042,76,reviewed,us,us
+2018-11-14T09:28:59.630Z,42.6485,-111.4701667,-3.13,2.13,ml,8,137,0.1871,0.12,uu,uu60304387,2018-11-14T19:16:36.430Z,"southern Idaho",earthquake,0.56,1.61,0.1,4,reviewed,uu,uu
+2018-11-13T17:17:23.740Z,42.6636,-111.4842,5,3,ml,,66,0.205,1.07,us,us1000hrb5,2019-01-30T18:36:23.040Z,"9 km E of Soda Springs, Idaho",earthquake,1.1,1.8,0.034,116,reviewed,us,us
+2018-11-13T01:04:39.570Z,42.6523333,-111.4718333,-3.39,2.04,ml,11,138,0.1911,0.17,uu,uu60304237,2018-11-13T21:35:24.373Z,"10 km E of Soda Springs, Idaho",earthquake,0.54,1.22,0.201,3,reviewed,uu,uu
+2018-11-12T23:52:23.250Z,42.653,-111.4862,5,3.2,ml,,140,0.196,0.3,us,us1000hr34,2019-01-30T18:36:20.040Z,"9 km E of Soda Springs, Idaho",earthquake,0.8,1.9,0.037,96,reviewed,us,us
+2018-11-12T22:38:55.870Z,42.6186667,-111.1495,-3.41,2.29,ml,12,137,0.1511,0.19,uu,uu60304212,2018-11-13T19:50:55.490Z,"15 km WSW of Fairview, Wyoming",earthquake,0.78,1.24,0.263,4,reviewed,uu,uu
+2018-10-24T17:50:01.750Z,42.5863333,-111.1405,9.93,2.06,ml,10,178,0.1814,0.12,uu,uu60302267,2018-10-26T15:33:40.205Z,"17 km SW of Fairview, Wyoming",earthquake,0.92,2.15,0.307,4,reviewed,uu,uu
+2018-10-23T13:49:47.380Z,42.5328333,-111.4586667,3.04,2.23,ml,24,118,0.08663,0.25,uu,uu60302087,2018-10-23T16:19:38.930Z,"9 km NW of Georgetown, Idaho",earthquake,0.57,0.98,0.262,8,reviewed,uu,uu
+2018-10-18T17:27:21.920Z,42.6133333,-111.4218333,-0.46,2.01,ml,9,186,0.1419,0.21,uu,uu60301222,2018-10-18T19:32:48.980Z,"15 km NNW of Georgetown, Idaho",earthquake,1.04,2.77,0.098,4,reviewed,uu,uu
+2018-09-25T11:37:45.690Z,42.3398333,-111.3355,-0.42,2.05,ml,19,95,0.3888,0.24,uu,uu60297632,2018-09-25T15:58:00.370Z,"3 km WNW of Montpelier, Idaho",earthquake,0.57,1.89,0.118,7,reviewed,uu,uu
+2018-09-25T09:08:05.940Z,42.588,-111.4433333,2.65,2.33,ml,20,120,0.3089,0.25,uu,uu60297622,2018-09-25T16:00:06.240Z,"13 km NNW of Georgetown, Idaho",earthquake,0.72,5.6,0.162,7,reviewed,uu,uu
+2018-09-22T13:08:04.270Z,42.5803333,-111.1628333,2.85,2.36,ml,21,84,0.1906,0.26,uu,uu60297357,2018-09-24T15:34:27.540Z,"19 km SW of Fairview, Wyoming",earthquake,0.74,4.4,0.19,9,reviewed,uu,uu
+2018-09-22T11:40:19.400Z,42.651,-111.4466667,7.14,2.06,ml,20,125,0.2797,0.14,uu,uu60297352,2018-09-24T14:44:41.280Z,"12 km E of Soda Springs, Idaho",earthquake,0.47,1.2,0.219,4,reviewed,uu,uu
+2018-09-21T14:45:58.820Z,42.5973333,-111.4336667,1.9,2.25,ml,19,119,0.2977,0.17,uu,uu60297257,2018-09-21T20:26:56.140Z,"13 km NNW of Georgetown, Idaho",earthquake,0.6,5.14,0.151,7,reviewed,uu,uu
+2018-09-21T13:34:51.160Z,42.4308333,-111.5076667,11.02,3.21,ml,21,117,0.3743,0.17,uu,uu60297227,2018-11-27T15:52:01.040Z,"12 km WSW of Georgetown, Idaho",earthquake,0.43,0.66,0.107,24,reviewed,uu,uu
+2018-09-21T13:00:05.820Z,42.4355,-111.532,3.91,2.32,ml,19,120,0.3688,0.17,uu,uu60297217,2018-09-24T20:22:11.220Z,"14 km WSW of Georgetown, Idaho",earthquake,0.7,0.84,0.126,10,reviewed,uu,uu
+2018-09-21T10:06:29.750Z,42.432,-111.517,-0.11,2.25,ml,22,117,0.3716,0.25,uu,uu60297137,2018-09-21T22:42:24.410Z,"13 km WSW of Georgetown, Idaho",earthquake,0.65,2.57,0.138,10,reviewed,uu,uu
+2018-09-21T09:07:26.080Z,42.434,-111.5096667,6.61,2.49,ml,20,117,0.3762,0.21,uu,uu60297112,2018-11-27T15:52:01.040Z,"12 km WSW of Georgetown, Idaho",earthquake,0.62,0.73,0.099,13,reviewed,uu,uu
+2018-09-21T08:39:38.360Z,42.4528333,-111.5408333,8.11,2.6,ml,19,122,0.3808,0.2,uu,uu60016484,2018-11-27T15:52:01.040Z,"14 km WSW of Georgetown, Idaho",earthquake,0.71,1.04,0.102,14,reviewed,uu,uu
+2018-09-21T08:39:16.380Z,42.4438333,-111.5393333,6.48,2.03,ml,20,134,0.3734,0.21,uu,uu60297097,2018-09-21T19:42:44.670Z,"14 km WSW of Georgetown, Idaho",earthquake,0.78,0.63,0.295,5,reviewed,uu,uu
+2018-09-18T09:22:31.190Z,42.5869,-111.1523,6.23,3.3,ml,,53,0.182,0.61,us,us2000hgat,2018-11-27T15:51:58.040Z,"17 km SW of Fairview, Wyoming",earthquake,1.6,6.3,0.036,104,reviewed,us,us
+2018-09-08T21:22:23.560Z,42.6355,-111.4818,10.21,3,ml,,50,0.305,0.43,us,us2000hb70,2018-11-09T21:53:54.040Z,"10 km ESE of Soda Springs, Idaho",earthquake,2.1,11.2,0.046,62,reviewed,us,us
+2018-08-28T00:28:45.640Z,42.613,-111.4423333,1.5,2.12,ml,17,125,0.2945,0.14,uu,uu60294647,2018-08-28T14:47:45.940Z,"14 km ESE of Soda Springs, Idaho",earthquake,0.6,3.92,0.167,9,reviewed,uu,uu
+2018-08-24T21:39:41.510Z,42.5006667,-111.411,7.55,2.38,ml,12,152,0.3501,0.12,uu,uu60294427,2018-08-26T03:15:02.200Z,"3 km WNW of Georgetown, Idaho",earthquake,0.66,1.32,0.168,4,reviewed,uu,uu
+2018-08-23T19:43:18.330Z,42.7513,-111.5771,10,2.4,ml,,75,0.351,0.97,us,us1000gg94,2018-11-01T17:50:56.040Z,"11 km NNE of Soda Springs, Idaho",earthquake,3.6,2,0.062,34,reviewed,us,us
+2018-08-23T19:41:47.830Z,42.6805,-111.4214,6.68,2.6,ml,,47,0.251,0.92,us,us1000gg8d,2018-11-14T22:08:27.730Z,"15 km E of Soda Springs, Idaho",earthquake,2.5,3.8,0.044,69,reviewed,us,us
+2018-08-23T15:04:29.670Z,42.685,-111.4755,9.41,2.49,ml,10,197,0.2878,0.19,uu,uu60294272,2018-08-23T19:49:14.580Z,"11 km ENE of Soda Springs, Idaho",earthquake,1.35,1.93,0.284,4,reviewed,uu,uu
+2018-08-23T11:48:58.490Z,42.454,-111.4576667,-2.82,2.22,ml,11,124,0.4079,0.22,uu,uu60294262,2018-08-23T21:28:46.100Z,"7 km WSW of Georgetown, Idaho",earthquake,1.71,2.71,0.221,7,reviewed,uu,uu
+2018-08-22T16:22:23.510Z,42.6895,-111.4498,5,2.6,ml,,59,0.268,0.47,us,us1000gfge,2018-11-01T17:50:54.040Z,"13 km ENE of Soda Springs, Idaho",earthquake,1.1,2,0.051,50,reviewed,us,us
+2018-08-14T01:43:28.880Z,42.6106667,-111.431,8.94,2.12,ml,14,84,0.2887,0.22,uu,uu60292732,2018-08-14T18:06:11.280Z,"southern Idaho",earthquake,0.75,1.94,0.483,3,reviewed,uu,uu
+2018-08-12T01:04:18.520Z,42.6131667,-111.436,8.86,2.12,ml,18,125,0.2905,0.25,uu,uu60292577,2018-08-13T14:45:12.820Z,"14 km ESE of Soda Springs, Idaho",earthquake,0.81,1.95,0.128,6,reviewed,uu,uu
+2018-07-19T05:23:16.300Z,42.5521667,-111.4321667,7.58,2.13,ml,14,112,0.08855,0.11,uu,uu60289302,2018-07-19T19:02:26.200Z,"9 km NNW of Georgetown, Idaho",earthquake,0.59,1.1,0.198,9,reviewed,uu,uu
+2018-07-17T02:36:41.520Z,42.424,-111.5326667,13.66,2.7,ml,15,95,0.1318,0.09,uu,uu60289047,2018-10-04T14:15:29.040Z,"14 km WSW of Georgetown, Idaho",earthquake,0.48,0.61,0.142,2,reviewed,uu,uu
+2018-07-03T12:19:43.250Z,42.654,-111.4745,5,2.8,ml,,35,0.095,1.05,us,us2000fvth,2018-09-27T14:03:39.040Z,"10 km E of Soda Springs, Idaho",earthquake,1.9,2,0.037,98,reviewed,us,us
+2018-06-07T06:16:45.820Z,42.6483333,-111.4416667,-1.81,2.33,ml,18,98,0.1195,0.18,uu,uu60285037,2018-06-07T14:28:26.080Z,"13 km E of Soda Springs, Idaho",earthquake,0.4,1.1,0.11,12,reviewed,uu,uu
+2018-05-30T03:28:11.220Z,42.6666,-111.4583,5,3.3,ml,,50,0.107,0.72,us,us1000eef3,2018-08-28T16:28:33.040Z,"12 km E of Soda Springs, Idaho",earthquake,1.8,1.8,0.038,92,reviewed,us,us
+2018-05-14T15:10:10.780Z,42.62,-111.4768333,-1.96,2.01,ml,14,88,0.1002,0.16,uu,uu60281877,2018-05-14T17:25:38.820Z,"11 km ESE of Soda Springs, Idaho",earthquake,0.42,1.08,0.289,3,reviewed,uu,uu
+2018-05-10T06:08:51.460Z,42.6523333,-111.4058333,-2.23,2.26,ml,18,108,0.1457,0.14,uu,uu60280962,2018-05-10T14:56:04.590Z,"16 km E of Soda Springs, Idaho",earthquake,0.37,1.04,0.063,7,reviewed,uu,uu
+2018-05-09T12:01:54.360Z,42.6795,-111.4282,5.25,2.6,ml,,82,0.131,0.37,us,us1000e1ay,2018-08-08T15:19:47.040Z,"14 km E of Soda Springs, Idaho",earthquake,1.6,4.6,0.062,34,reviewed,us,us
+2018-05-04T19:07:34.790Z,42.6053333,-111.4286667,-1.26,2.03,ml,14,119,0.1358,0.21,uu,uu60280422,2018-05-07T21:17:46.140Z,"14 km NNW of Georgetown, Idaho",earthquake,0.71,1.96,0.186,2,reviewed,uu,uu
+2018-04-28T10:43:58.650Z,42.556,-111.4183333,5.8,2.24,ml,15,107,0.08712,0.18,uu,uu60279902,2018-04-29T20:41:30.220Z,"9 km NNW of Georgetown, Idaho",earthquake,0.47,0.87,0.173,2,reviewed,uu,uu
+2018-04-28T10:21:25.840Z,42.5631,-111.4335,5,2.9,ml,,54,0.098,0.37,us,us1000dtwp,2018-07-25T21:37:39.040Z,"10 km NNW of Georgetown, Idaho",earthquake,1.1,1.9,0.044,68,reviewed,us,us
+2018-04-27T14:38:20.550Z,42.6075,-111.4412,7.9,2.4,ml,,63,0.129,0.32,us,us1000dtcl,2018-07-25T21:37:24.040Z,"14 km ESE of Soda Springs, Idaho",earthquake,1,3,0.05,52,reviewed,us,us
+2018-04-24T22:46:54.820Z,42.558,-111.426,2.53,2.14,ml,12,103,0.09139,0.14,uu,uu60279522,2018-04-26T19:20:48.630Z,"9 km NNW of Georgetown, Idaho",earthquake,0.64,1.79,0.2,5,reviewed,uu,uu
+2018-04-24T21:33:50.380Z,42.5656,-111.4345,6.29,2.5,ml,,53,0.101,0.39,us,us1000drla,2018-07-25T21:36:30.040Z,"10 km NNW of Georgetown, Idaho",earthquake,1.4,6.4,0.06,37,reviewed,us,us
+2018-04-24T18:54:47.950Z,42.5605,-111.4153333,5.88,2.32,ml,20,109,0.09037,0.14,uu,uu60279457,2018-04-24T20:04:46.670Z,"9 km NNW of Georgetown, Idaho",earthquake,0.4,0.69,0.187,6,reviewed,uu,uu
+2018-04-19T23:00:19.740Z,42.6736667,-111.4565,8.47,2.21,ml,17,112,0.1095,0.25,uu,uu60279172,2018-04-20T17:49:03.320Z,"12 km E of Soda Springs, Idaho",earthquake,0.83,1.11,0.252,5,reviewed,uu,uu
+2018-04-18T18:23:09.490Z,42.5968333,-111.4276667,6.52,2.34,ml,14,106,0.1276,0.14,uu,uu60279027,2018-04-19T14:38:48.450Z,"13 km NNW of Georgetown, Idaho",earthquake,0.45,1.18,0.314,6,reviewed,uu,uu
+2018-04-16T15:43:02.920Z,42.5944,-111.5006,11.4,2.4,ml,,70,0.098,0.87,us,us2000e12z,2018-07-17T02:05:27.040Z,"10 km SE of Soda Springs, Idaho",earthquake,2.8,6.8,0.064,32,reviewed,us,us
+2018-04-12T15:33:21.570Z,42.5608333,-111.4068333,8.1,2.27,ml,18,114,0.08852,0.13,uu,uu60277887,2018-04-12T16:00:34.090Z,"9 km NNW of Georgetown, Idaho",earthquake,0.36,0.64,0.058,4,reviewed,uu,uu
+2018-04-10T06:46:56.180Z,42.5576667,-111.4191667,3.59,2.03,ml,19,107,0.08889,0.16,uu,uu60276977,2018-04-10T15:42:36.300Z,"9 km NNW of Georgetown, Idaho",earthquake,0.43,0.93,0.238,5,reviewed,uu,uu
+2018-04-10T05:54:17.730Z,42.5546667,-111.4153333,4.53,2.02,ml,17,116,0.085,0.11,uu,uu60276972,2018-04-10T15:22:30.360Z,"8 km NNW of Georgetown, Idaho",earthquake,0.48,0.73,0.224,4,reviewed,uu,uu
+2018-04-07T11:18:11.920Z,42.5811667,-111.4186667,7.84,2.09,ml,14,117,0.1106,0.15,uu,uu60276707,2018-04-08T23:12:30.240Z,"11 km NNW of Georgetown, Idaho",earthquake,0.87,1.46,0.045,2,reviewed,uu,uu
+2018-04-07T07:22:58.620Z,42.5828,-111.4384,8.23,3.4,ml,,56,0.117,0.37,us,us2000dvxy,2018-06-30T01:11:32.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.5,10.4,0.041,78,reviewed,us,us
+2018-03-26T17:28:55.030Z,42.6416667,-111.4478333,6.95,2.34,ml,16,85,0.1156,0.14,uu,uu60275327,2018-03-26T21:11:18.940Z,"12 km E of Soda Springs, Idaho",earthquake,0.36,0.85,0.166,4,reviewed,uu,uu
+2018-03-03T01:05:59.370Z,42.6587,-111.4938,10,2.5,ml,,72,0.08,0.43,us,us2000dbj5,2018-05-27T01:06:10.040Z,"9 km E of Soda Springs, Idaho",earthquake,2,1.9,0.052,48,reviewed,us,us
+2018-02-26T00:03:38.630Z,42.5974,-111.4645,5,2.5,ml,,71,0.118,0.5,us,us2000d7ve,2018-05-27T01:06:00.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,2.1,1.9,0.048,56,reviewed,us,us
+2018-02-22T08:49:42.700Z,42.5848,-111.4597,10,2.9,ml,,72,0.127,0.53,us,us2000d6fn,2018-05-22T02:00:22.040Z,"13 km NNW of Georgetown, Idaho",earthquake,1.3,2,0.077,22,reviewed,us,us
+2018-02-19T16:27:52.910Z,42.5721667,-111.4648333,1.05,2.06,ml,10,135,0.1187,0.1,uu,uu60271032,2018-02-20T19:24:02.580Z,"12 km NW of Georgetown, Idaho",earthquake,0.55,2.93,0.132,3,reviewed,uu,uu
+2018-02-17T14:28:12.390Z,42.5793333,-111.429,6.3,2.24,ml,11,104,0.1116,0.19,uu,uu60268792,2018-02-20T19:30:16.180Z,"11 km NNW of Georgetown, Idaho",earthquake,0.48,1.35,0.265,2,reviewed,uu,uu
+2018-02-16T00:36:01.980Z,42.6151667,-111.4451667,-3.32,2.39,ml,13,98,0.1493,0.28,uu,uu60268392,2018-02-16T19:38:24.720Z,"13 km ESE of Soda Springs, Idaho",earthquake,0.91,3.13,0.269,3,reviewed,uu,uu
+2018-02-08T19:04:29.390Z,42.5902,-111.5022,11.13,2.4,ml,,47,0.099,0.83,us,us2000cz0f,2018-05-03T22:15:04.040Z,"11 km SE of Soda Springs, Idaho",earthquake,2.9,9.4,0.042,76,reviewed,us,us
+2018-02-07T02:19:57.610Z,42.5453333,-111.4078333,1.59,2.15,ml,11,112,0.07425,0.13,uu,uu60267182,2018-02-07T16:42:10.760Z,"7 km NNW of Georgetown, Idaho",earthquake,0.56,1.52,0.013,2,reviewed,uu,uu
+2018-01-29T22:53:35.530Z,42.5676667,-111.4253333,5.86,2.32,ml,16,105,0.09987,0.15,uu,uu60266302,2018-01-29T23:32:40.841Z,"10 km NNW of Georgetown, Idaho",earthquake,0.42,1.16,0.109,4,reviewed,uu,uu
+2018-01-29T00:53:29.180Z,42.5698,-111.453,5,2.6,ml,,57,0.111,1.09,us,us2000cqt1,2018-04-25T01:39:34.040Z,"11 km NW of Georgetown, Idaho",earthquake,1.5,2,0.037,94,reviewed,us,us
+2018-01-28T23:36:12.660Z,42.5633333,-111.421,5.18,2.08,ml,13,107,0.09461,0.14,uu,uu60266257,2018-01-29T19:09:38.950Z,"9 km NNW of Georgetown, Idaho",earthquake,0.56,1.58,0.044,2,reviewed,uu,uu
+2018-01-28T08:28:19.820Z,42.5511667,-111.4515,6.88,2.25,ml,17,70,0.09604,0.17,uu,uu60266192,2018-01-29T15:50:36.850Z,"10 km NW of Georgetown, Idaho",earthquake,0.52,0.58,0.223,6,reviewed,uu,uu
+2018-01-27T01:41:06.790Z,42.5689,-111.4379,9.23,2.6,ml,,63,0.105,1.03,us,us2000cq83,2018-04-20T07:05:28.040Z,"11 km NNW of Georgetown, Idaho",earthquake,1.4,7.9,0.053,46,reviewed,us,us
+2018-01-26T18:50:22.190Z,42.5626667,-111.431,6.88,2.41,ml,15,102,0.09724,0.11,uu,uu60266047,2018-01-29T16:36:02.030Z,"10 km NNW of Georgetown, Idaho",earthquake,0.58,0.91,0.056,2,reviewed,uu,uu
+2018-01-26T05:40:25.640Z,42.5405,-111.3951,10,3.3,ml,,58,0.066,0.43,us,us2000cpmq,2018-04-20T07:05:25.040Z,"6 km NNW of Georgetown, Idaho",earthquake,1.9,1.9,0.055,44,reviewed,us,us
+2018-01-26T05:34:01.510Z,42.563,-111.4306667,5.11,2.03,ml,18,72,0.09742,0.2,uu,uu60266012,2018-01-26T21:13:49.790Z,"10 km NNW of Georgetown, Idaho",earthquake,0.55,1.03,0.113,3,reviewed,uu,uu
+2018-01-26T03:35:53.700Z,42.5618,-111.4591,10,3.1,ml,,53,0.107,0.76,us,us2000cpty,2018-04-20T07:05:24.040Z,"11 km NW of Georgetown, Idaho",earthquake,1.7,2,0.047,60,reviewed,us,us
+2018-01-26T03:32:08.570Z,42.5327,-111.3893,10,4.4,mwr,,41,0.057,0.73,us,us2000cpkg,2018-07-01T18:40:12.795Z,"5 km NNW of Georgetown, Idaho",earthquake,3.3,2,0.034,82,reviewed,us,us
+2018-01-19T17:33:04.280Z,42.5721667,-111.4246667,2.15,2.03,ml,9,106,0.1038,0.27,uu,uu60265442,2018-01-19T18:00:06.340Z,"10 km NNW of Georgetown, Idaho",earthquake,0.88,3.23,0.054,3,reviewed,uu,uu
+2018-01-16T05:00:26.420Z,42.591,-111.466,5.09,2,ml,,76,0.12,0.43,us,us2000cjup,2018-04-10T01:11:41.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.6,7.2,0.052,48,reviewed,us,us
+2018-01-10T17:58:43.860Z,42.6087,-111.4366,14.24,2.2,ml,,70,0.132,0.83,us,us1000c37q,2018-04-03T01:40:25.040Z,"14 km ESE of Soda Springs, Idaho",earthquake,1.4,8.6,0.048,56,reviewed,us,us
+2018-01-07T07:45:30.230Z,42.5793333,-111.4215,5.24,2.36,ml,13,108,0.1096,0.09,uu,uu60264482,2018-01-08T17:59:48.500Z,"11 km NNW of Georgetown, Idaho",earthquake,0.45,0.89,0.166,6,reviewed,uu,uu
+2018-01-04T18:46:03.530Z,42.6683333,-111.4211667,0.63,2.23,ml,11,116,0.1348,0.05,uu,uu60264062,2018-01-04T20:23:04.440Z,"15 km E of Soda Springs, Idaho",earthquake,0.43,1.61,0.212,3,reviewed,uu,uu
+2017-12-20T04:30:38.730Z,42.608,-111.4376,5,2,ml,,72,0.131,0.42,us,us1000btrk,2018-03-14T00:58:23.040Z,"14 km ESE of Soda Springs, Idaho",earthquake,0.8,2,0.055,44,reviewed,us,us
+2017-12-19T05:03:54.920Z,42.6548333,-111.4513333,0.57,2.09,ml,11,139,0.2813,0.27,uu,uu60262732,2017-12-19T16:31:37.200Z,"12 km E of Soda Springs, Idaho",earthquake,1.04,3.98,0.351,2,reviewed,uu,uu
+2017-12-18T10:09:43.560Z,42.5903,-111.4294,10,2.1,ml,,78,0.121,0.33,us,us2000c5jl,2018-03-14T00:58:22.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.1,2,0.055,44,reviewed,us,us
+2017-12-16T21:18:22.710Z,42.5782,-111.4314,9.48,2.5,ml,,63,0.111,0.47,us,us2000c5b0,2018-03-06T00:49:45.040Z,"southern Idaho",earthquake,3,8.5,0.056,42,reviewed,us,us
+2017-12-14T03:06:53.830Z,42.6056667,-111.4491667,4.55,2.31,ml,15,97,0.1246,0.2,uu,uu60262187,2017-12-14T17:54:01.940Z,"13 km ESE of Soda Springs, Idaho",earthquake,0.36,1.47,0.158,3,reviewed,uu,uu
+2017-12-14T00:51:09.250Z,42.5873333,-111.4333333,5.91,2.28,ml,12,133,0.3032,0.16,uu,uu60262182,2017-12-14T19:00:49.710Z,"12 km NNW of Georgetown, Idaho",earthquake,1.18,1.95,0.235,2,reviewed,uu,uu
+2017-12-13T15:52:36.540Z,42.5708333,-111.4236667,9.61,2.04,ml,12,137,0.1023,0.24,uu,uu60262112,2017-12-14T04:47:33.631Z,"10 km NNW of Georgetown, Idaho",earthquake,1.8,1.47,0.014,2,reviewed,uu,uu
+2017-12-13T15:51:01.370Z,42.5859,-111.4245,7.22,2.3,ml,,78,0.116,0.31,us,us2000c3w9,2018-03-06T00:49:39.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.1,2.5,0.062,34,reviewed,us,us
+2017-12-03T01:04:15.050Z,42.5868333,-111.4181667,4.07,2,ml,19,135,0.2946,0.18,uu,uu60260682,2017-12-03T23:15:17.280Z,"12 km NNW of Georgetown, Idaho",earthquake,0.85,4.71,0.049,2,reviewed,uu,uu
+2017-11-30T20:53:51.730Z,42.5934,-111.4042,5.7,3.2,ml,,40,0.159,0.6,us,us1000bjjy,2018-02-20T09:06:09.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.5,7.1,0.037,98,reviewed,us,us
+2017-11-27T18:07:42.220Z,42.6121667,-111.4313333,11.22,2.03,ml,13,83,0.1344,0.13,uu,uu60259847,2017-11-27T20:18:21.390Z,"14 km ESE of Soda Springs, Idaho",earthquake,0.45,1.25,0.174,2,reviewed,uu,uu
+2017-11-24T21:51:17.170Z,42.5856667,-111.4536667,-0.33,2.33,ml,14,83,0.1313,0.15,uu,uu60259247,2017-11-27T20:51:55.800Z,"13 km NNW of Georgetown, Idaho",earthquake,0.5,3.04,0.11,4,reviewed,uu,uu
+2017-11-22T16:12:10.710Z,42.6195,-111.4581,10.51,2.1,ml,,70,0.113,0.72,us,us2000bsuw,2018-02-14T02:01:10.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,1.9,8,0.06,36,reviewed,us,us
+2017-11-22T06:41:47.490Z,42.5785,-111.4185,6.38,2.16,ml,13,88,0.1572,0.14,uu,uu60258782,2017-11-22T16:34:26.830Z,"southern Idaho",earthquake,0.42,2.39,0.006,2,reviewed,uu,uu
+2017-11-22T03:38:06.420Z,42.6368333,-111.4491667,2.52,2.08,ml,18,92,0.1154,0.18,uu,uu60258767,2017-11-22T19:45:44.900Z,"12 km E of Soda Springs, Idaho",earthquake,0.5,1.58,0.313,3,reviewed,uu,uu
+2017-11-20T05:40:26.250Z,42.615,-111.461,8.87,2.41,ml,17,90,0.1129,0.21,uu,uu60258497,2017-11-20T17:31:07.550Z,"12 km ESE of Soda Springs, Idaho",earthquake,0.6,1.02,0.183,3,reviewed,uu,uu
+2017-11-19T10:03:40.360Z,42.6481,-111.4523,8.32,2.3,ml,,95,0.111,0.31,us,us2000brca,2018-02-14T02:01:03.040Z,"12 km E of Soda Springs, Idaho",earthquake,1.7,9.5,0.057,40,reviewed,us,us
+2017-11-18T01:28:22.580Z,42.6916667,-111.4808333,-2.3,2.03,ml,14,128,0.09678,0.17,uu,uu60258357,2017-11-20T18:53:25.200Z,"10 km ENE of Soda Springs, Idaho",earthquake,0.66,2.09,0.303,3,reviewed,uu,uu
+2017-11-17T02:18:04.600Z,42.6141667,-111.4521667,8.28,2.44,ml,19,85,0.1193,0.26,uu,uu60257977,2017-11-17T16:17:00.990Z,"13 km ESE of Soda Springs, Idaho",earthquake,0.74,1.31,0.154,6,reviewed,uu,uu
+2017-11-16T09:17:12.660Z,42.61,-111.4476,6.34,2.9,ml,,81,0.124,0.2,us,us2000bpk6,2018-02-06T02:45:37.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.7,3.7,0.041,79,reviewed,us,us
+2017-11-15T10:45:01.250Z,42.5621667,-111.4235,5.87,2.4,ml,23,89,0.1629,0.11,uu,uu60257672,2017-11-15T16:09:15.050Z,"9 km NNW of Georgetown, Idaho",earthquake,0.38,0.69,0.135,8,reviewed,uu,uu
+2017-11-11T18:00:22.240Z,42.5106667,-111.4015,4.6,2.1,ml,15,95,0.2086,0.18,uu,uu60257177,2017-11-13T17:18:13.000Z,"4 km NW of Georgetown, Idaho",earthquake,0.52,1.4,0.168,3,reviewed,uu,uu
+2017-11-11T08:07:39.500Z,42.6441667,-111.4526667,6.7,2.14,ml,17,77,0.1118,0.2,uu,uu60257142,2017-11-13T17:04:16.760Z,"12 km E of Soda Springs, Idaho",earthquake,0.52,1.24,0.137,4,reviewed,uu,uu
+2017-11-07T16:11:29.150Z,42.5853333,-111.4136667,0.99,2.2,ml,17,89,0.2928,0.19,uu,uu60256652,2017-11-07T17:08:30.560Z,"11 km NNW of Georgetown, Idaho",earthquake,0.61,6.72,0.189,4,reviewed,uu,uu
+2017-11-06T02:54:14.860Z,42.5845,-111.429,6.01,2.39,ml,24,60,0.1475,0.16,uu,uu60256512,2017-11-06T15:34:04.000Z,"12 km NNW of Georgetown, Idaho",earthquake,0.41,1.45,0.17,3,reviewed,uu,uu
+2017-11-05T19:58:11.200Z,42.5891,-111.4262,9.35,3.4,ml,,63,0.147,0.54,us,us2000bixr,2018-01-31T03:04:39.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.5,8.6,0.041,80,reviewed,us,us
+2017-11-04T17:16:28.080Z,42.5831667,-111.4251667,10.58,2.06,ml,18,87,0.3009,0.27,uu,uu60256297,2017-11-06T18:23:45.670Z,"12 km NNW of Georgetown, Idaho",earthquake,0.93,1.37,0.121,4,reviewed,uu,uu
+2017-11-03T22:05:51.430Z,42.617,-111.4408333,0.91,2.06,ml,16,81,0.1262,0.13,uu,uu60256107,2017-11-06T18:15:28.150Z,"14 km ESE of Soda Springs, Idaho",earthquake,0.39,2.26,0.256,3,reviewed,uu,uu
+2017-11-03T10:43:15.270Z,42.6111,-111.4293,8.56,4,mwr,,71,0.136,0.29,us,us2000bhn0,2018-01-24T01:25:07.040Z,"15 km NNW of Georgetown, Idaho",earthquake,1.1,6.5,0.034,84,reviewed,us,us
+2017-11-03T10:40:55.950Z,42.6263333,-111.4515,2.58,2.37,ml,25,72,0.116,0.18,uu,uu60256022,2017-11-03T15:18:00.830Z,"12 km ESE of Soda Springs, Idaho",earthquake,0.39,3.26,0.193,11,reviewed,uu,uu
+2017-11-01T22:05:22.760Z,42.6228,-111.4909,10.76,2.5,ml,,80,0.089,0.57,us,us2000bf7f,2018-01-24T01:25:04.040Z,"9 km ESE of Soda Springs, Idaho",earthquake,1.7,4.9,0.066,30,reviewed,us,us
+2017-11-01T21:19:44.730Z,42.61,-111.4657,9.16,3,ml,,82,0.111,0.41,us,us2000bf5a,2018-01-24T01:25:04.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,2.2,9.2,0.048,58,reviewed,us,us
+2017-11-01T17:24:26.150Z,42.5952,-111.4315,6.98,3,ml,,65,0.14,0.21,us,us1000b003,2018-01-24T01:25:04.040Z,"13 km NNW of Georgetown, Idaho",earthquake,0.9,5.5,0.036,100,reviewed,us,us
+2017-10-29T21:09:41.470Z,42.6598,-111.4721,10,2.2,ml,,72,0.096,0.7,us,us1000aydh,2018-01-24T01:24:58.040Z,"10 km E of Soda Springs, Idaho",earthquake,2.6,2,0.05,52,reviewed,us,us
+2017-10-29T19:35:50.050Z,42.5462,-111.4097,10,2.5,ml,,92,0.18,0.42,us,us1000ayka,2018-01-24T01:24:58.040Z,"7 km NNW of Georgetown, Idaho",earthquake,2,2,0.042,76,reviewed,us,us
+2017-10-24T12:30:32.080Z,42.596,-111.4491,4.37,2.8,ml,,39,0.01,0.27,us,us1000awa1,2018-01-17T21:50:32.040Z,"14 km NNW of Georgetown, Idaho",earthquake,0.8,1.5,0.035,108,reviewed,us,us
+2017-10-20T21:17:42.230Z,42.5365,-111.4243,8.64,2.7,ml,,53,0.052,0.46,us,us1000aux8,2018-01-11T02:22:10.040Z,"7 km NW of Georgetown, Idaho",earthquake,1.2,2,0.042,74,reviewed,us,us
+2017-10-20T16:38:42.520Z,42.5585,-111.4045,8.76,2.9,ml,,43,0.044,0.46,us,us1000auql,2018-01-11T02:22:09.040Z,"8 km NNW of Georgetown, Idaho",earthquake,1.5,2.8,0.043,70,reviewed,us,us
+2017-10-20T08:15:34.850Z,42.5533333,-111.4223333,7.72,2.12,ml,25,50,0.03866,0.15,uu,uu60254092,2017-10-20T19:07:04.710Z,"8 km NNW of Georgetown, Idaho",earthquake,0.28,0.39,0.129,5,reviewed,uu,uu
+2017-10-19T20:39:10.690Z,42.5879,-111.4836,12.91,3,ml,,26,0.111,0.91,us,us1000aubi,2018-01-11T02:22:08.040Z,"12 km SE of Soda Springs, Idaho",earthquake,2.1,8.8,0.035,108,reviewed,us,us
+2017-10-19T20:30:10.440Z,42.5714,-111.4328,6.99,3.7,mwr,,41,0.019,0.32,us,us1000aubf,2018-01-11T02:22:08.040Z,"11 km NNW of Georgetown, Idaho",earthquake,1.1,0.6,,12,reviewed,us,slm
+2017-10-18T11:57:02.230Z,42.6154,-111.4616,8.51,2.6,ml,,49,0.027,0.4,us,us1000atna,2018-01-11T02:22:06.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,1.3,6.7,0.06,36,reviewed,us,us
+2017-10-18T11:39:52.860Z,42.6155,-111.4628,5.3,2.5,ml,,50,0.027,0.36,us,us1000atn4,2018-01-11T02:22:06.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,0.8,1.6,0.06,36,reviewed,us,us
+2017-10-17T20:07:18.940Z,42.6406,-111.4515,5.98,2.4,ml,,52,0.006,0.27,us,us1000atg6,2018-01-11T02:22:05.040Z,"12 km E of Soda Springs, Idaho",earthquake,1.2,0.9,0.038,92,reviewed,us,us
+2017-10-17T18:12:43.770Z,42.5548,-111.4232,7.18,2.7,ml,,43,0.037,0.34,us,us1000atez,2018-01-11T02:22:05.040Z,"9 km NNW of Georgetown, Idaho",earthquake,1.1,0.8,0.034,116,reviewed,us,us
+2017-10-17T12:28:46.800Z,42.5546667,-111.4195,9.21,2.21,ml,23,47,0.03882,0.11,uu,uu60253607,2017-10-17T15:29:16.860Z,"8 km NNW of Georgetown, Idaho",earthquake,0.25,0.37,0.113,8,reviewed,uu,uu
+2017-10-16T23:01:21.070Z,42.5457,-111.4217,9.04,2.9,ml,,57,0.045,0.74,us,us1000ataz,2021-02-19T02:22:39.074Z,"8 km NNW of Georgetown, Idaho",earthquake,1.3,3.3,0.049,54,reviewed,us,us
+2017-10-16T23:01:05.110Z,42.5533,-111.4253,9.78,2.9,ml,,43,0.037,0.45,us,us1000at4t,2018-01-11T02:22:04.040Z,"9 km NNW of Georgetown, Idaho",earthquake,0.9,2.7,0.037,94,reviewed,us,us
+2017-10-16T19:33:04.840Z,42.5655,-111.413,7.2,2.18,ml,26,47,0.03483,0.19,uu,uu60253437,2017-10-16T21:12:01.270Z,"9 km NNW of Georgetown, Idaho",earthquake,0.35,0.64,0.188,5,reviewed,uu,uu
+2017-10-16T11:31:01.640Z,42.6176667,-111.4586667,1.51,2.22,ml,24,45,0.02522,0.18,uu,uu60253407,2017-10-17T03:38:30.555Z,"12 km ESE of Soda Springs, Idaho",earthquake,0.29,0.46,0.247,5,reviewed,uu,uu
+2017-10-16T04:54:10.040Z,42.557,-111.4121,7.16,2.7,ml,,43,0.04,0.27,us,us1000asmv,2018-01-11T02:22:02.040Z,"8 km NNW of Georgetown, Idaho",earthquake,0.9,1.5,0.043,70,reviewed,us,us
+2017-10-16T03:22:49.080Z,42.5601,-111.4189,8.19,2.6,ml,,43,0.035,0.3,us,us1000asmq,2018-01-11T02:22:02.040Z,"9 km NNW of Georgetown, Idaho",earthquake,1,3.5,0.042,76,reviewed,us,us
+2017-10-16T03:16:20.180Z,42.5643,-111.4213,8.9,2.7,ml,,42,0.03,0.38,us,us1000asmn,2018-01-11T02:22:02.040Z,"10 km NNW of Georgetown, Idaho",earthquake,0.9,4.9,0.046,62,reviewed,us,us
+2017-10-16T01:41:29.560Z,42.5624,-111.4079,9.21,2.8,ml,,43,0.039,0.26,us,us1000asma,2018-01-11T02:22:02.040Z,"9 km NNW of Georgetown, Idaho",earthquake,1,3.2,0.043,72,reviewed,us,us
+2017-10-16T01:35:34.300Z,42.5533,-111.4166,9.08,3.6,mwr,,43,0.041,0.37,us,us1000asm5,2018-01-11T02:22:02.040Z,"8 km NNW of Georgetown, Idaho",earthquake,0.7,3.5,0.042,55,reviewed,us,us
+2017-10-15T17:35:01.040Z,42.5513333,-111.4161667,7.24,2.21,ml,29,47,0.04296,0.15,uu,uu60253192,2017-10-17T19:05:07.460Z,"8 km NNW of Georgetown, Idaho",earthquake,0.25,0.4,0.314,5,reviewed,uu,uu
+2017-10-15T16:39:20.180Z,42.5596667,-111.4101667,8.18,2.06,ml,17,57,0.04003,0.1,uu,uu60253177,2017-10-16T21:56:17.310Z,"9 km NNW of Georgetown, Idaho",earthquake,0.26,0.44,0.129,6,reviewed,uu,uu
+2017-10-15T16:34:39.790Z,42.5638333,-111.4096667,6.5,2.11,ml,13,61,0.0378,0.18,uu,uu60253172,2017-10-17T18:14:03.850Z,"9 km NNW of Georgetown, Idaho",earthquake,0.51,0.73,0.146,6,reviewed,uu,uu
+2017-10-15T15:24:39.840Z,42.5549,-111.4182,7.82,2.4,ml,,57,0.039,0.3,us,us1000asij,2018-01-11T02:22:02.040Z,"8 km NNW of Georgetown, Idaho",earthquake,1,1.3,0.047,60,reviewed,us,us
+2017-10-15T13:26:37.490Z,42.558,-111.4198,7.42,2.5,ml,,47,0.089,0.26,us,us1000ashx,2018-01-11T02:22:02.040Z,"9 km NNW of Georgetown, Idaho",earthquake,1.2,1.9,0.051,50,reviewed,uu,us
+2017-10-15T11:33:56.030Z,42.613,-111.4679,6.52,3.2,ml,,50,0.03,0.22,us,us1000ash9,2018-01-11T02:22:02.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,1.1,0.7,0.047,60,reviewed,us,us
+2017-10-15T07:48:38.860Z,42.5976667,-111.4288333,5.38,2.22,md,11,76,0.02099,0.11,uu,uu60013359,2017-10-16T15:44:55.930Z,"13 km NNW of Georgetown, Idaho",earthquake,0.38,0.45,0.294,3,reviewed,uu,uu
+2017-10-15T07:48:20.520Z,42.5953333,-111.4248333,5.68,2.35,ml,26,46,0.0223,0.17,uu,uu60253102,2017-10-16T15:37:11.670Z,"13 km NNW of Georgetown, Idaho",earthquake,0.31,0.59,0.263,10,reviewed,uu,uu
+2017-10-14T18:58:00.620Z,42.5548333,-111.4111667,8.23,2.19,ml,23,57,0.04276,0.14,uu,uu60253012,2017-10-16T21:10:26.240Z,"8 km NNW of Georgetown, Idaho",earthquake,0.29,0.39,0.179,6,reviewed,uu,uu
+2017-10-14T10:28:43.180Z,42.5503333,-111.4205,7.95,2.24,ml,29,47,0.0419,0.13,uu,uu60252982,2017-10-16T20:44:05.920Z,"8 km NNW of Georgetown, Idaho",earthquake,0.22,0.48,0.132,6,reviewed,uu,uu
+2017-10-13T14:05:55.490Z,42.5746667,-111.4263333,7.95,2.06,ml,20,55,0.0216,0.12,uu,uu60252812,2017-10-13T14:39:29.340Z,"11 km NNW of Georgetown, Idaho",earthquake,0.31,0.33,0.082,3,reviewed,uu,uu
+2017-10-13T05:23:32.290Z,42.5571,-111.4224,10,2.3,ml,,43,0.035,0.29,us,us1000ar9n,2018-01-09T02:14:58.040Z,"9 km NNW of Georgetown, Idaho",earthquake,1.5,1.7,0.062,34,reviewed,us,us
+2017-10-13T05:18:43.920Z,42.5545,-111.4158333,8.3,2.42,ml,29,48,0.04066,0.16,uu,uu60252767,2018-02-13T15:32:59.510Z,"8 km NNW of Georgetown, Idaho",earthquake,0.29,0.39,0.153,9,reviewed,uu,uu
+2017-10-12T18:45:43.620Z,42.5538333,-111.4145,7.98,2.21,ml,22,57,0.04181,0.11,uu,uu60252667,2017-10-13T14:44:39.770Z,"8 km NNW of Georgetown, Idaho",earthquake,0.3,0.42,0.254,5,reviewed,uu,uu
+2017-10-12T14:29:52.410Z,42.5565,-111.4163333,8.97,2.2,ml,20,47,0.03892,0.15,uu,uu60252612,2017-10-13T16:33:42.600Z,"9 km NNW of Georgetown, Idaho",earthquake,0.31,0.56,0.256,6,reviewed,uu,uu
+2017-10-12T05:39:58.810Z,42.5523333,-111.4165,6.74,2.06,ml,28,47,0.04202,0.12,uu,uu60252547,2017-10-12T18:51:37.610Z,"8 km NNW of Georgetown, Idaho",earthquake,0.26,0.38,0.172,3,reviewed,uu,uu
+2017-10-12T05:32:07.660Z,42.5596,-111.4227,8.22,3.1,ml,,42,0.033,0.26,us,us1000aqlh,2018-01-09T02:14:56.040Z,"9 km NNW of Georgetown, Idaho",earthquake,0.7,2.9,0.056,42,reviewed,us,us
+2017-10-12T03:05:16.720Z,42.619,-111.4647,10.02,2.4,ml,,49,0.024,0.49,us,us1000aqkx,2018-01-09T02:14:56.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,1.6,7.3,0.045,64,reviewed,us,us
+2017-10-11T22:45:34.930Z,42.5621667,-111.4121667,8.18,2.19,ml,18,48,0.0373,0.12,uu,uu60252452,2017-10-12T17:09:56.930Z,"9 km NNW of Georgetown, Idaho",earthquake,0.29,0.39,0.212,5,reviewed,uu,uu
+2017-10-11T16:55:19.000Z,42.5587,-111.4216,5.84,2.5,ml,,43,0.088,0.34,us,us1000aq8x,2018-01-09T02:14:56.040Z,"9 km NNW of Georgetown, Idaho",earthquake,0.6,2,0.045,66,reviewed,us,us
+2017-10-11T11:09:00.920Z,42.632,-111.4156667,1.08,2.19,ml,26,49,0.03378,0.15,uu,uu60252322,2017-10-11T17:54:04.160Z,"15 km E of Soda Springs, Idaho",earthquake,0.24,0.34,0.194,4,reviewed,uu,uu
+2017-10-11T10:17:29.670Z,42.5885,-111.439,4.41,2.04,ml,23,45,0.009979,0.18,uu,uu60252302,2017-10-11T16:48:19.820Z,"13 km NNW of Georgetown, Idaho",earthquake,0.34,0.44,0.137,3,reviewed,uu,uu
+2017-10-11T04:36:38.090Z,42.5709,-111.4382,10.89,2.5,ml,,29,0.073,0.72,us,us1000aq29,2018-01-09T02:14:55.040Z,"11 km NNW of Georgetown, Idaho",earthquake,2.4,10.4,0.041,80,reviewed,us,us
+2017-10-11T01:56:21.720Z,42.5536667,-111.419,8.47,2.13,ml,28,47,0.03983,0.11,uu,uu60252147,2017-10-11T15:59:43.300Z,"8 km NNW of Georgetown, Idaho",earthquake,0.22,0.33,0.149,6,reviewed,uu,uu
+2017-10-11T01:53:54.520Z,42.5621,-111.4245,6.36,2.8,ml,,51,0.03,0.3,us,us1000aq13,2018-01-09T02:14:55.040Z,"9 km NNW of Georgetown, Idaho",earthquake,0.9,1.5,0.05,52,reviewed,us,us
+2017-10-11T01:52:18.770Z,42.5531667,-111.4161667,8.02,2.16,ml,27,47,0.04152,0.16,uu,uu60252137,2017-10-11T15:53:00.690Z,"8 km NNW of Georgetown, Idaho",earthquake,0.3,0.51,0.138,7,reviewed,uu,uu
+2017-10-11T01:42:10.590Z,42.5501667,-111.4168333,8.02,2.09,ml,19,65,0.04359,0.1,uu,uu60252122,2017-10-11T18:41:06.050Z,"8 km NNW of Georgetown, Idaho",earthquake,0.29,0.38,0.204,4,reviewed,uu,uu
+2017-10-11T01:25:51.850Z,42.5577,-111.4155,8.39,2.9,ml,,68,0.038,0.51,us,us2000bsvn,2018-01-09T02:14:55.040Z,"9 km NNW of Georgetown, Idaho",earthquake,1.1,3.3,0.085,18,reviewed,us,us
+2017-10-11T01:24:25.590Z,42.5462,-111.4181,10,4.1,mwr,,44,0.046,0.67,us,us1000aq0r,2018-01-09T02:14:55.040Z,"8 km NNW of Georgetown, Idaho",earthquake,1.1,1.6,0.032,91,reviewed,us,us
+2017-10-10T10:40:33.950Z,42.6183333,-111.3601667,-0.87,2.07,ml,17,62,0.07528,0.14,uu,uu60251977,2017-10-10T17:48:28.470Z,"15 km N of Georgetown, Idaho",earthquake,0.58,1.01,0.229,7,reviewed,uu,uu
+2017-10-10T10:04:00.840Z,42.6508333,-111.4445,2.42,2.19,ml,21,74,0.01332,0.12,uu,uu60251967,2017-10-10T17:44:51.200Z,"13 km E of Soda Springs, Idaho",earthquake,0.25,0.36,0.069,5,reviewed,uu,uu
+2017-10-08T20:09:55.480Z,42.5934,-111.4187,6.58,2.3,ml,,40,0.025,0.2,us,us2000b2uv,2018-01-09T02:14:51.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.5,5.3,0.059,38,reviewed,us,us
+2017-10-08T18:40:56.630Z,42.6068,-111.4527,4.21,2.3,ml,,58,0.021,0.5,us,us2000b2tz,2018-01-09T02:14:51.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.5,1.8,0.048,58,reviewed,us,us
+2017-10-08T15:09:19.380Z,42.5911,-111.4469,5.91,3,ml,,51,0.006,0.22,us,us2000b2t5,2018-01-09T02:14:51.040Z,"13 km NNW of Georgetown, Idaho",earthquake,1.3,1.6,0.05,52,reviewed,us,us
+2017-10-08T15:06:07.770Z,42.5958,-111.4474,5.75,3.2,ml,,52,0.011,0.39,us,us2000b2t4,2018-01-09T02:14:51.040Z,"14 km NNW of Georgetown, Idaho",earthquake,1.2,1.1,0.051,50,reviewed,us,us
+2017-10-07T14:59:43.930Z,42.604,-111.4318333,5.55,2.3,ml,29,45,0.0238,0.2,uu,uu60251622,2017-10-09T22:06:06.960Z,"14 km NNW of Georgetown, Idaho",earthquake,0.37,0.67,0.136,3,reviewed,uu,uu
+2017-10-06T18:21:36.180Z,42.6331667,-111.457,4.91,2.18,ml,18,62,0.009839,0.14,uu,uu60251447,2017-10-06T21:33:35.900Z,"12 km E of Soda Springs, Idaho",earthquake,0.31,0.37,0.25,6,reviewed,uu,uu
+2017-10-06T16:45:18.150Z,42.6026667,-111.4603333,6.75,2.1,ml,21,63,0.01846,0.12,uu,uu60251412,2017-10-06T20:27:15.510Z,"13 km ESE of Soda Springs, Idaho",earthquake,0.29,0.36,0.095,3,reviewed,uu,uu
+2017-10-06T06:03:24.120Z,42.6603,-111.4556,7.5,2.7,ml,,97,0.017,0.22,us,us2000b1um,2018-01-03T01:54:47.040Z,"12 km E of Soda Springs, Idaho",earthquake,0.7,1.7,0.064,32,reviewed,us,us
+2017-10-05T21:32:26.160Z,42.5493,-111.43,6.5,2.5,ml,,43,0.039,0.26,us,us2000b1px,2018-01-03T01:54:47.040Z,"8 km NNW of Georgetown, Idaho",earthquake,0.8,1.4,0.038,90,reviewed,us,us
+2017-10-05T16:37:24.340Z,42.6003333,-111.4131667,6.09,2.09,ml,16,68,0.03224,0.15,uu,uu60251262,2017-10-05T21:17:24.340Z,"13 km NNW of Georgetown, Idaho",earthquake,0.35,0.69,0.121,3,reviewed,uu,uu
+2017-10-05T03:59:38.070Z,42.5946667,-111.4228333,6.12,2.24,ml,26,46,0.02335,0.14,uu,uu60251192,2017-11-22T00:20:15.640Z,"13 km NNW of Georgetown, Idaho",earthquake,0.26,0.47,0.247,3,reviewed,uu,uu
+2017-10-05T03:01:01.010Z,42.5495,-111.4151667,8.84,2.38,ml,27,47,0.04486,0.15,uu,uu60251182,2017-10-05T14:34:17.480Z,"8 km NNW of Georgetown, Idaho",earthquake,0.29,0.4,0.125,6,reviewed,uu,uu
+2017-10-04T18:04:36.970Z,42.623,-111.4386667,-0.06,2.02,ml,14,84,0.02491,0.13,uu,uu60251107,2017-10-04T19:12:39.370Z,"14 km ESE of Soda Springs, Idaho",earthquake,0.39,0.38,0.145,4,reviewed,uu,uu
+2017-10-04T10:08:39.760Z,42.55,-111.4143333,7.34,2.09,ml,21,53,0.04484,0.16,uu,uu60251097,2017-10-04T17:52:56.730Z,"8 km NNW of Georgetown, Idaho",earthquake,0.31,0.47,0.163,8,reviewed,uu,uu
+2017-10-03T21:05:24.100Z,42.5213333,-111.399,8.16,2.05,ml,19,49,0.04898,0.14,uu,uu60251057,2017-10-04T19:23:30.990Z,"4 km NNW of Georgetown, Idaho",earthquake,0.36,0.29,0.247,6,reviewed,uu,uu
+2017-10-02T15:20:21.760Z,42.5463333,-111.4145,7.87,2.05,ml,18,47,0.04771,0.16,uu,uu60250907,2017-10-02T18:12:40.640Z,"7 km NNW of Georgetown, Idaho",earthquake,0.32,0.55,0.124,6,reviewed,uu,uu
+2017-10-02T01:29:02.490Z,42.5155,-111.4158,6.95,2.6,ml,,51,0.051,0.34,us,us2000axnx,2018-01-03T01:54:42.040Z,"5 km NW of Georgetown, Idaho",earthquake,1,2.1,0.042,76,reviewed,us,us
+2017-10-01T14:05:38.590Z,42.6503333,-111.4478333,2.93,2.06,ml,20,77,0.01109,0.22,uu,uu60250707,2017-10-03T19:43:57.620Z,"12 km E of Soda Springs, Idaho",earthquake,0.51,0.73,0.277,2,reviewed,uu,uu
+2017-10-01T04:57:20.820Z,42.5258333,-111.126,1.24,2.07,ml,21,64,0.1732,0.15,uu,uu60250612,2017-11-28T19:46:26.080Z,"20 km WSW of Smoot, Wyoming",earthquake,0.24,1.75,0.268,7,reviewed,uu,uu
+2017-09-30T23:43:18.100Z,42.6636667,-111.4591667,2.14,2.38,ml,24,74,0.02076,0.18,uu,uu60250512,2017-10-03T19:37:45.650Z,"11 km E of Soda Springs, Idaho",earthquake,0.28,0.39,0.216,5,reviewed,uu,uu
+2017-09-30T23:39:36.640Z,42.6553,-111.4596,5.89,3.2,ml,,55,0.012,0.27,us,us2000axbj,2017-12-22T21:56:31.040Z,"11 km E of Soda Springs, Idaho",earthquake,1.1,2.8,0.062,34,reviewed,us,us
+2017-09-30T23:39:05.440Z,42.6653,-111.4648,4.55,2.9,ml,,57,0.022,0.22,us,us2000axba,2017-12-22T21:56:31.040Z,"11 km E of Soda Springs, Idaho",earthquake,1.2,1.8,0.053,46,reviewed,us,us
+2017-09-30T23:35:57.920Z,42.6581,-111.4698,5.38,2.7,ml,,56,0.017,0.22,us,us2000axb6,2017-12-22T21:56:31.040Z,"11 km E of Soda Springs, Idaho",earthquake,1.3,1.7,0.045,66,reviewed,us,us
+2017-09-30T23:20:33.590Z,42.6596667,-111.4628333,1.86,2.28,ml,19,86,0.01699,0.17,uu,uu60250487,2017-12-11T21:56:14.340Z,"11 km E of Soda Springs, Idaho",earthquake,0.33,0.43,0.238,3,reviewed,uu,uu
+2017-09-30T23:19:34.100Z,42.66,-111.4571667,2.69,2.12,ml,25,54,0.01714,0.19,uu,uu60250482,2017-12-04T22:36:56.470Z,"12 km E of Soda Springs, Idaho",earthquake,0.33,0.46,0.192,3,reviewed,uu,uu
+2017-09-30T22:29:59.500Z,42.661,-111.4515,2.56,2.43,ml,19,54,0.01892,0.13,uu,uu60250442,2017-10-05T19:51:27.480Z,"12 km E of Soda Springs, Idaho",earthquake,0.25,0.36,0.329,2,reviewed,uu,uu
+2017-09-30T18:54:42.590Z,42.6654,-111.4608,3.69,2.5,ml,,46,0.022,0.48,us,us2000ax8b,2017-12-22T21:56:30.040Z,"11 km E of Soda Springs, Idaho",earthquake,0.9,3.6,0.035,107,reviewed,us,us
+2017-09-28T16:17:58.200Z,42.5816,-111.436,7.87,2.7,ml,,40,0.012,0.41,us,us2000avyw,2017-12-22T21:56:27.040Z,"12 km NNW of Georgetown, Idaho",earthquake,0.8,1.7,0.036,100,reviewed,us,us
+2017-09-28T12:49:24.430Z,42.5846667,-111.4401667,2.36,2.05,ml,20,45,0.008615,0.15,uu,uu60249937,2017-11-22T00:20:12.680Z,"12 km NNW of Georgetown, Idaho",earthquake,0.26,0.33,0.186,4,reviewed,uu,uu
+2017-09-26T15:18:09.280Z,42.6121,-111.4299,8.52,2.6,ml,,38,0.031,0.32,us,us2000auyd,2017-12-22T21:56:23.040Z,"15 km ESE of Soda Springs, Idaho",earthquake,1.7,3.3,0.048,56,reviewed,us,us
+2017-09-24T23:17:19.330Z,42.5761667,-111.4235,1.61,2.04,ml,26,47,0.02281,0.18,uu,uu60249317,2017-11-22T00:20:09.710Z,"11 km NNW of Georgetown, Idaho",earthquake,0.28,0.56,0.142,6,reviewed,uu,uu
+2017-09-24T08:13:23.210Z,42.6109,-111.458,4.54,2.5,ml,,43,0.026,0.42,us,us2000atvi,2017-12-22T21:56:20.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,1.2,1.8,0.048,56,reviewed,us,us
+2017-09-24T05:28:35.390Z,42.6022,-111.4488,4.91,3.2,ml,,38,0.017,0.28,us,us2000attv,2017-12-22T21:56:19.040Z,"14 km ESE of Soda Springs, Idaho",earthquake,1,1.3,0.049,54,reviewed,us,us
+2017-09-23T21:18:06.400Z,42.5423333,-111.4271667,7.18,2.13,ml,15,103,0.04664,0.08,uu,uu60249022,2018-01-03T20:28:30.860Z,"8 km NW of Georgetown, Idaho",earthquake,0.32,0.37,0.383,3,reviewed,uu,uu
+2017-09-23T20:52:21.730Z,42.5411667,-111.4341667,7.81,2.45,ml,15,47,0.04599,0.06,uu,uu60249017,2018-01-03T20:33:42.150Z,"8 km NW of Georgetown, Idaho",earthquake,0.29,0.4,0.269,6,reviewed,uu,uu
+2017-09-23T18:50:00.700Z,42.563,-111.4351,9.91,2.7,ml,,42,0.025,0.51,us,us2000atnx,2017-12-19T01:54:14.040Z,"10 km NNW of Georgetown, Idaho",earthquake,1.3,4.2,0.034,112,reviewed,us,us
+2017-09-23T18:32:24.810Z,42.5545,-111.4305,6.61,2.6,ml,,43,0.034,0.4,us,us2000atnl,2017-12-19T01:54:14.040Z,"9 km NNW of Georgetown, Idaho",earthquake,0.9,1.7,0.035,109,reviewed,us,us
+2017-09-23T16:35:27.980Z,42.5549,-111.4195,8.34,2.7,ml,,43,0.038,0.4,us,us2000atmc,2017-12-19T01:54:14.040Z,"9 km NNW of Georgetown, Idaho",earthquake,1.1,5.2,0.044,68,reviewed,us,us
+2017-09-23T16:13:15.690Z,42.5413333,-111.4308333,7.23,2.07,ml,14,58,0.04659,0.11,uu,uu60248942,2018-01-04T22:33:51.600Z,"8 km NW of Georgetown, Idaho",earthquake,0.39,0.58,0.293,4,reviewed,uu,uu
+2017-09-23T15:43:38.670Z,42.5393333,-111.432,8.58,2.22,ml,15,51,0.04821,0.1,uu,uu60248927,2018-01-04T23:20:44.350Z,"8 km NW of Georgetown, Idaho",earthquake,0.39,0.33,0.219,5,reviewed,uu,uu
+2017-09-23T15:23:12.150Z,42.541,-111.428,7.81,2.1,ml,17,63,0.04764,0.11,uu,uu60248912,2017-12-27T22:03:02.700Z,"8 km NW of Georgetown, Idaho",earthquake,0.3,0.48,0.182,4,reviewed,uu,uu
+2017-09-23T15:20:00.780Z,42.5571,-111.44,7.43,3.8,mwr,,42,0.029,0.32,us,us2000atlk,2017-12-19T01:54:14.040Z,"10 km NW of Georgetown, Idaho",earthquake,1,1.5,0.051,37,reviewed,us,us
+2017-09-23T15:17:05.700Z,42.5431667,-111.4321667,8.74,2.2,md,17,50,0.04454,0.08,uu,uu60248902,2017-12-27T21:55:18.280Z,"southern Idaho",earthquake,0.26,0.36,0.22,7,reviewed,uu,uu
+2017-09-23T14:58:56.970Z,42.5701667,-111.4271667,8,2.04,ml,16,101,0.02366,0.07,uu,uu60248897,2017-12-27T21:48:35.540Z,"10 km NNW of Georgetown, Idaho",earthquake,0.44,0.25,0.18,4,reviewed,uu,uu
+2017-09-23T07:24:10.100Z,42.5658333,-111.4196667,9.15,2.41,ml,20,47,0.03069,0.09,uu,uu60248802,2017-09-28T19:36:38.980Z,"10 km NNW of Georgetown, Idaho",earthquake,0.25,0.39,0.132,10,reviewed,uu,uu
+2017-09-23T01:18:37.880Z,42.5371,-111.4334,7.54,2.6,ml,,44,0.05,0.29,us,us2000atfh,2017-12-19T01:54:12.040Z,"7 km NW of Georgetown, Idaho",earthquake,1.2,1.7,0.041,80,reviewed,us,us
+2017-09-22T22:40:36.490Z,42.564,-111.3791667,6.08,2.49,ml,13,229,0.1896,0.19,uu,uu60248752,2018-01-03T21:33:23.320Z,"9 km N of Georgetown, Idaho",earthquake,1.9,1.15,0.108,4,reviewed,uu,uu
+2017-09-22T17:22:27.090Z,42.6303333,-111.4775,2.79,2.15,ml,18,51,0.01855,0.15,uu,uu60248697,2017-09-25T18:42:07.070Z,"10 km ESE of Soda Springs, Idaho",earthquake,0.32,0.26,0.123,6,reviewed,uu,uu
+2017-09-22T15:20:05.010Z,42.6023333,-111.4561667,3.17,2.05,ml,17,62,0.01733,0.14,uu,uu60248662,2017-09-22T18:32:05.380Z,"13 km ESE of Soda Springs, Idaho",earthquake,0.37,0.42,0.263,4,reviewed,uu,uu
+2017-09-21T23:03:23.920Z,42.5258333,-111.4201667,7.93,2.1,ml,19,46,0.06121,0.16,uu,uu60248487,2017-09-22T22:15:49.040Z,"6 km NW of Georgetown, Idaho",earthquake,0.39,0.59,0.272,4,reviewed,uu,uu
+2017-09-21T20:04:44.330Z,42.5685,-111.4227,10.44,2.8,ml,,42,0.027,0.41,us,us2000asr5,2017-12-19T01:54:10.040Z,"10 km NNW of Georgetown, Idaho",earthquake,1.4,6.5,0.04,84,reviewed,us,us
+2017-09-21T14:29:20.250Z,42.525,-111.426,8.76,3.1,ml,,45,0.063,0.4,us,us2000asgp,2017-12-19T01:54:10.040Z,"6 km NW of Georgetown, Idaho",earthquake,1.6,5,0.041,80,reviewed,us,us
+2017-09-21T11:28:35.860Z,42.6413333,-111.4921667,0.36,2.13,ml,12,110,0.02452,0.14,uu,uu60248407,2018-01-03T23:26:01.920Z,"9 km E of Soda Springs, Idaho",earthquake,0.33,0.36,0.119,3,reviewed,uu,uu
+2017-09-21T10:35:39.210Z,42.5906667,-111.4308333,6.84,2,ml,16,49,0.01639,0.07,uu,uu60248392,2018-01-04T20:23:37.980Z,"13 km NNW of Georgetown, Idaho",earthquake,0.24,0.35,0.039,2,reviewed,uu,uu
+2017-09-21T09:46:28.850Z,42.5829,-111.4286,8.3,3.3,ml,,40,0.017,0.19,us,us2000asdx,2017-12-19T01:54:09.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.1,5.2,0.047,60,reviewed,us,us
+2017-09-20T21:34:03.540Z,42.5266667,-111.4126667,6.24,2.08,ml,10,91,0.05866,0.1,uu,uu60248232,2018-01-04T21:13:17.430Z,"southern Idaho",earthquake,0.37,0.58,0.165,2,reviewed,uu,uu
+2017-09-20T20:58:09.410Z,42.6166667,-111.4336667,3.28,2.11,ml,13,64,0.0322,0.16,uu,uu60248212,2018-01-04T21:21:06.830Z,"14 km ESE of Soda Springs, Idaho",earthquake,0.38,0.52,0.249,2,reviewed,uu,uu
+2017-09-20T14:10:37.780Z,42.5928333,-111.4155,6.06,2.13,ml,16,47,0.02784,0.1,uu,uu60248172,2017-09-20T17:21:23.960Z,"12 km NNW of Georgetown, Idaho",earthquake,0.32,0.54,0.15,4,reviewed,uu,uu
+2017-09-20T12:24:15.820Z,42.6083,-111.4572,7.67,2.7,ml,,49,0.023,0.21,us,us2000arkf,2017-12-19T01:54:08.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.2,1,0.062,34,reviewed,us,us
+2017-09-20T08:23:20.130Z,42.5842,-111.4304,7.76,2.8,ml,,40,0.015,0.22,us,us2000ari7,2017-12-19T01:54:07.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.1,1.2,0.042,76,reviewed,us,us
+2017-09-20T08:10:01.290Z,42.5826,-111.4321,7.57,2.6,ml,,40,0.014,0.27,us,us2000ari5,2017-12-19T01:54:07.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.1,2.2,0.044,67,reviewed,us,us
+2017-09-20T03:28:04.670Z,42.5813333,-111.4231667,8.05,2.35,ml,29,46,0.02152,0.1,uu,uu60248072,2017-09-20T16:50:52.780Z,"11 km NNW of Georgetown, Idaho",earthquake,0.22,0.29,0.26,7,reviewed,uu,uu
+2017-09-20T02:20:18.720Z,42.5095,-111.399,8.52,2.15,ml,12,63,0.03878,0.09,uu,uu60248057,2018-01-04T21:54:34.510Z,"3 km NW of Georgetown, Idaho",earthquake,0.53,0.38,0.375,2,reviewed,uu,uu
+2017-09-20T02:12:53.670Z,42.5063333,-111.4156667,7.74,2.06,md,6,126,0.04479,0.05,uu,uu60248052,2018-01-04T21:58:12.790Z,"4 km NW of Georgetown, Idaho",earthquake,0.58,0.79,0.497,3,reviewed,uu,uu
+2017-09-20T01:01:24.240Z,42.6085,-111.4565,7.18,2.2,ml,16,51,0.02344,0.08,uu,uu60248042,2018-01-04T22:10:08.150Z,"13 km ESE of Soda Springs, Idaho",earthquake,0.25,0.32,0.186,2,reviewed,uu,uu
+2017-09-20T00:43:02.810Z,42.6128333,-111.4501667,6.23,2.04,ml,21,50,0.02754,0.18,uu,uu60248037,2017-09-20T15:38:13.990Z,"13 km ESE of Soda Springs, Idaho",earthquake,0.39,0.55,0.161,4,reviewed,uu,uu
+2017-09-20T00:17:45.890Z,42.6046667,-111.4663333,7.38,2.45,ml,17,51,0.02213,0.1,uu,uu60248017,2018-01-04T22:24:35.220Z,"12 km ESE of Soda Springs, Idaho",earthquake,0.29,0.35,0.168,2,reviewed,uu,uu
+2017-09-19T23:26:52.870Z,42.5909,-111.4223,9.63,3,ml,,40,0.022,0.35,us,us2000arcp,2017-12-19T01:54:07.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.2,2,0.046,62,reviewed,us,us
+2017-09-19T22:44:57.190Z,42.6077,-111.4558,4.67,2.4,ml,,40,0.022,0.27,us,us2000arbk,2017-12-19T01:54:07.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1,0.8,0.062,34,reviewed,us,us
+2017-09-19T16:55:58.690Z,42.606,-111.4488333,3.56,2.11,md,14,55,0.0208,0.1,uu,uu60247877,2017-09-19T20:46:35.190Z,"13 km ESE of Soda Springs, Idaho",earthquake,0.42,0.29,0.231,4,reviewed,uu,uu
+2017-09-19T16:45:42.100Z,42.6077,-111.469,7.7,2.7,ml,,49,0.025,0.51,us,us2000aqvm,2017-12-19T01:54:06.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,1.5,5.8,0.05,52,reviewed,us,us
+2017-09-19T16:32:26.530Z,42.6138333,-111.4455,1.76,2.07,ml,9,84,0.02889,0.07,uu,uu60247852,2017-09-19T20:59:33.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,0.37,0.23,0.206,4,reviewed,uu,uu
+2017-09-19T16:15:27.410Z,42.6149,-111.4431,4.8,2.9,ml,,50,0.03,0.23,us,us2000ary5,2017-12-19T01:54:06.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1,1.6,0.085,18,reviewed,us,us
+2017-09-19T16:15:06.360Z,42.612,-111.4567,6.7,2.5,ml,,42,0.026,0.49,us,us2000c27n,2017-12-19T01:54:06.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.1,2.1,0.053,46,reviewed,us,us
+2017-09-19T16:10:48.870Z,42.616,-111.4551667,1.41,2.11,ml,12,79,0.02703,0.12,uu,uu60247822,2017-09-20T17:12:35.420Z,"12 km ESE of Soda Springs, Idaho",earthquake,0.55,0.4,0.261,3,reviewed,uu,uu
+2017-09-19T16:05:40.170Z,42.6154,-111.4706,8.81,3.1,ml,,50,0.028,0.6,us,us2000aqtm,2017-12-19T01:54:06.040Z,"11 km ESE of Soda Springs, Idaho",earthquake,1.8,6.2,0.051,50,reviewed,us,us
+2017-09-19T15:42:12.030Z,42.6121,-111.4724,4.3,2.5,ml,,50,0.03,0.41,us,us2000aqsk,2017-12-19T01:54:06.040Z,"11 km ESE of Soda Springs, Idaho",earthquake,1.1,1.3,0.062,34,reviewed,us,us
+2017-09-19T15:37:40.350Z,42.6103333,-111.4573333,3.29,2.07,ml,14,55,0.02535,0.14,uu,uu60247797,2018-01-11T20:29:06.130Z,"13 km ESE of Soda Springs, Idaho",earthquake,0.3,0.44,0.282,2,reviewed,uu,uu
+2017-09-19T15:35:09.120Z,42.6064,-111.4508,4.14,3,ml,,38,0.021,0.17,us,us2000aqsh,2017-12-19T01:54:06.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.4,1.5,0.053,46,reviewed,us,us
+2017-09-19T15:27:13.730Z,42.6056,-111.4487,5.79,3.7,mwr,,38,0.02,0.31,us,us2000aqs7,2017-12-19T01:54:05.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.1,1.1,0.039,64,reviewed,us,us
+2017-09-19T11:27:04.150Z,42.5968333,-111.4448333,0.85,2.25,ml,16,50,0.01262,0.1,uu,uu60247727,2018-01-10T19:22:57.200Z,"14 km NNW of Georgetown, Idaho",earthquake,0.32,0.2,0.1,3,reviewed,uu,uu
+2017-09-19T08:36:54.420Z,42.5301667,-111.4176667,6.01,2.1,ml,27,47,0.0606,0.13,uu,uu60247677,2017-12-08T22:25:51.110Z,"6 km NW of Georgetown, Idaho",earthquake,0.23,0.42,0.21,5,reviewed,uu,uu
+2017-09-18T19:32:24.310Z,42.6341,-111.4513,7.88,2.8,ml,,37,0.01,0.33,us,us2000aq71,2017-12-19T01:54:04.040Z,"12 km E of Soda Springs, Idaho",earthquake,0.9,1.8,0.05,52,reviewed,us,us
+2017-09-18T19:11:01.500Z,42.558,-111.4196667,7.21,2.05,ml,14,66,0.03616,0.08,uu,uu60247447,2018-01-22T18:54:42.260Z,"9 km NNW of Georgetown, Idaho",earthquake,0.3,0.34,0.347,2,reviewed,uu,uu
+2017-09-18T09:25:41.240Z,42.5481667,-111.4128333,4.53,2.21,ml,15,57,0.04697,0.17,uu,uu60247337,2018-01-22T00:49:08.080Z,"8 km NNW of Georgetown, Idaho",earthquake,0.32,0.73,0.196,2,reviewed,uu,uu
+2017-09-18T04:49:09.350Z,42.6072,-111.457,5.27,3.6,mwr,,42,0.022,0.31,us,us2000apre,2017-12-19T01:54:03.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1,0.9,0.037,72,reviewed,us,us
+2017-09-18T03:20:55.680Z,42.5936667,-111.4291667,7.36,2.42,ml,22,42,0.01869,0.16,uu,uu60247287,2017-09-18T22:04:17.070Z,"13 km NNW of Georgetown, Idaho",earthquake,0.3,0.48,0.177,9,reviewed,uu,uu
+2017-09-18T02:40:48.740Z,42.6296667,-111.4425,2.81,2.04,ml,16,54,0.01798,0.11,uu,uu60247262,2018-01-17T19:50:01.860Z,"13 km ESE of Soda Springs, Idaho",earthquake,0.23,0.2,0.354,2,reviewed,uu,uu
+2017-09-18T02:33:08.690Z,42.634,-111.4448333,3.61,2.05,ml,14,55,0.01373,0.09,uu,uu60247252,2018-01-17T19:37:10.030Z,"13 km E of Soda Springs, Idaho",earthquake,0.22,0.32,0.438,2,reviewed,uu,uu
+2017-09-18T02:04:40.840Z,42.6138333,-111.4656667,2.45,2.08,ml,16,79,0.02946,0.13,uu,uu60247247,2018-01-17T19:31:29.050Z,"12 km ESE of Soda Springs, Idaho",earthquake,0.28,0.23,0.105,2,reviewed,uu,uu
+2017-09-17T22:45:06.470Z,42.5913333,-111.4246667,5.48,2.21,ml,21,53,0.02093,0.13,uu,uu60247177,2018-01-31T19:22:09.560Z,"12 km NNW of Georgetown, Idaho",earthquake,0.31,0.47,0.228,8,reviewed,uu,uu
+2017-09-17T20:01:40.830Z,42.6066667,-111.4518333,6.91,2.51,ml,13,66,0.02135,0.08,uu,uu60247147,2018-01-31T20:08:37.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,0.32,0.34,0.143,2,reviewed,uu,uu
+2017-09-17T19:28:48.070Z,42.5897,-111.4257,4.84,2.5,ml,,40,0.019,0.3,us,us2000apkc,2017-12-19T01:54:02.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1,1.5,0.057,40,reviewed,us,us
+2017-09-17T16:24:54.600Z,42.5216667,-111.41,5.14,2.45,ml,16,55,0.05341,0.17,uu,uu60247087,2018-01-31T19:50:31.290Z,"5 km NW of Georgetown, Idaho",earthquake,0.35,0.83,0.246,2,reviewed,uu,uu
+2017-09-17T16:16:45.540Z,42.5366667,-111.4263333,8.28,2.49,ml,16,52,0.05212,0.08,uu,uu60247077,2018-01-31T19:42:11.190Z,"7 km NW of Georgetown, Idaho",earthquake,0.19,0.34,0.425,2,reviewed,uu,uu
+2017-09-17T16:11:26.200Z,42.6079,-111.4324,7.03,2.7,ml,,38,0.026,0.35,us,us2000bsv2,2017-12-19T01:54:02.040Z,"14 km NNW of Georgetown, Idaho",earthquake,0.7,1.6,0.074,24,reviewed,us,us
+2017-09-17T16:11:04.820Z,42.5359,-111.4108,5.33,2.6,ml,,45,0.057,0.3,us,us2000apj3,2017-12-19T01:54:02.040Z,"6 km NNW of Georgetown, Idaho",earthquake,1.1,2.1,0.055,44,reviewed,us,us
+2017-09-17T16:08:41.490Z,42.6066667,-111.4315,5.82,2.07,ml,12,85,0.02609,0.08,uu,uu60014619,2018-01-31T18:55:43.700Z,"14 km NNW of Georgetown, Idaho",earthquake,0.36,0.49,0.306,2,reviewed,uu,uu
+2017-09-17T16:02:42.480Z,42.522,-111.4146667,5.39,2.52,ml,11,58,0.05569,0.06,uu,uu60247037,2018-01-30T19:39:08.550Z,"5 km NW of Georgetown, Idaho",earthquake,0.29,0.48,0.281,2,reviewed,uu,uu
+2017-09-17T15:59:58.840Z,42.5429,-111.4107,8.67,2.7,ml,,44,0.052,0.44,us,us2000apj0,2017-12-19T01:54:02.040Z,"7 km NNW of Georgetown, Idaho",earthquake,1.4,3.8,0.053,46,reviewed,us,us
+2017-09-17T15:34:42.550Z,42.6048333,-111.4553333,6.79,2.62,ml,14,61,0.0197,0.08,uu,uu60247002,2018-01-30T19:26:13.260Z,"13 km ESE of Soda Springs, Idaho",earthquake,0.25,0.37,0.027,2,reviewed,uu,uu
+2017-09-17T15:23:12.370Z,42.5326667,-111.4315,8.58,2.59,ml,14,49,0.0547,0.08,uu,uu60246987,2018-01-30T19:10:44.980Z,"7 km NW of Georgetown, Idaho",earthquake,0.22,0.44,0.308,2,reviewed,uu,uu
+2017-09-17T11:23:04.860Z,42.6088333,-111.4333333,6.4,2.42,ml,13,56,0.02719,0.12,uu,uu60246962,2018-01-30T18:58:49.320Z,"14 km ESE of Soda Springs, Idaho",earthquake,0.31,0.49,0.163,2,reviewed,uu,uu
+2017-09-17T08:17:33.860Z,42.575,-111.4476667,2,2.54,ml,15,52,0.01074,0.13,uu,uu60246932,2018-01-30T18:48:56.950Z,"12 km NNW of Georgetown, Idaho",earthquake,0.33,0.52,0.034,2,reviewed,uu,uu
+2017-09-17T07:40:47.210Z,42.584,-111.4457,5.07,2.4,ml,,40,0.004,0.32,us,us2000apfv,2017-12-19T01:54:01.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1,0.8,0.051,50,reviewed,us,us
+2017-09-17T07:09:41.720Z,42.6108,-111.4317,6.9,2.7,ml,,38,0.029,0.19,us,us2000apft,2017-12-19T01:54:01.040Z,"14 km ESE of Soda Springs, Idaho",earthquake,0.9,1.5,0.044,68,reviewed,us,us
+2017-09-17T06:55:26.240Z,42.5833333,-111.4425,2.37,2.01,ml,14,53,0.007144,0.12,uu,uu60246902,2018-01-30T17:22:10.010Z,"12 km NNW of Georgetown, Idaho",earthquake,0.4,0.42,0.009,2,reviewed,uu,uu
+2017-09-17T06:51:14.870Z,42.586,-111.4385,1.62,2.27,ml,19,52,0.009847,0.15,uu,uu60246897,2018-01-30T17:17:30.790Z,"12 km NNW of Georgetown, Idaho",earthquake,0.26,0.4,0.021,2,reviewed,uu,uu
+2017-09-17T06:13:21.910Z,42.583,-111.4462,3.83,2.9,ml,,40,0.004,0.32,us,us2000apfd,2017-12-19T01:54:01.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.1,0.8,0.05,52,reviewed,us,us
+2017-09-17T02:42:12.410Z,42.5566667,-111.4218333,8.4,2.09,ml,13,56,0.03618,0.1,uu,uu60246767,2018-01-27T20:24:07.520Z,"9 km NNW of Georgetown, Idaho",earthquake,0.34,0.55,0.211,2,reviewed,uu,uu
+2017-09-16T17:41:59.470Z,42.6046667,-111.429,5.07,2.23,ml,20,46,0.02565,0.11,uu,uu60246607,2018-02-13T00:08:21.030Z,"14 km NNW of Georgetown, Idaho",earthquake,0.25,0.4,0.304,7,reviewed,uu,uu
+2017-09-16T17:14:37.640Z,42.5836,-111.4269,6.94,3,ml,,40,0.018,0.34,us,us2000ap6d,2017-12-13T02:29:47.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1,2.1,0.03,144,reviewed,us,us
+2017-09-16T16:51:41.390Z,42.5818333,-111.4283333,5.44,2.19,ml,8,100,0.01767,0.07,uu,uu60246577,2018-03-15T19:01:02.520Z,"12 km NNW of Georgetown, Idaho",earthquake,0.48,0.48,0.143,3,reviewed,uu,uu
+2017-09-16T15:30:38.750Z,42.5828333,-111.4293333,5.92,2.46,ml,10,105,0.01677,0.06,uu,uu60246512,2018-03-13T22:37:29.910Z,"12 km NNW of Georgetown, Idaho",earthquake,0.34,0.37,0.104,2,reviewed,uu,uu
+2017-09-16T15:26:35.030Z,42.5765,-111.4326,7.05,2.5,ml,,41,0.016,0.27,us,us2000ap48,2017-12-13T02:29:47.040Z,"11 km NNW of Georgetown, Idaho",earthquake,0.8,1.7,0.057,40,reviewed,us,us
+2017-09-16T15:14:49.480Z,42.5815,-111.424,5.08,2.57,ml,19,48,0.02088,0.13,uu,uu60246492,2018-03-13T22:31:46.350Z,"11 km NNW of Georgetown, Idaho",earthquake,0.25,0.46,0.117,2,reviewed,uu,uu
+2017-09-16T15:12:58.530Z,42.5789,-111.4026,10.67,2.5,ml,,56,0.036,0.44,us,us2000ap45,2017-12-13T02:29:47.040Z,"11 km NNW of Georgetown, Idaho",earthquake,0.9,2.8,0.051,50,reviewed,us,us
+2017-09-16T14:55:14.620Z,42.5853333,-111.4178333,4.84,2.04,ml,13,79,0.02509,0.14,uu,uu60246462,2018-02-14T19:57:16.130Z,"12 km NNW of Georgetown, Idaho",earthquake,0.35,0.55,0.111,2,reviewed,uu,uu
+2017-09-16T14:24:11.020Z,42.5851,-111.4181,6.52,2.8,ml,,40,0.024,0.3,us,us2000ap3f,2017-12-13T02:29:46.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1,2.1,0.047,60,reviewed,us,us
+2017-09-16T11:27:17.340Z,42.5958333,-111.4435,1.71,2.62,ml,17,52,0.01218,0.17,uu,uu60246432,2018-02-14T19:52:36.590Z,"13 km NNW of Georgetown, Idaho",earthquake,0.26,0.34,0.002,2,reviewed,uu,uu
+2017-09-16T09:18:58.440Z,42.573,-111.4248333,6.6,2.46,ml,15,70,0.02341,0.14,uu,uu60246417,2018-02-14T19:42:18.610Z,"11 km NNW of Georgetown, Idaho",earthquake,0.32,0.92,0.255,2,reviewed,uu,uu
+2017-09-16T07:15:09.350Z,42.5188333,-111.4253333,6.68,2.4,ml,13,45,0.0585,0.11,uu,uu60246362,2018-02-13T01:38:24.530Z,"6 km NW of Georgetown, Idaho",earthquake,0.33,0.42,0.157,2,reviewed,uu,uu
+2017-09-16T05:24:27.030Z,42.579,-111.4256667,6.46,2.41,ml,14,100,0.0203,0.13,uu,uu60246302,2018-02-12T19:05:41.470Z,"11 km NNW of Georgetown, Idaho",earthquake,0.34,0.57,0.038,2,reviewed,uu,uu
+2017-09-16T05:20:56.520Z,42.5756,-111.4133,8.73,3.9,mwr,,41,0.03,0.17,us,us2000anyv,2017-12-13T02:29:46.040Z,"10 km NNW of Georgetown, Idaho",earthquake,1.3,2.8,0.036,75,reviewed,us,us
+2017-09-16T00:07:16.420Z,42.596,-111.4533333,3.55,2.25,ml,14,62,0.01075,0.11,uu,uu60246242,2018-02-07T19:57:39.560Z,"14 km ESE of Soda Springs, Idaho",earthquake,0.25,0.29,0.169,2,reviewed,uu,uu
+2017-09-15T21:21:57.890Z,42.6117,-111.4429,6.07,3.1,ml,,38,0.027,0.26,us,us2000anrz,2021-08-18T21:55:27.120Z,"14 km ESE of Soda Springs, Idaho",earthquake,0.7,1.4,0.034,114,reviewed,us,us
+2017-09-15T20:21:45.900Z,42.5575,-111.4195,9.79,2.3,ml,,56,0.036,0.16,us,us2000annp,2018-05-10T22:13:09.880Z,"9 km NNW of Georgetown, Idaho",earthquake,1.3,3.8,0.062,34,reviewed,us,us
+2017-09-15T11:23:51.820Z,42.5666,-111.4462,7.2,2.6,ml,,42,0.019,0.28,us,us2000an7j,2017-12-13T02:29:45.040Z,"11 km NNW of Georgetown, Idaho",earthquake,1.1,0.9,0.056,42,reviewed,us,us
+2017-09-15T10:39:20.990Z,42.5921,-111.4466,5.25,3,ml,,39,0.007,0.3,us,us2000an6x,2017-12-13T02:29:45.040Z,"13 km NNW of Georgetown, Idaho",earthquake,1.2,1,0.039,86,reviewed,us,us
+2017-09-15T09:23:21.570Z,42.5723,-111.4369,4.71,2.1,ml,,54,0.017,0.21,us,us2000an6e,2018-05-10T21:33:24.470Z,"11 km NNW of Georgetown, Idaho",earthquake,0.8,2.2,0.064,32,reviewed,us,us
+2017-09-15T08:22:41.220Z,42.5805,-111.4475,4.04,3.6,mwr,,40,0.005,0.35,us,us2000an5j,2017-12-13T02:29:44.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.2,0.8,0.039,63,reviewed,us,us
+2017-09-15T04:06:38.400Z,42.557,-111.4108333,7.46,2.13,ml,15,48,0.04142,0.1,uu,uu60245947,2018-04-18T17:54:01.210Z,"8 km NNW of Georgetown, Idaho",earthquake,0.25,0.47,0.224,3,reviewed,uu,uu
+2017-09-15T00:38:09.950Z,42.523,-111.4216667,8.33,2.27,ml,16,56,0.05972,0.09,uu,uu60245877,2018-03-28T18:38:46.450Z,"6 km NW of Georgetown, Idaho",earthquake,0.24,0.34,0.4,2,reviewed,uu,uu
+2017-09-14T20:59:38.510Z,42.5876667,-111.4485,1.37,2.62,ml,16,52,0.003396,0.12,uu,uu60245792,2018-06-12T22:22:50.070Z,"13 km NNW of Georgetown, Idaho",earthquake,0.28,0.3,0.018,2,reviewed,uu,uu
+2017-09-14T19:50:48.570Z,42.5986667,-111.4383333,7.05,2.36,ml,12,54,0.01665,0.06,uu,uu60245767,2018-06-12T22:31:10.110Z,"14 km NNW of Georgetown, Idaho",earthquake,0.22,0.29,0.091,2,reviewed,uu,uu
+2017-09-14T18:43:29.150Z,42.598,-111.4261667,7.37,2.19,ml,10,83,0.02279,0.07,uu,uu60245737,2018-06-18T21:36:17.830Z,"13 km NNW of Georgetown, Idaho",earthquake,0.5,0.33,0.162,2,reviewed,uu,uu
+2017-09-14T17:28:26.340Z,42.5987,-111.4476,8.48,2.9,ml,,38,0.013,0.22,us,us2000amw9,2017-12-13T02:29:43.040Z,"14 km ESE of Soda Springs, Idaho",earthquake,1.1,8.4,0.049,54,reviewed,us,us
+2017-09-14T17:26:39.130Z,42.5873,-111.4355,7.52,3.2,ml,,40,0.012,0.3,us,us2000amja,2017-12-13T02:29:43.040Z,"12 km NNW of Georgetown, Idaho",earthquake,0.7,5.1,0.035,109,reviewed,us,us
+2017-09-14T14:04:00.240Z,42.6047,-111.4117,6.9,2.4,ml,,41,0.035,0.2,us,us2000amcx,2017-12-13T02:29:43.040Z,"14 km NNW of Georgetown, Idaho",earthquake,0.9,1.4,0.051,50,reviewed,us,us
+2017-09-14T12:52:59.310Z,42.5339,-111.4223,8.97,2.8,ml,,45,0.055,0.38,us,us2000ambm,2017-12-13T02:29:43.040Z,"7 km NW of Georgetown, Idaho",earthquake,0.7,2.9,0.038,90,reviewed,us,us
+2017-09-14T12:28:14.990Z,42.5188333,-111.4103333,8.64,2.24,ml,13,101,0.05124,0.08,uu,uu60245552,2018-06-18T20:25:15.120Z,"5 km NW of Georgetown, Idaho",earthquake,0.36,0.69,0.4,2,reviewed,uu,uu
+2017-09-14T10:37:39.950Z,42.576,-111.4261667,7.7,2.43,ml,10,101,0.02109,0.1,uu,uu60245477,2018-06-15T21:58:32.150Z,"11 km NNW of Georgetown, Idaho",earthquake,0.36,0.41,0.019,2,reviewed,uu,uu
+2017-09-14T10:29:04.520Z,42.6111667,-111.4843333,1.53,2.35,ml,13,76,0.03529,0.11,uu,uu60245467,2018-06-15T21:54:20.730Z,"10 km ESE of Soda Springs, Idaho",earthquake,0.23,0.37,0.255,2,reviewed,uu,uu
+2017-09-14T07:50:16.920Z,42.6016667,-111.4573333,6.91,2.21,ml,10,93,0.01686,0.07,uu,uu60245437,2018-06-15T21:34:13.090Z,"13 km ESE of Soda Springs, Idaho",earthquake,0.31,0.34,0.207,2,reviewed,uu,uu
+2017-09-14T04:45:25.190Z,42.5308333,-111.4265,8.65,2.06,ml,15,96,0.05755,0.09,uu,uu60245327,2018-06-15T20:05:52.370Z,"7 km NW of Georgetown, Idaho",earthquake,0.24,0.48,0.316,2,reviewed,uu,uu
+2017-09-14T03:52:59.100Z,42.5328333,-111.4226667,8.07,2.26,ml,14,99,0.05668,0.05,uu,uu60245272,2018-06-13T19:57:34.830Z,"7 km NW of Georgetown, Idaho",earthquake,0.29,0.37,0.315,2,reviewed,uu,uu
+2017-09-14T03:18:24.890Z,42.5205,-111.4238333,6.98,2,ml,14,92,0.05892,0.09,uu,uu60245222,2018-06-13T19:05:54.420Z,"6 km NW of Georgetown, Idaho",earthquake,0.35,0.49,0.46,2,reviewed,uu,uu
+2017-09-14T03:17:34.600Z,42.518,-111.4115,8.48,2.35,md,12,100,0.0511,0.1,uu,uu60015874,2018-06-12T20:54:55.890Z,"southern Idaho",earthquake,0.56,0.44,0.13,4,reviewed,uu,uu
+2017-09-14T02:58:20.890Z,42.5325,-111.4265,10,3.2,ml,,51,0.056,0.49,us,us2000amd4,2017-12-13T02:29:42.040Z,"7 km NW of Georgetown, Idaho",earthquake,0.8,1.7,0.069,28,reviewed,us,us
+2017-09-14T02:57:53.360Z,42.5205,-111.4151,8.1,3.1,ml,,43,0.054,0.51,us,us2000amd0,2017-12-13T02:29:42.040Z,"5 km NW of Georgetown, Idaho",earthquake,0.9,5.1,0.052,48,reviewed,us,us
+2017-09-14T02:54:11.390Z,42.5405,-111.4172,8.91,3.2,ml,,91,0.051,0.46,us,us2000bsvm,2017-12-13T02:29:42.040Z,"7 km NNW of Georgetown, Idaho",earthquake,1.2,5.1,0.071,26,reviewed,us,us
+2017-09-14T02:53:09.150Z,42.4888,-111.4132,10,4,mwr,,46,0.034,0.68,us,us2000am2z,2017-12-13T02:29:42.040Z,"3 km WNW of Georgetown, Idaho",earthquake,1.5,1.9,0.033,87,reviewed,us,us
+2017-09-14T02:53:01.020Z,42.5292,-111.4086,8.82,3.7,ml,,58,0.059,0.43,us,us2000am2c,2017-12-13T02:29:42.040Z,"6 km NNW of Georgetown, Idaho",earthquake,1.7,7,0.128,8,reviewed,us,us
+2017-09-14T02:35:55.060Z,42.5206,-111.4246,8.99,2.3,ml,,46,0.059,0.38,us,us2000am28,2018-06-12T20:05:11.490Z,"6 km NW of Georgetown, Idaho",earthquake,1.1,4.7,0.06,36,reviewed,us,us
+2017-09-14T02:31:28.650Z,42.5273333,-111.4178333,8.89,2.48,ml,16,100,0.06137,0.11,uu,uu60245142,2018-05-17T22:35:46.530Z,"6 km NW of Georgetown, Idaho",earthquake,0.42,0.48,0.367,2,reviewed,uu,uu
+2017-09-14T01:44:41.040Z,42.599,-111.4208,10,2.6,ml,,39,0.026,0.41,us,us2000am1y,2017-12-13T02:29:42.040Z,"13 km NNW of Georgetown, Idaho",earthquake,1.3,1.7,0.064,32,reviewed,us,us
+2017-09-14T00:37:32.930Z,42.5746667,-111.4185,7.44,2.11,ml,14,103,0.02679,0.06,uu,uu60245117,2018-05-17T22:18:06.420Z,"11 km NNW of Georgetown, Idaho",earthquake,0.27,0.33,0.044,2,reviewed,uu,uu
+2017-09-13T19:33:53.180Z,42.601,-111.4508,6.18,2.9,ml,,38,0.015,0.34,us,us2000alq6,2017-12-13T02:29:42.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,0.9,1.2,0.042,76,reviewed,us,us
+2017-09-13T15:53:52.930Z,42.5656667,-111.4081667,10,2.18,ml,10,105,0.03773,0.1,uu,uu60244952,2018-06-26T21:25:47.350Z,"9 km NNW of Georgetown, Idaho",earthquake,0.39,0.48,0.042,2,reviewed,uu,uu
+2017-09-13T12:51:41.280Z,42.583,-111.4148333,1.99,2.13,md,11,103,0.0274,0.13,uu,uu60244912,2018-06-22T19:19:14.310Z,"11 km NNW of Georgetown, Idaho",earthquake,0.58,0.49,0.271,4,reviewed,uu,uu
+2017-09-13T10:34:24.110Z,42.5823333,-111.4325,6.97,2.3,ml,13,99,0.01456,0.06,uu,uu60244872,2018-06-22T18:49:09.110Z,"12 km NNW of Georgetown, Idaho",earthquake,0.24,0.38,0.014,2,reviewed,uu,uu
+2017-09-13T09:58:18.750Z,42.5678333,-111.422,7.73,2.44,ml,23,57,0.02809,0.12,uu,uu60244867,2017-09-13T16:26:29.180Z,"10 km NNW of Georgetown, Idaho",earthquake,0.25,0.41,0.048,10,reviewed,uu,uu
+2017-09-13T08:53:29.810Z,42.5278333,-111.4161667,9.94,2.2,ml,15,101,0.06107,0.08,uu,uu60244842,2018-06-22T18:30:59.250Z,"6 km NW of Georgetown, Idaho",earthquake,0.35,0.5,0.482,2,reviewed,uu,uu
+2017-09-13T08:48:46.120Z,42.5941,-111.454,6.05,2.5,ml,,39,0.009,0.4,us,us2000alcf,2017-12-13T02:29:41.040Z,"14 km ESE of Soda Springs, Idaho",earthquake,1.1,0.8,0.057,40,reviewed,us,us
+2017-09-13T07:22:55.770Z,42.573,-111.4156667,6.99,2.19,ml,13,103,0.02938,0.11,uu,uu60244787,2018-06-22T17:57:46.770Z,"southern Idaho",earthquake,0.37,0.37,0.085,2,reviewed,uu,uu
+2017-09-13T07:13:39.230Z,42.6604,-111.4643,9.3,2.2,ml,,66,0.017,0.27,us,us2000albc,2018-06-22T17:46:50.290Z,"11 km E of Soda Springs, Idaho",earthquake,1.7,3.2,0.06,36,reviewed,us,us
+2017-09-13T06:57:19.080Z,42.5697,-111.4228,7.55,2.5,ml,,42,0.026,0.31,us,us2000alb7,2017-12-13T02:29:41.040Z,"10 km NNW of Georgetown, Idaho",earthquake,0.8,1.8,0.06,36,reviewed,us,us
+2017-09-13T03:47:00.180Z,42.6265,-111.4625,2.78,2.1,ml,11,90,0.01659,0.13,uu,uu60244717,2018-06-19T20:49:30.630Z,"12 km ESE of Soda Springs, Idaho",earthquake,0.39,0.24,0.378,2,reviewed,uu,uu
+2017-09-13T02:37:58.610Z,42.5865,-111.4513333,2.99,2,ml,10,95,0.001248,0.08,uu,uu60244677,2018-06-19T20:09:35.320Z,"13 km NNW of Georgetown, Idaho",earthquake,0.25,0.29,0.083,2,reviewed,uu,uu
+2017-09-13T02:33:02.650Z,42.5223333,-111.4205,6.93,2.06,ml,12,95,0.05865,0.09,uu,uu60244672,2018-06-19T20:07:29.580Z,"6 km NW of Georgetown, Idaho",earthquake,0.25,0.54,0.125,2,reviewed,uu,uu
+2017-09-12T23:32:12.250Z,42.6058333,-111.4595,6.84,2.18,md,10,93,0.02129,0.08,uu,uu60016014,2018-06-28T21:03:09.580Z,"13 km ESE of Soda Springs, Idaho",earthquake,0.44,0.37,0.24,4,reviewed,uu,uu
+2017-09-12T18:23:04.910Z,42.5202,-111.4556,8.69,2.7,ml,,44,0.065,0.64,us,us2000akxq,2018-07-12T14:34:16.841Z,"8 km WNW of Georgetown, Idaho",earthquake,1.4,7.5,0.06,37,reviewed,us,us
+2017-09-12T16:41:47.590Z,42.5678333,-111.4338333,8.16,2.04,ml,14,100,0.02193,0.08,uu,uu60244512,2018-06-28T20:19:57.000Z,"10 km NNW of Georgetown, Idaho",earthquake,0.44,0.31,0.202,2,reviewed,uu,uu
+2017-09-12T16:10:38.350Z,42.554,-111.4133333,8.22,2.33,ml,12,105,0.04226,0.14,uu,uu60244502,2018-06-28T20:14:44.170Z,"8 km NNW of Georgetown, Idaho",earthquake,0.29,0.42,0.209,2,reviewed,uu,uu
+2017-09-12T16:08:25.180Z,42.5493333,-111.4243333,9.48,2.04,ml,9,103,0.04128,0.07,uu,uu60244497,2018-06-28T20:07:30.710Z,"8 km NNW of Georgetown, Idaho",earthquake,0.27,0.35,0.176,2,reviewed,uu,uu
+2017-09-12T15:23:50.280Z,42.512,-111.4111667,7.97,2.51,ml,11,96,0.04633,0.12,uu,uu60244452,2018-06-28T19:52:23.000Z,"4 km NW of Georgetown, Idaho",earthquake,0.5,0.55,0.264,2,reviewed,uu,uu
+2017-09-12T14:15:23.770Z,42.5308333,-111.4291667,7.05,2.04,ml,12,95,0.05695,0.08,uu,uu60244412,2018-06-27T23:06:28.350Z,"7 km NW of Georgetown, Idaho",earthquake,0.28,0.48,0.359,2,reviewed,uu,uu
+2017-09-12T13:27:06.950Z,42.5945,-111.4423333,1.7,2.41,ml,28,84,0.01155,0.15,uu,uu60244352,2017-11-22T00:19:36.340Z,"13 km NNW of Georgetown, Idaho",earthquake,0.25,0.31,0.12,10,reviewed,uu,uu
+2017-09-12T12:22:51.130Z,42.5693333,-111.4173333,8.3,2.5,ml,12,109,0.03005,0.09,uu,uu60244302,2018-06-27T22:44:38.000Z,"10 km NNW of Georgetown, Idaho",earthquake,0.33,0.45,0.021,2,reviewed,uu,uu
+2017-09-12T12:10:47.980Z,42.5638333,-111.4375,5.31,2.19,ml,12,99,0.02391,0.06,uu,uu60244297,2018-06-27T22:39:27.730Z,"10 km NNW of Georgetown, Idaho",earthquake,0.26,0.37,0.073,2,reviewed,uu,uu
+2017-09-12T11:02:42.350Z,42.6343333,-111.4641667,4.86,2.04,ml,10,92,0.009372,0.13,uu,uu60244272,2018-06-27T22:24:55.840Z,"11 km E of Soda Springs, Idaho",earthquake,0.42,0.58,0.13,2,reviewed,uu,uu
+2017-09-12T09:39:03.550Z,42.6083333,-111.4653333,2.53,2.1,ml,28,56,0.0251,0.17,uu,uu60244207,2017-09-12T18:48:05.030Z,"12 km ESE of Soda Springs, Idaho",earthquake,0.29,0.27,0.161,3,reviewed,uu,uu
+2017-09-12T07:14:13.620Z,42.5633333,-111.4321667,5.52,2.44,ml,11,116,0.02631,0.09,uu,uu60244127,2018-06-27T21:15:27.700Z,"10 km NNW of Georgetown, Idaho",earthquake,0.48,0.39,0.007,2,reviewed,uu,uu
+2017-09-12T07:13:04.160Z,42.592,-111.4385,5.52,2.14,ml,10,100,0.01189,0.05,uu,uu60244122,2018-06-27T21:10:17.330Z,"13 km NNW of Georgetown, Idaho",earthquake,0.32,0.39,0.171,2,reviewed,uu,uu
+2017-09-12T07:11:52.240Z,42.611,-111.4398333,6.48,2.06,ml,10,100,0.02716,0.05,uu,uu60244117,2018-06-27T21:07:41.690Z,"14 km ESE of Soda Springs, Idaho",earthquake,0.31,0.22,0.196,2,reviewed,uu,uu
+2017-09-12T07:03:19.160Z,42.6413333,-111.4775,2.93,2.02,ml,21,71,0.01374,0.17,uu,uu60244112,2017-12-11T19:09:43.240Z,"10 km E of Soda Springs, Idaho",earthquake,0.31,0.67,0.098,4,reviewed,uu,uu
+2017-09-12T03:02:25.840Z,42.5795,-111.4278333,7.38,2.23,md,9,104,0.01863,0.06,uu,uu60015999,2018-06-26T23:15:44.030Z,"11 km NNW of Georgetown, Idaho",earthquake,0.41,0.32,0.164,4,reviewed,uu,uu
+2017-09-12T02:01:28.210Z,42.5814,-111.4478,6.02,2.5,ml,,56,0.004,0.36,us,us2000akii,2017-12-13T02:29:39.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.1,1.1,0.048,56,reviewed,us,us
+2017-09-12T01:46:01.000Z,42.5986667,-111.4646667,7.39,2.19,ml,8,87,0.01639,0.06,uu,uu60243862,2018-06-26T22:51:49.550Z,"13 km ESE of Soda Springs, Idaho",earthquake,0.37,0.32,0.138,2,reviewed,uu,uu
+2017-09-12T00:57:39.710Z,42.5422,-111.4236,5.98,2.4,ml,,68,0.047,0.3,us,us2000akhb,2018-06-26T22:27:27.690Z,"7 km NNW of Georgetown, Idaho",earthquake,1.1,0.9,0.06,36,reviewed,us,us
+2017-09-12T00:52:37.480Z,42.5825,-111.4213,7.47,2.8,ml,,58,0.022,0.24,us,us2000akh7,2017-12-13T02:29:39.040Z,"11 km NNW of Georgetown, Idaho",earthquake,1.1,1.2,0.069,28,reviewed,us,us
+2017-09-12T00:14:35.390Z,42.6006,-111.45,6.65,2.7,ml,,57,0.015,0.36,us,us2000akgt,2017-12-13T02:29:39.040Z,"14 km ESE of Soda Springs, Idaho",earthquake,1.1,1.2,0.037,98,reviewed,us,us
+2017-09-12T00:12:44.680Z,42.5985,-111.4353333,6.87,2.11,ml,8,103,0.01794,0.06,uu,uu60243757,2018-06-26T22:15:29.630Z,"13 km NNW of Georgetown, Idaho",earthquake,0.46,0.37,0.154,2,reviewed,uu,uu
+2017-09-12T00:00:26.060Z,42.5922,-111.4619,9.11,3.1,ml,,50,0.01,0.44,us,us2000akgp,2017-12-13T02:29:39.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.3,3.3,0.036,102,reviewed,us,us
+2017-09-11T22:39:59.180Z,42.6034,-111.4645,6.58,2.8,ml,,56,0.02,0.27,us,us2000akfr,2017-12-13T02:29:39.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,1.1,2.1,0.043,72,reviewed,us,us
+2017-09-11T22:16:08.220Z,42.6043333,-111.4548333,6.16,2.43,ml,27,81,0.01915,0.18,uu,uu60243637,2017-11-22T00:19:28.720Z,"13 km ESE of Soda Springs, Idaho",earthquake,0.37,0.42,0.193,6,reviewed,uu,uu
+2017-09-11T22:00:16.320Z,42.6047,-111.4582,8.62,2.3,ml,,93,0.119,0.27,us,us2000bt2d,2017-12-13T02:29:39.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,0.6,6.5,0.081,20,reviewed,us,us
+2017-09-11T21:48:02.070Z,42.5414,-111.4128,6.45,2.6,ml,,58,0.052,0.3,us,us2000akdq,2017-12-13T02:29:39.040Z,"7 km NNW of Georgetown, Idaho",earthquake,1.2,1.4,0.048,58,reviewed,us,us
+2017-09-11T21:07:33.450Z,42.5566,-111.4202,9,2.4,ml,,71,0.037,0.26,us,us2000akch,2017-12-13T02:29:39.040Z,"9 km NNW of Georgetown, Idaho",earthquake,1.2,3.1,0.055,44,reviewed,us,us
+2017-09-11T20:36:51.090Z,42.6039,-111.4355,10,2.8,ml,,30,0.022,0.93,us,us2000bt2c,2017-12-13T02:29:39.040Z,"14 km NNW of Georgetown, Idaho",earthquake,1.1,2,0.046,62,reviewed,us,us
+2017-09-11T19:58:52.180Z,42.5779,-111.4332,7.04,2.5,ml,,70,0.015,0.3,us,us2000akaa,2017-12-13T02:29:39.040Z,"11 km NNW of Georgetown, Idaho",earthquake,1.1,1.3,0.045,66,reviewed,us,us
+2017-09-11T19:20:04.550Z,42.609,-111.471,7.61,3,ml,,56,0.027,0.25,us,us2000ak9n,2017-12-13T02:29:39.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,1,1.3,0.064,32,reviewed,us,us
+2017-09-11T18:35:17.000Z,42.5243333,-111.4231667,7.67,2.04,ml,18,91,0.06145,0.2,uu,uu60243377,2017-09-14T15:46:23.260Z,"6 km NW of Georgetown, Idaho",earthquake,0.51,0.57,0.305,4,reviewed,uu,uu
+2017-09-11T17:31:29.130Z,42.5401,-111.4259,6.8,2.5,ml,,66,0.049,0.39,us,us2000ak7m,2017-12-13T02:29:38.040Z,"7 km NW of Georgetown, Idaho",earthquake,1.4,5,0.041,78,reviewed,us,us
+2017-09-11T17:13:13.730Z,42.5255,-111.4226667,5.38,2.43,ml,20,92,0.0621,0.17,uu,uu60243267,2017-11-22T00:19:20.800Z,"6 km NW of Georgetown, Idaho",earthquake,0.37,0.73,0.149,4,reviewed,uu,uu
+2017-09-11T16:17:09.690Z,42.5458333,-111.4258333,6.7,2.37,ml,14,101,0.04386,0.08,uu,uu60012999,2017-09-11T20:18:54.490Z,"8 km NNW of Georgetown, Idaho",earthquake,0.35,0.51,0.16,5,reviewed,uu,uu
+2017-09-11T16:16:31.940Z,42.5774,-111.4221,8.61,3.2,ml,,58,0.023,0.49,us,us2000ak62,2017-12-13T02:29:38.040Z,"11 km NNW of Georgetown, Idaho",earthquake,1.5,10.2,0.047,59,reviewed,us,us
+2017-09-11T15:33:53.150Z,42.6086,-111.4647,4.31,3.1,ml,,56,0.025,0.38,us,us2000ak58,2017-12-13T02:29:38.040Z,"southern Idaho",earthquake,1,1.1,0.064,32,reviewed,us,us
+2017-09-11T15:11:32.750Z,42.5413,-111.4148,9.05,3,ml,,57,0.051,0.35,us,us2000ak4j,2017-12-13T02:29:38.040Z,"7 km NNW of Georgetown, Idaho",earthquake,1.2,4.2,0.05,52,reviewed,us,us
+2017-09-11T14:32:55.620Z,42.6048,-111.4329,10.74,2.7,ml,,58,0.024,0.6,us,us2000ak3b,2017-12-13T02:29:38.040Z,"14 km NNW of Georgetown, Idaho",earthquake,1,2.9,0.069,28,reviewed,us,us
+2017-09-11T14:29:17.270Z,42.5708333,-111.4406667,6.17,2.26,ml,22,86,0.01663,0.12,uu,uu60243057,2017-09-22T15:39:32.210Z,"southern Idaho",earthquake,0.44,0.26,0.171,9,reviewed,uu,uu
+2017-09-11T14:23:43.930Z,42.5291,-111.4099,7.25,2.6,ml,,93,0.059,0.13,us,us2000bt28,2017-12-13T02:29:38.040Z,"6 km NNW of Georgetown, Idaho",earthquake,1.2,3.8,0.085,18,reviewed,us,us
+2017-09-11T14:22:21.000Z,42.5319,-111.4269,6.74,2.8,ml,,62,0.056,0.31,us,us2000ak35,2021-02-19T02:11:10.460Z,"7 km NW of Georgetown, Idaho",earthquake,0.8,1.5,0.057,40,reviewed,us,us
+2017-09-11T14:16:53.860Z,42.5441,-111.4303,6.3,2.8,ml,,57,0.044,0.31,us,us2000ak30,2017-12-13T02:29:38.040Z,"8 km NW of Georgetown, Idaho",earthquake,0.8,1.5,0.057,40,reviewed,us,us
+2017-09-11T14:12:35.970Z,42.5384,-111.4193,7.18,2.8,ml,,57,0.052,0.28,us,us2000ak2x,2017-12-13T02:29:38.040Z,"7 km NNW of Georgetown, Idaho",earthquake,1.1,1.3,0.059,38,reviewed,us,us
+2017-09-11T14:09:42.180Z,42.5324,-111.4256,5.44,2.4,ml,,57,0.068,0.28,us,us2000ak2u,2017-12-13T02:29:38.040Z,"7 km NW of Georgetown, Idaho",earthquake,0.9,8.7,0.071,26,reviewed,us,us
+2017-09-11T14:05:30.330Z,42.5438,-111.4143,7.19,3.5,mwr,,107,0.049,0.34,us,us2000ak5e,2018-07-13T19:08:58.010Z,"7 km NNW of Georgetown, Idaho",earthquake,0.9,1.4,,19,reviewed,us,slm
+2017-09-11T14:05:06.320Z,42.5367,-111.4063,6.4,2.7,ml,,75,0.059,0.35,us,us2000ak2i,2017-12-13T02:29:38.040Z,"6 km NNW of Georgetown, Idaho",earthquake,0.6,1.8,0.091,20,reviewed,us,us
+2017-09-11T13:59:08.260Z,42.5371,-111.4275,6.43,2.7,ml,,57,0.051,0.34,us,us2000ak25,2017-12-13T02:29:38.040Z,"7 km NW of Georgetown, Idaho",earthquake,1.2,1.5,0.06,36,reviewed,us,us
+2017-09-11T13:45:21.110Z,42.5419,-111.4339,8.21,2.6,ml,,63,0.045,0.19,us,us2000ak1y,2017-12-13T02:29:38.040Z,"8 km NW of Georgetown, Idaho",earthquake,1.2,3.8,0.062,34,reviewed,us,us
+2017-09-11T13:38:34.700Z,42.5456,-111.4362,6.59,2.9,ml,,56,0.041,0.27,us,us2000ak1r,2017-12-13T02:29:38.040Z,"8 km NW of Georgetown, Idaho",earthquake,1.1,5.8,0.056,42,reviewed,us,us
+2017-09-11T13:36:25.250Z,42.5476,-111.4366,10.03,3,ml,,56,0.039,0.66,us,us2000ak1m,2017-12-13T02:29:38.040Z,"9 km NW of Georgetown, Idaho",earthquake,1.6,7.6,0.051,50,reviewed,us,us
+2017-09-11T13:31:26.150Z,42.5632,-111.4277,6.15,3.2,ml,,63,0.028,0.26,us,us2000bt26,2017-12-13T02:29:38.040Z,"10 km NNW of Georgetown, Idaho",earthquake,1.5,2.7,0.069,28,reviewed,us,us
+2017-09-11T13:29:25.880Z,42.545,-111.4454,9.07,2.8,ml,,91,0.04,0.39,us,us2000bsvl,2017-12-13T02:29:38.040Z,"9 km NW of Georgetown, Idaho",earthquake,1.7,5,0.077,22,reviewed,us,us
+2017-09-11T13:27:25.110Z,42.5687,-111.4392,7.21,3.2,ml,,99,0.019,0.27,us,us2000bsvk,2017-12-13T02:29:38.040Z,"11 km NNW of Georgetown, Idaho",earthquake,1.3,1.7,0.128,8,reviewed,us,us
+2017-09-11T13:26:35.640Z,42.547,-111.4397,8.42,4.7,mww,,51,0.039,0.37,us,us2000ak17,2017-12-13T02:29:38.040Z,"9 km NW of Georgetown, Idaho",earthquake,2.1,5.5,0.053,34,reviewed,us,us
+2017-09-11T12:44:16.980Z,42.5676,-111.4402,5.15,2.5,ml,,34,0.019,0.35,us,us2000ak0e,2017-12-13T02:29:38.040Z,"11 km NNW of Georgetown, Idaho",earthquake,0.8,1.7,0.047,60,reviewed,us,us
+2017-09-11T12:35:47.450Z,42.5562,-111.4052,5.83,3,ml,,92,0.045,0.28,us,us2000bsvj,2017-12-13T02:29:37.040Z,"8 km NNW of Georgetown, Idaho",earthquake,1,1.6,0.105,12,reviewed,us,us
+2017-09-11T12:35:03.690Z,42.5548,-111.404,6.55,3.2,ml,,115,0.046,0.24,us,us2000bsvi,2017-12-13T02:29:37.040Z,"8 km NNW of Georgetown, Idaho",earthquake,1,1.6,0.097,14,reviewed,us,us
+2017-09-11T12:34:30.220Z,42.5481,-111.4421,9.98,4.1,mwr,,62,0.037,0.58,us,us2000ak05,2017-12-13T02:29:37.040Z,"9 km NW of Georgetown, Idaho",earthquake,1.2,2.4,0.032,94,reviewed,us,us
+2017-09-11T12:32:54.920Z,42.566,-111.433,7.89,2.7,ml,,57,0.023,0.22,us,us2000ak03,2017-12-13T02:29:37.040Z,"10 km NNW of Georgetown, Idaho",earthquake,0.9,1.2,0.062,34,reviewed,us,us
+2017-09-11T12:10:14.150Z,42.6171,-111.4499,6.59,2.5,ml,,74,0.026,0.49,us,us2000ajzy,2021-02-19T02:11:21.221Z,"13 km ESE of Soda Springs, Idaho",earthquake,1,1.2,0.062,34,reviewed,us,us
+2017-09-11T11:46:30.690Z,42.5733,-111.4229,8.61,3,ml,,58,0.024,0.3,us,us2000ajzq,2017-12-13T02:29:37.040Z,"10 km NNW of Georgetown, Idaho",earthquake,1.1,2.8,0.045,66,reviewed,us,us
+2017-09-11T10:00:17.100Z,42.5421,-111.4352,7.04,2.9,ml,,56,0.044,0.2,us,us2000ajy4,2017-12-13T02:29:37.040Z,"8 km NW of Georgetown, Idaho",earthquake,1,1.2,0.051,50,reviewed,us,us
+2017-09-11T09:46:04.220Z,42.568,-111.4269,8.06,2.9,ml,,57,0.025,0.23,us,us2000ajxv,2017-12-13T02:29:37.040Z,"10 km NNW of Georgetown, Idaho",earthquake,1.3,3.1,0.055,43,reviewed,us,us
+2017-09-11T09:41:31.840Z,42.5469,-111.4061,8.41,3,ml,,78,0.051,0.24,us,us2000bt21,2017-12-13T02:29:37.040Z,"7 km NNW of Georgetown, Idaho",earthquake,1.6,5.9,0.066,30,reviewed,us,us
+2017-09-11T09:39:43.140Z,42.5486,-111.4333,9.47,3.2,ml,,98,0.039,0.71,us,us2000bsvh,2017-12-13T02:29:37.040Z,"8 km NW of Georgetown, Idaho",earthquake,1.2,4.4,0.097,14,reviewed,us,us
+2017-09-11T09:38:45.520Z,42.5552,-111.4471,5.28,4.1,ml,,110,0.03,0.41,us,us2000bsvg,2017-12-13T02:29:37.040Z,"10 km NW of Georgetown, Idaho",earthquake,1.2,3.5,0.278,3,reviewed,us,uu
+2017-09-11T09:38:39.240Z,42.5592,-111.4576,4.83,4.1,ml,,70,0.026,0.27,us,us2000bsvf,2017-12-13T02:29:37.040Z,"11 km NW of Georgetown, Idaho",earthquake,2.3,2.3,0.053,46,reviewed,us,us
+2017-09-11T09:36:31.560Z,42.5544,-111.4287,2.24,4.3,mwr,,32,0.035,0.51,us,us2000ajxj,2017-12-13T02:29:37.040Z,"9 km NNW of Georgetown, Idaho",earthquake,2,4.6,0.032,94,reviewed,us,us
+2017-09-11T09:35:22.080Z,42.5461667,-111.4315,6.37,2.2,ml,15,88,0.04189,0.13,uu,uu60242567,2017-09-14T16:23:58.450Z,"8 km NW of Georgetown, Idaho",earthquake,0.35,0.59,0.099,2,reviewed,uu,uu
+2017-09-11T07:50:17.320Z,42.625,-111.4597,7.09,2.7,ml,,57,0.017,0.23,us,us2000ajwc,2017-12-13T02:29:37.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,1,1.2,0.046,62,reviewed,us,us
+2017-09-11T06:02:19.850Z,42.5696,-111.4394,4.07,2.9,ml,,57,0.018,0.29,us,us2000ajvf,2017-12-13T02:29:37.040Z,"11 km NNW of Georgetown, Idaho",earthquake,1,1.2,0.038,92,reviewed,us,us
+2017-09-11T05:34:06.740Z,42.6638,-111.4461,8.48,2.5,ml,,58,0.023,0.21,us,us2000ajv3,2017-12-13T02:29:37.040Z,"13 km E of Soda Springs, Idaho",earthquake,1.4,3.7,0.045,64,reviewed,us,us
+2017-09-11T05:28:46.140Z,42.568,-111.4045,8.19,2,ml,9,115,0.03898,0.05,uu,uu60242422,2018-07-06T22:23:39.770Z,"9 km NNW of Georgetown, Idaho",earthquake,0.52,0.59,0.019,2,reviewed,uu,uu
+2017-09-11T04:48:18.450Z,42.5855,-111.4245,6.41,2.37,ml,19,87,0.02016,0.09,uu,uu60242392,2017-11-22T00:18:46.680Z,"12 km NNW of Georgetown, Idaho",earthquake,0.27,0.38,0.134,3,reviewed,uu,uu
+2017-09-11T04:46:35.110Z,42.5533333,-111.4145,8.78,2.04,ml,12,109,0.04219,0.07,uu,uu60242387,2017-09-14T17:10:56.240Z,"8 km NNW of Georgetown, Idaho",earthquake,0.4,0.29,0.059,2,reviewed,uu,uu
+2017-09-11T02:34:53.870Z,42.6746,-111.5232,9.6,3,ml,,126,0.057,0.83,us,us2000ajt5,2017-12-13T02:29:36.040Z,"7 km ENE of Soda Springs, Idaho",earthquake,2.3,7.9,0.053,46,reviewed,us,us
+2017-09-11T02:34:41.350Z,42.6541,-111.4409,8.53,2.9,ml,,58,0.017,0.5,us,us2000ajt2,2017-12-13T02:29:36.040Z,"13 km E of Soda Springs, Idaho",earthquake,1.5,1.5,0.047,60,reviewed,us,us
+2017-09-11T01:00:33.810Z,42.5863,-111.4604,4.63,2.3,ml,,40,0.006,0.51,us,us2000ajsg,2017-12-13T02:29:36.040Z,"13 km NNW of Georgetown, Idaho",earthquake,1.3,1.9,0.052,48,reviewed,us,us
+2017-09-11T00:57:11.720Z,42.5904,-111.443,7.61,2.3,ml,,72,0.008,0.59,us,us2000ajsf,2018-06-28T21:28:55.810Z,"southern Idaho",earthquake,1.7,2.4,0.055,44,reviewed,us,us
+2017-09-11T00:12:32.660Z,42.5646,-111.4147,8.76,3.2,ml,,58,0.034,0.26,us,us2000ajs1,2017-12-13T02:29:36.040Z,"9 km NNW of Georgetown, Idaho",earthquake,0.9,2.8,0.034,112,reviewed,us,us
+2017-09-10T23:22:38.040Z,42.584,-111.4372,3.54,2.4,ml,,70,0.01,0.34,us,us2000ajrn,2017-12-13T02:29:36.040Z,"southern Idaho",earthquake,1.2,1.6,0.049,54,reviewed,us,us
+2017-09-10T23:03:45.630Z,42.6004,-111.4602,5.08,2.4,ml,,68,0.016,0.35,us,us2000ajrh,2017-12-13T02:29:36.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,0.8,1.4,0.05,52,reviewed,us,us
+2017-09-10T22:56:26.070Z,42.5956,-111.4481,10,3,ml,,57,0.01,0.59,us,us2000ajre,2017-12-13T02:29:36.040Z,"14 km NNW of Georgetown, Idaho",earthquake,0.9,1.5,0.038,90,reviewed,us,us
+2017-09-10T22:17:01.470Z,42.578,-111.4302,10,3.3,ml,,57,0.017,0.44,us,us2000ajq9,2017-12-13T02:29:36.040Z,"11 km NNW of Georgetown, Idaho",earthquake,1.1,1.6,0.037,94,reviewed,us,us
+2017-09-10T21:28:12.120Z,42.5828,-111.4444,10,2.7,ml,,57,0.006,0.37,us,us2000ajp8,2017-12-13T02:29:36.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.2,1.6,0.053,46,reviewed,us,us
+2017-09-10T20:32:15.660Z,42.5578,-111.4159,10,3.4,ml,,58,0.038,0.41,us,us2000ajms,2017-12-13T02:29:35.040Z,"9 km NNW of Georgetown, Idaho",earthquake,1.4,1.6,0.049,54,reviewed,us,us
+2017-09-10T20:14:54.700Z,42.5711,-111.4599,10.61,2.5,ml,,63,0.015,0.6,us,us2000ajm5,2017-12-13T02:29:35.040Z,"12 km NW of Georgetown, Idaho",earthquake,2,4.4,0.057,40,reviewed,us,us
+2017-09-10T20:07:14.070Z,42.5515,-111.4176,8.7,3.2,ml,,58,0.042,0.29,us,us2000ajlx,2017-12-13T02:29:35.040Z,"8 km NNW of Georgetown, Idaho",earthquake,1.1,3.5,0.059,38,reviewed,us,us
+2017-09-10T19:38:44.900Z,42.554,-111.4169,7.05,2.9,ml,,71,0.04,0.25,us,us2000akfw,2017-12-13T02:29:35.040Z,"8 km NNW of Georgetown, Idaho",earthquake,0.9,1.5,0.06,36,reviewed,us,us
+2017-09-10T19:37:02.030Z,42.5497,-111.4177,8.7,2.7,ml,,57,0.043,0.29,us,us2000ajl5,2017-12-13T02:29:35.040Z,"8 km NNW of Georgetown, Idaho",earthquake,0.6,4.2,0.057,40,reviewed,us,us
+2017-09-10T19:06:22.590Z,42.5679,-111.4432,8.33,3.4,ml,,64,0.018,0.73,us,us2000bsve,2017-12-13T02:29:35.040Z,"11 km NNW of Georgetown, Idaho",earthquake,1.5,5.6,0.085,18,reviewed,us,us
+2017-09-10T19:05:36.840Z,42.5954,-111.3738,10,3.7,ml,,103,0.058,0.58,us,us2000bsus,2017-12-13T02:29:35.040Z,"12 km N of Georgetown, Idaho",earthquake,2.6,1.7,0.407,3,reviewed,us,uu
+2017-09-10T19:05:13.280Z,42.5664,-111.4024,13,4.1,mwr,,34,0.041,0.53,us,us2000ajkd,2017-12-13T02:29:35.040Z,"9 km NNW of Georgetown, Idaho",earthquake,0.9,1.6,0.036,75,reviewed,us,us
+2017-09-10T18:56:20.800Z,42.5449,-111.4181,7.46,2.3,ml,,71,0.047,0.25,us,us2000ajkz,2017-12-13T02:29:35.040Z,"7 km NNW of Georgetown, Idaho",earthquake,1.2,1,0.057,40,reviewed,us,us
+2017-09-10T18:39:29.580Z,42.5593,-111.4162,7.45,3,ml,,72,0.037,0.29,us,us2000ajjx,2017-12-13T02:29:35.040Z,"9 km NNW of Georgetown, Idaho",earthquake,1.1,1.4,0.052,48,reviewed,us,us
+2017-09-10T18:39:02.860Z,42.5493,-111.3763,10,2.7,ml,,60,0.071,1.1,us,us2000bt1x,2017-12-13T02:29:35.040Z,"7 km N of Georgetown, Idaho",earthquake,1.3,1.9,0.059,38,reviewed,us,us
+2017-09-10T18:25:21.620Z,42.6083,-111.4629,6.87,2.3,ml,,68,0.024,0.41,us,us2000ajjl,2017-12-13T02:29:35.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,1.4,1.4,0.06,36,reviewed,us,us
+2017-09-10T17:51:56.650Z,42.5628,-111.4204,8.45,2.4,ml,,71,0.032,0.16,us,us2000ajjb,2017-12-13T02:29:35.040Z,"9 km NNW of Georgetown, Idaho",earthquake,1.3,2.9,0.059,38,reviewed,us,us
+2017-09-10T17:18:22.830Z,42.6021,-111.4456,6.23,2.7,ml,,57,0.017,0.2,us,us2000ajiy,2017-12-13T02:29:35.040Z,"14 km ESE of Soda Springs, Idaho",earthquake,1.6,1.2,0.045,64,reviewed,us,us
+2017-09-10T17:02:25.810Z,42.5627,-111.4296,11.62,2.5,ml,,70,0.027,0.48,us,us2000ajih,2017-12-13T02:29:35.040Z,"10 km NNW of Georgetown, Idaho",earthquake,3,4.9,0.057,40,reviewed,us,us
+2017-09-10T16:57:01.720Z,42.5965,-111.4321667,4.48,2.02,ml,7,178,0.01832,0.17,uu,uu60241572,2017-09-14T18:06:30.030Z,"13 km NNW of Georgetown, Idaho",earthquake,0.99,0.82,0.201,2,reviewed,uu,uu
+2017-09-10T15:26:47.490Z,42.5642,-111.4148,7.33,2.6,ml,,58,0.034,0.25,us,us2000ajh4,2017-12-13T02:29:35.040Z,"9 km NNW of Georgetown, Idaho",earthquake,1.1,1,0.046,62,reviewed,us,us
+2017-09-10T15:17:19.190Z,42.5823,-111.4615,4.59,2.8,ml,,56,0.007,0.44,us,us2000ajgx,2017-12-13T02:29:35.040Z,"13 km NW of Georgetown, Idaho",earthquake,1.1,0.6,0.048,56,reviewed,us,us
+2017-09-10T15:13:21.380Z,42.5737,-111.4372,5.05,2.5,ml,,70,0.015,0.36,us,us2000ajgu,2017-12-13T02:29:35.040Z,"11 km NNW of Georgetown, Idaho",earthquake,1,1.1,0.049,54,reviewed,us,us
+2017-09-10T14:51:02.450Z,42.6043,-111.4231,4.76,2.6,ml,,58,0.028,0.27,us,us2000bt1u,2017-12-13T02:29:35.040Z,"14 km NNW of Georgetown, Idaho",earthquake,1.3,2,0.077,22,reviewed,us,us
+2017-09-10T14:47:42.910Z,42.5624,-111.4162,9.55,3.4,mwr,,58,0.034,0.23,us,us2000ajge,2017-12-13T02:29:35.040Z,"9 km NNW of Georgetown, Idaho",earthquake,1.4,2.7,,5,reviewed,us,slm
+2017-09-10T14:38:18.430Z,42.5549,-111.4106,7.47,3.1,ml,,58,0.043,0.24,us,us2000ajgc,2017-12-13T02:29:35.040Z,"8 km NNW of Georgetown, Idaho",earthquake,1.2,1.1,0.045,66,reviewed,us,us
+2017-09-10T13:26:53.950Z,42.6255,-111.4344,6.61,2.2,ml,,58,0.128,0.32,us,us2000ajet,2017-12-13T02:29:34.040Z,"14 km ESE of Soda Springs, Idaho",earthquake,0.7,4.2,0.06,36,reviewed,us,us
+2017-09-10T13:14:57.940Z,42.5631,-111.4259,6.42,2.7,ml,,57,0.029,0.29,us,us2000ajeq,2017-12-13T02:29:34.040Z,"10 km NNW of Georgetown, Idaho",earthquake,0.8,1.4,0.049,54,reviewed,us,us
+2017-09-10T13:09:51.060Z,42.5522,-111.4073,8.48,3,ml,,58,0.046,0.21,us,us2000ajen,2017-12-13T02:29:34.040Z,"8 km NNW of Georgetown, Idaho",earthquake,1.3,3.4,0.051,50,reviewed,us,us
+2017-09-10T13:03:35.420Z,42.6232,-111.4622,4.31,2.6,ml,,56,0.019,0.41,us,us2000ajej,2017-12-13T02:29:34.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,0.8,2.4,0.048,58,reviewed,us,us
+2017-09-10T12:48:32.910Z,42.545,-111.4266,6.74,2.7,ml,,78,0.044,0.58,us,us2000bt1g,2017-12-13T02:29:34.040Z,"8 km NNW of Georgetown, Idaho",earthquake,1,1.8,0.091,16,reviewed,us,us
+2017-09-10T12:45:19.240Z,42.5607,-111.4354,6.12,3.5,mwr,,57,0.027,0.33,us,us2000aje3,2017-12-13T02:29:34.040Z,"10 km NNW of Georgetown, Idaho",earthquake,1.2,1,0.063,24,reviewed,us,us
+2017-09-10T12:43:47.020Z,42.6021,-111.4617,6.49,2.8,ml,,56,0.018,0.27,us,us2000aje1,2017-12-13T02:29:34.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.3,1.4,0.048,56,reviewed,us,us
+2017-09-10T12:39:01.110Z,42.6011,-111.4521,4.16,2.5,ml,,57,0.015,0.32,us,us2000ajdz,2017-12-13T02:29:34.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1,2.2,0.051,50,reviewed,us,us
+2017-09-10T12:36:24.200Z,42.584,-111.4696667,8.71,2.42,ml,13,152,0.05939,0.16,uu,uu60241177,2017-11-22T00:17:59.800Z,"13 km SE of Soda Springs, Idaho",earthquake,1.27,0.79,0.19,4,reviewed,uu,uu
+2017-09-10T12:31:24.940Z,42.6133,-111.4671,4.54,2.5,ml,,56,0.03,0.29,us,us2000bt1e,2017-12-13T02:29:34.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,1.4,2.6,0.059,38,reviewed,us,us
+2017-09-10T12:27:44.210Z,42.6144,-111.4523,3.71,3,ml,,57,0.028,0.48,us,us2000ajdq,2017-12-13T02:29:34.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.1,1.1,0.043,70,reviewed,us,us
+2017-09-10T12:24:41.970Z,42.5982,-111.4301,4.75,2.3,ml,,58,0.02,0.35,us,us2000ajdl,2017-12-13T02:29:34.040Z,"13 km NNW of Georgetown, Idaho",earthquake,1.4,2.2,0.057,40,reviewed,us,us
+2017-09-10T12:19:11.980Z,42.5866,-111.4279,8.86,3.9,mwr,,58,0.017,0.32,us,us2000ajdf,2017-12-13T02:29:34.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.4,1.8,0.047,43,reviewed,us,us
+2017-09-10T12:17:37.200Z,42.6267,-111.4566,4.94,3.3,mwr,,57,0.016,0.17,us,us2000ajdd,2017-12-13T02:29:34.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,1.1,1.9,,3,reviewed,us,slm
+2017-09-10T12:14:01.970Z,42.59,-111.427,6.81,2.14,ml,11,134,0.01891,0.18,uu,uu60241107,2017-09-14T18:31:13.160Z,"12 km NNW of Georgetown, Idaho",earthquake,0.9,0.51,0.011,2,reviewed,uu,uu
+2017-09-10T11:57:45.690Z,42.5974,-111.4724,8.88,2.6,ml,,48,0.019,0.9,us,us2000ajcy,2017-12-13T02:29:34.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,1.5,1.4,0.048,58,reviewed,us,us
+2017-09-10T11:47:19.850Z,42.6333,-111.4567,6.78,2.5,ml,,78,0.009,0.53,us,us1000bl6n,2017-12-13T02:29:34.040Z,"12 km E of Soda Springs, Idaho",earthquake,1.4,1.4,0.085,18,reviewed,us,us
+2017-09-10T11:46:21.400Z,42.6034,-111.4712,5,2.4,ml,,59,0.023,0.38,us,us2000ajcq,2017-12-13T02:29:34.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,0.7,1.3,0.056,42,reviewed,us,us
+2017-09-10T11:40:46.960Z,42.6274,-111.4403,7.96,2.9,ml,,58,0.02,0.67,us,us2000ajci,2017-12-13T02:29:34.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.1,1.9,0.048,58,reviewed,us,us
+2017-09-10T11:37:21.350Z,42.5728,-111.4348,9.03,2.9,ml,,57,0.017,0.36,us,us2000ajch,2017-12-13T02:29:34.040Z,"11 km NNW of Georgetown, Idaho",earthquake,0.9,2.8,0.042,76,reviewed,us,us
+2017-09-10T11:27:05.700Z,42.5616,-111.4273,6.06,2.6,ml,,57,0.084,0.48,us,us2000ajce,2017-12-13T02:29:34.040Z,"9 km NNW of Georgetown, Idaho",earthquake,1.1,1.7,0.051,50,reviewed,us,us
+2017-09-10T11:22:16.820Z,42.5572,-111.4506,7.23,3.1,ml,,56,0.028,0.7,us,us2000ajc9,2017-12-13T02:29:34.040Z,"10 km NW of Georgetown, Idaho",earthquake,1.1,1.6,0.043,70,reviewed,us,us
+2017-09-10T11:16:54.260Z,42.6023,-111.4513,6.44,2.6,ml,,96,0.017,0.4,us,us1000bjlu,2017-12-13T02:29:34.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,0.9,2.7,0.074,24,reviewed,us,us
+2017-09-10T11:14:31.150Z,42.614,-111.4915,19.7,3.2,ml,,75,0.037,0.74,us,us2000bsvd,2018-02-13T16:17:08.860Z,"10 km ESE of Soda Springs, Idaho",earthquake,4.1,3.9,0.105,12,reviewed,us,us
+2017-09-10T11:12:39.050Z,42.6074,-111.4701,4.56,4.7,mww,,30,0.025,0.47,us,us2000ajbt,2017-12-13T02:29:34.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,1,2.6,0.059,28,reviewed,us,us
+2017-09-10T11:10:20.100Z,42.5571,-111.4195,6.39,3.4,ml,,96,0.036,0.32,us,us2000bt1a,2017-12-13T02:29:34.040Z,"9 km NNW of Georgetown, Idaho",earthquake,1,1.4,0.053,46,reviewed,us,us
+2017-09-10T11:09:57.830Z,42.6092,-111.4765,4.45,2.6,ml,,60,0.03,0.64,us,us2000ajbp,2017-12-13T02:29:34.040Z,"11 km ESE of Soda Springs, Idaho",earthquake,1,2.1,0.052,48,reviewed,us,us
+2017-09-10T10:53:09.380Z,42.6134,-111.4758,4.92,3.1,ml,,56,0.032,0.31,us,us2000ajbk,2017-12-13T02:29:34.040Z,"11 km ESE of Soda Springs, Idaho",earthquake,1.2,1.9,0.041,78,reviewed,us,us
+2017-09-10T10:50:56.310Z,42.5777,-111.433,5.22,2.5,ml,,75,0.015,0.22,us,us2000bsut,2017-12-13T02:29:34.040Z,"12 km SSE of Georgetown, ID",earthquake,1.1,0.9,0.077,22,reviewed,us,us
+2017-09-10T10:50:35.480Z,42.5827,-111.4354,7.1,2.6,ml,,57,0.012,0.45,us,us2000ajbj,2017-12-13T02:29:34.040Z,"12 km NNW of Georgetown, Idaho",earthquake,0.9,2,0.053,46,reviewed,us,us
+2017-09-10T10:41:56.780Z,42.6037,-111.4398,7.56,2.5,ml,,57,0.02,0.27,us,us2000ajba,2017-12-13T02:29:34.040Z,"14 km NNW of Georgetown, Idaho",earthquake,0.9,1.4,0.045,64,reviewed,us,us
+2017-09-10T10:36:08.110Z,42.5945,-111.4449,4.68,2.7,ml,,54,0.01,0.39,us,us2000bt19,2017-12-13T02:29:33.040Z,"13 km NNW of Georgetown, Idaho",earthquake,0.6,2.2,0.059,38,reviewed,us,us
+2017-09-10T10:35:17.260Z,42.5994,-111.4433,6.79,2.5,ml,,57,0.015,0.33,us,us2000ajay,2017-12-13T02:29:33.040Z,"14 km NNW of Georgetown, Idaho",earthquake,0.9,1.4,0.051,50,reviewed,us,us
+2017-09-10T10:28:03.040Z,42.6365,-111.4732,5.41,2.5,ml,,62,0.012,0.73,us,us2000ajas,2017-12-13T02:29:33.040Z,"10 km E of Soda Springs, Idaho",earthquake,1,1.9,0.056,42,reviewed,us,us
+2017-09-10T10:18:57.880Z,42.631,-111.479,2.2,2.4,ml,,68,0.019,0.63,us,us2000ajaj,2017-12-13T02:29:33.040Z,"10 km ESE of Soda Springs, Idaho",earthquake,0.7,2.9,0.049,54,reviewed,us,us
+2017-09-10T10:11:57.280Z,42.5813,-111.4701,5.54,2.8,ml,,62,0.014,0.32,us,us2000ajad,2017-12-13T02:29:33.040Z,"13 km SE of Soda Springs, Idaho",earthquake,0.8,1.4,0.047,60,reviewed,us,us
+2017-09-10T10:09:02.720Z,42.5657,-111.4089,4.44,2.7,ml,,81,0.037,0.38,us,us2000ajac,2017-12-13T02:29:33.040Z,"9 km NNW of Georgetown, Idaho",earthquake,0.9,2.6,0.051,50,reviewed,us,us
+2017-09-10T10:07:42.930Z,42.6359,-111.4872,4.33,2.6,ml,,85,0.021,0.48,us,us2000bt18,2017-12-13T02:29:33.040Z,"9 km ESE of Soda Springs, Idaho",earthquake,1.9,1.9,0.051,50,reviewed,us,us
+2017-09-10T10:06:10.070Z,42.6363333,-111.4398333,-1.3,2.38,ml,10,142,0.1223,0.14,uu,uu60014004,2017-11-30T19:18:27.610Z,"13 km E of Soda Springs, Idaho",earthquake,0.39,1.3,0.374,2,reviewed,uu,uu
+2017-09-10T10:04:52.120Z,42.5867,-111.4646,5.08,2.5,ml,,55,0.009,0.48,us,us2000aja1,2017-12-13T02:29:33.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.1,1.7,0.046,62,reviewed,us,us
+2017-09-10T09:57:29.420Z,42.5551,-111.4072,5.32,2.5,ml,,61,0.044,0.28,us,us2000bt17,2017-12-13T02:29:33.040Z,"8 km NNW of Georgetown, Idaho",earthquake,0.9,2,0.071,26,reviewed,us,us
+2017-09-10T09:54:50.450Z,42.6136,-111.4454,7.55,3.1,ml,,57,0.028,0.31,us,us2000bt16,2017-12-13T02:29:33.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,0.9,1.4,0.059,38,reviewed,us,us
+2017-09-10T09:53:48.180Z,42.6303,-111.4459,5.94,2.7,ml,,98,0.015,0.36,us,us2000bvja,2017-12-13T02:29:33.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.2,1.7,0.077,22,reviewed,us,us
+2017-09-10T09:52:14.480Z,42.6308,-111.4462,4.01,3.4,ml,,57,0.015,0.22,us,us2000bt15,2017-12-13T02:29:33.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,0.8,2,0.06,36,reviewed,us,us
+2017-09-10T09:51:12.530Z,42.5946,-111.4303,7.55,3,ml,,104,0.018,0.31,us,us2000bsvc,2017-12-13T02:29:33.040Z,"13 km NNW of Georgetown, Idaho",earthquake,1,1.3,0.097,14,reviewed,us,us
+2017-09-10T09:50:49.520Z,42.5611,-111.4255,11.63,3,ml,,73,0.031,0.48,us,us2000bsvb,2017-12-13T02:29:33.040Z,"9 km NNW of Georgetown, Idaho",earthquake,1,3.2,0.074,24,reviewed,us,us
+2017-09-10T09:49:55.380Z,42.5975,-111.4269,4.66,2.8,ml,,85,0.022,0.46,us,us2000bsva,2017-12-13T02:29:33.040Z,"13 km NNW of Georgetown, Idaho",earthquake,1.2,1.6,0.105,12,reviewed,us,us
+2017-09-10T09:48:27.810Z,42.6147,-111.4216,2.61,3.5,ml,,107,0.036,0.25,us,us2000akbp,2017-12-13T02:29:33.040Z,"15 km NNW of Georgetown, Idaho",earthquake,1.5,3.1,0.105,12,reviewed,us,us
+2017-09-10T09:47:10.570Z,42.5629,-111.4155,9.83,5,mww,,24,0.034,0.75,us,us2000aj9i,2017-12-13T02:29:33.040Z,"9 km NNW of Georgetown, Idaho",earthquake,1.5,5,0.047,44,reviewed,us,us
+2017-09-10T08:48:18.170Z,42.6157,-111.4627,6.78,2.5,ml,,56,0.027,0.25,us,us2000aj8v,2017-12-13T02:29:33.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,1,1.4,0.06,36,reviewed,us,us
+2017-09-10T07:09:04.610Z,42.5693,-111.4221,7,3,ml,,58,0.027,0.16,us,us2000aj7l,2017-12-13T02:29:33.040Z,"10 km NNW of Georgetown, Idaho",earthquake,1,1.6,0.053,46,reviewed,us,us
+2017-09-10T02:15:30.960Z,42.6483,-111.4586,10,2.4,ml,,34,0.005,0.82,us,us2000aj4q,2017-12-13T02:29:32.040Z,"11 km E of Soda Springs, Idaho",earthquake,2.9,2,0.045,66,reviewed,us,us
+2017-09-10T02:00:32.850Z,42.6737,-111.4779,2.46,3.2,ml,,38,0.033,0.91,us,us2000aj4m,2017-12-13T02:29:32.040Z,"10 km ENE of Soda Springs, Idaho",earthquake,1.3,3.9,0.041,78,reviewed,us,us
+2017-09-09T23:58:45.530Z,42.5819,-111.4378,6.8,2.2,ml,,70,0.01,0.34,us,us2000aj3c,2017-12-07T20:00:28.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.1,1.7,0.066,30,reviewed,us,us
+2017-09-09T22:28:21.910Z,42.6601,-111.4542,8.56,2.6,ml,,57,0.017,0.23,us,us2000aj2w,2017-12-07T20:00:28.040Z,"12 km E of Soda Springs, Idaho",earthquake,1.2,3,0.062,34,reviewed,us,us
+2017-09-09T19:04:48.130Z,42.6547,-111.4507,8.22,2.3,ml,,94,0.013,0.36,us,us2000aizr,2017-12-07T20:00:27.040Z,"12 km E of Soda Springs, Idaho",earthquake,1.8,1.4,0.069,28,reviewed,us,us
+2017-09-09T18:51:26.160Z,42.5558333,-111.4171667,8.52,2.17,ml,13,90,0.03901,0.1,uu,uu60240427,2017-09-14T19:01:03.820Z,"9 km NNW of Georgetown, Idaho",earthquake,0.34,0.45,0.215,7,reviewed,uu,uu
+2017-09-09T16:08:26.030Z,42.5552,-111.418,9.87,2.7,ml,,58,0.039,0.42,us,us2000aix4,2017-12-07T20:00:27.040Z,"8 km NNW of Georgetown, Idaho",earthquake,1.5,1.6,0.037,98,reviewed,us,us
+2017-09-09T13:56:00.560Z,42.5569,-111.4323,11.01,2.8,ml,,76,0.031,0.79,us,us2000bsv3,2017-12-07T20:00:27.040Z,"9 km NNW of Georgetown, Idaho",earthquake,1.4,4.3,0.081,20,reviewed,us,us
+2017-09-09T13:55:49.790Z,42.5733,-111.4428,9.88,2.6,ml,,57,0.013,0.48,us,us2000aivs,2017-12-07T20:00:27.040Z,"11 km NNW of Georgetown, Idaho",earthquake,1.2,2.6,0.039,88,reviewed,us,us
+2017-09-09T12:18:15.350Z,42.578,-111.3958,4.68,3.5,mwr,,87,0.042,1.51,us,us2000aiu3,2017-12-07T20:00:27.040Z,"10 km N of Georgetown, Idaho",earthquake,1.2,0.8,0.071,19,reviewed,us,us
+2017-09-09T12:18:03.440Z,42.5766667,-111.4285,4.31,2.13,md,21,57,0.01925,0.21,uu,uu60240147,2017-11-22T00:17:05.940Z,"11 km NNW of Georgetown, Idaho",earthquake,0.44,0.53,0.243,3,reviewed,uu,uu
+2017-09-09T11:57:41.760Z,42.5666,-111.4422,10.53,2.5,ml,,65,0.02,0.52,us,us2000bt13,2017-12-07T20:00:27.040Z,"11 km NNW of Georgetown, Idaho",earthquake,1.2,3.7,0.074,24,reviewed,us,us
+2017-09-09T11:52:48.430Z,42.5698,-111.4426,6.62,3.9,mwr,,64,0.016,0.41,us,us2000aita,2017-12-07T20:00:27.040Z,"11 km NNW of Georgetown, Idaho",earthquake,1.1,2.4,0.036,75,reviewed,us,us
+2017-09-09T11:48:35.440Z,42.5734,-111.4347,6.25,3.1,ml,,61,0.017,0.41,us,us2000ait9,2017-12-07T20:00:27.040Z,"11 km NNW of Georgetown, Idaho",earthquake,0.9,1.8,0.048,56,reviewed,us,us
+2017-09-09T11:15:01.800Z,42.5638,-111.4255,8.67,2.4,ml,,73,0.029,0.3,us,us2000aisv,2021-05-05T21:05:19.370Z,"10 km NNW of Georgetown, Idaho",earthquake,1.6,2.7,0.062,34,reviewed,us,us
+2017-09-09T11:11:14.830Z,42.5601667,-111.4181667,7.42,2.09,ml,19,90,0.03533,0.1,uu,uu60240077,2021-05-05T21:05:17.880Z,"9 km NNW of Georgetown, Idaho",earthquake,0.32,0.43,0.209,3,reviewed,uu,uu
+2017-09-09T11:05:09.300Z,42.5641667,-111.4231667,8.17,2.15,ml,21,89,0.02989,0.12,uu,uu60240062,2021-05-05T21:05:16.320Z,"10 km NNW of Georgetown, Idaho",earthquake,0.31,0.4,0.228,6,reviewed,uu,uu
+2017-09-09T09:23:18.840Z,42.6041,-111.4439,6.95,2.3,ml,,96,0.019,0.17,us,us2000airg,2021-05-05T21:05:14.670Z,"14 km ESE of Soda Springs, Idaho",earthquake,1.2,1.2,0.057,40,reviewed,us,us
+2017-09-09T08:53:05.420Z,42.608,-111.4541667,3.34,2.08,ml,15,107,0.02275,0.11,uu,uu60239912,2021-05-05T21:05:10.480Z,"13 km ESE of Soda Springs, Idaho",earthquake,0.3,0.36,0.091,3,reviewed,uu,uu
+2017-09-09T08:40:05.800Z,42.565,-111.4198333,7.06,2.36,ml,18,89,0.03113,0.16,uu,uu60239877,2021-05-05T21:05:08.920Z,"10 km NNW of Georgetown, Idaho",earthquake,0.42,0.52,0.1,10,reviewed,uu,uu
+2017-09-09T08:34:58.540Z,42.5844,-111.4273,6.68,2.8,ml,,105,0.018,0.16,us,us2000avsk,2017-12-07T20:00:26.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1,2.4,0.128,8,reviewed,us,us
+2017-09-09T08:34:46.610Z,42.5785,-111.4264,6.1,2.6,ml,,58,0.019,0.3,us,us2000aiqt,2017-12-07T20:00:26.040Z,"11 km NNW of Georgetown, Idaho",earthquake,1.3,2.8,0.069,28,reviewed,us,us
+2017-09-09T08:32:27.080Z,42.5882,-111.43,6.88,2.7,ml,,58,0.016,0.23,us,us2000avsj,2017-12-07T20:00:26.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.3,1.4,0.069,28,reviewed,us,us
+2017-09-09T08:30:22.720Z,42.6108,-111.4585,6.88,3.3,ml,,86,0.026,0.34,us,us2000ampk,2017-12-07T20:00:26.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,1.3,1.2,0.074,24,reviewed,us,us
+2017-09-09T08:28:08.370Z,42.588,-111.4259,7.02,3.5,ml,,106,0.019,0.16,us,us2000al9w,2017-12-07T20:00:26.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.4,1.4,0.085,18,reviewed,us,us
+2017-09-09T08:27:21.030Z,42.5785,-111.4302,9.03,4,mwr,,57,0.017,0.29,us,us2000aiur,2017-12-07T20:00:26.040Z,"11 km NNW of Georgetown, Idaho",earthquake,1.2,3.2,0.04,60,reviewed,us,us
+2017-09-09T08:23:50.400Z,42.5799,-111.4221,5.91,3.3,ml,,107,0.022,0.22,us,us2000akd5,2017-12-07T20:00:26.040Z,"11 km NNW of Georgetown, Idaho",earthquake,1.1,1.3,0.105,12,reviewed,us,us
+2017-09-09T08:23:04.770Z,42.5619,-111.4167,7.19,4.1,mwr,,58,0.034,0.18,us,us2000aiq7,2017-12-07T20:00:26.040Z,"9 km NNW of Georgetown, Idaho",earthquake,1.3,2.5,0.041,56,reviewed,us,us
+2017-09-09T08:04:58.530Z,42.5836,-111.4264,7.05,3.2,mwr,,76,0.018,0.36,us,us2000aiq2,2017-12-07T20:00:26.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.3,1.5,,6,reviewed,us,slm
+2017-09-09T07:49:22.210Z,42.5745,-111.4286,7.69,2.6,ml,,57,0.02,0.23,us,us2000aj4h,2017-12-07T20:00:26.040Z,"11 km NNW of Georgetown, Idaho",earthquake,1.3,1.6,0.069,28,reviewed,us,us
+2017-09-09T07:48:24.370Z,42.5655,-111.448,8.04,2.3,ml,,65,0.019,0.16,us,us2000aipm,2021-05-05T21:05:04.580Z,"11 km NW of Georgetown, Idaho",earthquake,1.9,4.5,0.066,30,reviewed,us,us
+2017-09-09T07:43:09.430Z,42.5726,-111.4364,8.45,2.8,ml,,57,0.017,0.33,us,us2000aipl,2017-12-07T20:00:26.040Z,"11 km NNW of Georgetown, Idaho",earthquake,2,6.5,0.062,34,reviewed,us,us
+2017-09-09T00:18:38.430Z,42.5718,-111.4281,5.53,2.8,ml,,71,0.022,0.26,us,us2000aih9,2017-12-07T20:00:24.040Z,"11 km NNW of Georgetown, Idaho",earthquake,1.2,1.5,0.037,98,reviewed,us,us
+2017-09-09T00:17:58.960Z,42.5839,-111.4391,6.14,2.5,ml,,57,0.009,0.18,us,us2000aih8,2017-12-07T20:00:24.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.1,1.4,0.06,36,reviewed,us,us
+2017-09-08T19:41:27.060Z,42.5694,-111.4383,8.27,2.5,ml,,85,0.018,0.24,us,us2000aibq,2017-12-07T20:00:23.040Z,"11 km NNW of Georgetown, Idaho",earthquake,2.3,6.9,0.046,62,reviewed,us,us
+2017-09-08T19:39:16.990Z,42.571,-111.4363,9.27,2.8,ml,,62,0.018,0.24,us,us2000aib3,2017-12-07T20:00:23.040Z,"11 km NNW of Georgetown, Idaho",earthquake,2.8,3.4,0.038,90,reviewed,us,us
+2017-09-08T19:38:06.500Z,42.5645,-111.4353333,6.13,2.48,ml,11,100,0.02408,0.22,uu,uu60013334,2017-11-22T00:10:49.230Z,"10 km NNW of Georgetown, Idaho",earthquake,0.6,0.76,0.103,8,reviewed,uu,uu
+2017-09-08T19:38:02.520Z,42.5568,-111.4171,13.69,2.6,ml,,64,0.038,0.64,us,us2000aia5,2017-12-07T20:00:23.040Z,"9 km NNW of Georgetown, Idaho",earthquake,2.3,4,0.047,60,reviewed,us,us
+2017-09-08T19:03:47.450Z,42.5723,-111.4362,6.2,2.7,ml,,57,0.017,0.52,us,us2000aku3,2017-12-07T20:00:23.040Z,"11 km NNW of Georgetown, Idaho",earthquake,1.2,2.5,0.046,62,reviewed,us,us
+2017-09-08T16:42:22.550Z,42.6169,-111.4779,9.02,3.1,ml,,74,0.029,0.34,us,us2000ai66,2017-12-07T20:00:23.040Z,"11 km ESE of Soda Springs, Idaho",earthquake,1.5,2.3,0.048,58,reviewed,us,us
+2017-09-08T13:23:46.010Z,42.5715,-111.4125,7.89,2.36,ml,17,115,0.3009,0.14,uu,uu60239242,2017-11-22T00:16:48.400Z,"10 km NNW of Georgetown, Idaho",earthquake,0.37,0.84,0.172,8,reviewed,uu,uu
+2017-09-08T11:22:24.140Z,42.6268,-111.4595,6.2,2.9,ml,,75,0.016,0.23,us,us2000ai0r,2017-12-07T20:00:22.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,1.2,1.9,0.043,70,reviewed,us,us
+2017-09-08T08:16:30.510Z,42.6572,-111.449,5.82,2.5,ml,,94,0.016,0.12,us,us2000ahyx,2017-12-07T20:00:21.040Z,"12 km E of Soda Springs, Idaho",earthquake,1.1,2.4,0.091,16,reviewed,us,us
+2017-09-08T07:51:09.370Z,42.5653,-111.4101,6.35,3.2,ml,,59,0.036,0.22,us,us2000ahyf,2017-12-07T20:00:21.040Z,"9 km NNW of Georgetown, Idaho",earthquake,1.5,5.2,0.038,90,reviewed,us,us
+2017-09-08T07:31:18.650Z,42.6598,-111.446,6.58,3.2,ml,,95,0.019,0.29,us,us2000ahy5,2017-12-07T20:00:21.040Z,"13 km E of Soda Springs, Idaho",earthquake,1.2,4.5,0.062,34,reviewed,us,us
+2017-09-08T02:07:14.220Z,42.6128,-111.4571,10.73,3.7,mwr,,41,0.116,0.82,us,us2000ahu8,2017-12-07T20:00:19.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,2.5,7.3,0.044,50,reviewed,us,us
+2017-09-07T21:29:55.300Z,42.5961,-111.4204,4.05,2.6,ml,,58,0.054,0.29,us,us2000ahrq,2017-12-07T20:00:19.040Z,"13 km NNW of Georgetown, Idaho",earthquake,0.9,2.9,0.038,90,reviewed,us,us
+2017-09-07T19:55:33.430Z,42.579,-111.4136667,10.14,2.44,ml,14,117,0.2968,0.07,uu,uu60238757,2017-09-14T20:07:39.270Z,"11 km NNW of Georgetown, Idaho",earthquake,0.41,1.88,0.175,7,reviewed,uu,uu
+2017-09-07T15:10:13.130Z,42.6678333,-111.4196667,13.2,2.02,ml,13,122,0.2547,0.16,uu,uu60238627,2017-09-07T16:19:09.500Z,"15 km E of Soda Springs, Idaho",earthquake,0.63,1.55,0.124,4,reviewed,uu,uu
+2017-09-07T14:33:22.690Z,42.6721667,-111.4678333,8.68,2.11,ml,15,130,0.2678,0.19,uu,uu60238597,2017-11-22T00:16:45.450Z,"11 km E of Soda Springs, Idaho",earthquake,0.89,1.44,0.27,7,reviewed,uu,uu
+2017-09-07T14:15:36.960Z,42.5913,-111.4217,10,2.4,ml,,64,0.149,0.59,us,us2000ahii,2017-12-07T20:00:19.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.7,2,0.047,60,reviewed,us,us
+2017-09-07T13:09:27.680Z,42.5693,-111.3701,9.05,2.7,ml,,90,0.193,0.71,us,us2000ahhi,2017-12-07T20:00:19.040Z,"9 km N of Georgetown, Idaho",earthquake,2,11.3,0.041,80,reviewed,us,us
+2017-09-07T12:32:48.010Z,42.5603333,-111.419,7.58,2.3,ml,18,116,0.3118,0.22,uu,uu60238462,2017-12-11T20:21:04.770Z,"9 km NNW of Georgetown, Idaho",earthquake,0.63,1.71,0.213,3,reviewed,uu,uu
+2017-09-07T12:22:33.050Z,42.5794,-111.4358,10,2.4,ml,,60,0.145,0.45,us,us2000bt0t,2017-12-07T20:00:19.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.7,2,0.053,46,reviewed,us,us
+2017-09-07T12:19:07.780Z,42.582,-111.4303,7.2,2.9,ml,,61,0.147,0.24,us,us2000akug,2017-12-07T20:00:19.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.6,3.7,0.081,20,reviewed,us,us
+2017-09-07T12:13:38.110Z,42.5849,-111.4169,5.81,4.1,mwr,,117,0.295,0.22,us,us2000ahg2,2017-12-07T20:00:18.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.1,4.5,0.036,75,reviewed,us,us
+2017-09-07T12:02:06.010Z,42.5834,-111.4484,5.32,2.5,ml,,61,0.135,0.46,us,us2000ahfz,2017-12-07T20:00:18.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.4,5.3,0.05,52,reviewed,us,us
+2017-09-07T07:34:20.660Z,42.5926,-111.436,4.73,2.6,ml,,64,0.139,0.29,us,us2000aku7,2017-12-07T20:00:18.040Z,"13 km NNW of Georgetown, Idaho",earthquake,1.6,3.6,0.077,22,reviewed,us,us
+2017-09-07T07:26:11.020Z,42.645,-111.47,9.42,2.9,ml,,90,0.099,0.6,us,us2000atji,2017-12-07T20:00:18.040Z,"11 km E of Soda Springs, Idaho",earthquake,1.6,7,0.097,14,reviewed,us,us
+2017-09-07T07:25:53.670Z,42.6506,-111.4989,9.14,2.7,ml,,97,0.077,0.44,us,us2000ahe5,2017-12-07T20:00:18.040Z,"8 km E of Soda Springs, Idaho",earthquake,1.6,5.5,0.085,18,reviewed,us,us
+2017-09-07T06:23:48.990Z,42.6314,-111.4619,9.84,2.4,ml,,82,0.107,0.38,us,us2000ahdm,2017-12-07T20:00:18.040Z,"11 km ESE of Soda Springs, Idaho",earthquake,1.7,6.4,0.064,32,reviewed,us,us
+2017-09-07T03:27:16.810Z,42.5894,-111.4442,10,2.5,ml,,57,0.135,0.48,us,us2000ahc8,2017-12-07T20:00:18.040Z,"13 km NNW of Georgetown, Idaho",earthquake,1.1,2,0.057,40,reviewed,us,us
+2017-09-07T01:59:16.390Z,42.6116667,-111.4391667,6.01,2.22,ml,19,121,0.2933,0.18,uu,uu60237967,2017-11-29T21:53:31.850Z,"14 km ESE of Soda Springs, Idaho",earthquake,0.66,31.61,0.148,5,reviewed,uu,uu
+2017-09-06T22:58:24.430Z,42.6641,-111.4462,6.32,2.6,ml,,58,0.116,0.28,us,us2000ah8i,2017-12-07T20:00:18.040Z,"13 km E of Soda Springs, Idaho",earthquake,1.3,3.9,0.05,52,reviewed,us,us
+2017-09-06T22:49:32.300Z,42.5887,-111.4377,10.66,2.5,ml,,63,0.139,0.24,us,us2000ah8f,2017-12-07T20:00:18.040Z,"13 km NNW of Georgetown, Idaho",earthquake,1.3,6.6,0.057,40,reviewed,us,us
+2017-09-06T20:23:57.660Z,42.6123,-111.4586,8.42,2.8,ml,,72,0.115,0.4,us,us2000ah55,2017-12-07T20:00:17.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,1.3,6.9,0.037,94,reviewed,us,us
+2017-09-06T19:07:27.420Z,42.6818333,-111.4538333,9.16,2.44,ml,19,128,0.2571,0.21,uu,uu60237582,2017-11-30T18:12:11.810Z,"12 km ENE of Soda Springs, Idaho",earthquake,0.64,1.39,0.118,9,reviewed,uu,uu
+2017-09-06T18:29:31.080Z,42.5853,-111.4395,7.31,2.6,ml,,61,0.14,0.25,us,us2000ah26,2017-12-07T20:00:17.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.2,5.9,0.037,98,reviewed,us,us
+2017-09-06T17:54:46.460Z,42.6735,-111.4338,6.96,2.6,ml,,99,0.126,0.53,us,us2000ah0u,2017-12-07T20:00:17.040Z,"14 km E of Soda Springs, Idaho",earthquake,1.3,5.9,0.042,73,reviewed,us,us
+2017-09-06T17:52:16.650Z,42.6795,-111.4576667,8.3,2.25,ml,19,95,0.2597,0.24,uu,uu60237487,2017-12-11T22:06:31.630Z,"12 km ENE of Soda Springs, Idaho",earthquake,0.79,2.14,0.09,7,reviewed,uu,uu
+2017-09-06T17:41:20.110Z,42.571,-111.4333333,4.72,2.03,ml,17,87,0.3131,0.18,uu,uu60237467,2017-09-29T19:52:28.690Z,"11 km NNW of Georgetown, Idaho",earthquake,0.59,1.42,0.139,7,reviewed,uu,uu
+2017-09-06T16:55:44.860Z,42.5826,-111.4232,14.88,2.5,ml,,118,0.3,0.4,us,us2000agz9,2017-12-07T20:00:17.040Z,"11 km NNW of Georgetown, Idaho",earthquake,1.2,8.9,0.055,44,reviewed,us,us
+2017-09-06T16:49:53.830Z,42.555,-111.406,7.72,2.7,ml,,114,0.308,0.3,us,us2000agz3,2017-12-07T20:00:17.040Z,"8 km NNW of Georgetown, Idaho",earthquake,0.9,5.4,0.044,68,reviewed,us,us
+2017-09-06T16:35:14.790Z,42.5609,-111.4313,10.51,3.4,mwr,,118,0.318,0.59,us,us2000agyp,2017-12-07T20:00:17.040Z,"10 km NNW of Georgetown, Idaho",earthquake,1.5,10.3,,11,reviewed,us,slm
+2017-09-06T16:28:55.060Z,42.5635,-111.4103333,6.11,2.94,ml,13,255,0.5249,0.16,uu,uu60014164,2017-12-08T22:11:26.850Z,"9 km NNW of Georgetown, Idaho",earthquake,1.44,1.59,0.196,4,reviewed,uu,uu
+2017-09-06T16:28:03.910Z,42.7901667,-111.5048333,9.37,2.8,ml,9,224,0.2988,0.23,uu,uu60014134,2017-12-12T20:26:19.500Z,"17 km NNE of Soda Springs, Idaho",earthquake,3.16,1.95,0.11,3,reviewed,uu,uu
+2017-09-06T16:26:53.610Z,42.6122,-111.4602,5.98,3.1,ml,,129,0.306,0.43,us,us2000agyd,2017-12-07T20:00:17.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,1.7,5,0.045,66,reviewed,us,us
+2017-09-06T15:49:53.350Z,42.588,-111.4175,5.9,2.25,ml,11,88,0.2935,0.18,uu,uu60237312,2017-09-14T21:19:53.100Z,"12 km NNW of Georgetown, Idaho",earthquake,0.66,10.64,0.001,2,reviewed,uu,uu
+2017-09-06T15:37:22.550Z,42.5817,-111.4135,13.97,2.5,ml,,117,0.295,0.44,us,us2000agwv,2017-12-07T20:00:17.040Z,"11 km NNW of Georgetown, Idaho",earthquake,1,9.1,0.044,68,reviewed,us,us
+2017-09-06T15:04:47.040Z,42.561,-111.4011,9.2,3.5,mwr,,114,0.301,0.32,us,us2000agvz,2017-12-07T20:00:17.040Z,"9 km NNW of Georgetown, Idaho",earthquake,1.7,10.7,0.063,24,reviewed,us,us
+2017-09-06T14:50:30.060Z,42.607,-111.444,3.32,2.4,ml,,132,0.298,0.51,us,us2000agvr,2021-07-14T18:25:07.918Z,"14 km ESE of Soda Springs, Idaho",earthquake,1.6,7.7,0.081,20,reviewed,us,us
+2017-09-06T14:50:20.510Z,42.568,-111.4186667,7.07,2.15,ml,17,116,0.3066,0.17,uu,uu60237227,2017-11-22T00:16:29.690Z,"10 km NNW of Georgetown, Idaho",earthquake,0.74,1.51,0.22,4,reviewed,uu,uu
+2017-09-06T14:38:19.050Z,42.5658333,-111.4093333,8.63,2.11,ml,18,115,0.3028,0.16,uu,uu60237212,2017-09-29T19:52:25.340Z,"9 km NNW of Georgetown, Idaho",earthquake,0.51,0.72,0.191,5,reviewed,uu,uu
+2017-09-06T13:59:48.690Z,42.5823333,-111.4256667,3.36,2.25,ml,17,117,0.3017,0.19,uu,uu60237157,2017-11-22T00:16:28.170Z,"12 km NNW of Georgetown, Idaho",earthquake,0.56,3.31,0.257,6,reviewed,uu,uu
+2017-09-06T13:59:24.970Z,42.5766667,-111.4081667,5.97,2.14,ml,5,175,0.2951,0.07,uu,uu60012954,2017-09-06T19:24:58.690Z,"10 km NNW of Georgetown, Idaho",earthquake,1.17,31.61,0.221,7,reviewed,uu,uu
+2017-09-06T13:43:52.650Z,42.5725,-111.413,8.77,2.02,ml,15,116,0.3005,0.11,uu,uu60237117,2017-09-29T19:52:20.960Z,"10 km NNW of Georgetown, Idaho",earthquake,0.53,1.39,0.216,5,reviewed,uu,uu
+2017-09-06T13:42:45.610Z,42.5673333,-111.4128333,10.27,2.1,ml,15,115,0.3038,0.16,uu,uu60237112,2017-09-29T19:52:19.360Z,"10 km NNW of Georgetown, Idaho",earthquake,0.53,0.87,0.163,6,reviewed,uu,uu
+2017-09-06T13:40:41.570Z,42.5535,-111.4145,5.51,2.01,ml,12,116,0.3139,0.13,uu,uu60237102,2017-09-29T19:52:17.850Z,"8 km NNW of Georgetown, Idaho",earthquake,0.52,1.64,0.156,4,reviewed,uu,uu
+2017-09-06T13:29:19.000Z,42.5675,-111.4382,13.64,2.8,ml,,66,0.318,0.57,us,us2000agum,2017-12-07T20:00:17.040Z,"10 km NNW of Georgetown, Idaho",earthquake,2,11.4,0.051,50,reviewed,us,us
+2017-09-06T13:11:56.280Z,42.5591667,-111.4118333,7.4,2.06,ml,13,115,0.3086,0.13,uu,uu60237032,2017-09-29T19:52:14.970Z,"9 km NNW of Georgetown, Idaho",earthquake,1,0.85,0.16,4,reviewed,uu,uu
+2017-09-06T13:02:59.850Z,42.5824,-111.4522,1.17,2.5,ml,,122,0.317,0.44,us,us2000agu9,2017-12-07T20:00:17.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.9,2.1,0.081,20,reviewed,us,us
+2017-09-06T12:55:37.450Z,42.5648,-111.4237,6.22,2.4,ml,,117,0.311,0.24,us,us2000agu1,2017-12-07T20:00:17.040Z,"10 km NNW of Georgetown, Idaho",earthquake,1.1,5.6,0.06,36,reviewed,us,us
+2017-09-06T12:42:20.180Z,42.5704,-111.4441,10.73,2.9,ml,,120,0.319,0.6,us,us2000agtv,2017-12-07T20:00:17.040Z,"11 km NNW of Georgetown, Idaho",earthquake,1.4,10.6,0.041,78,reviewed,us,us
+2017-09-06T12:09:16.630Z,42.5984,-111.4361,10,2.7,ml,,121,0.298,0.34,us,us2000agtf,2017-12-07T20:00:16.040Z,"13 km NNW of Georgetown, Idaho",earthquake,1,2,0.066,30,reviewed,us,us
+2017-09-06T11:45:49.050Z,42.5748,-111.4461,1.72,2.6,ml,,121,0.318,0.28,us,us2000agt4,2017-12-07T20:00:16.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.1,2.4,0.051,50,reviewed,us,us
+2017-09-06T11:42:30.370Z,42.6165,-111.4396,10,2.4,ml,,122,0.291,0.6,us,us1000bjn6,2017-12-07T20:00:16.040Z,"14 km ESE of Soda Springs, Idaho",earthquake,1.7,2,0.115,10,reviewed,us,us
+2017-09-06T11:41:46.750Z,42.6014,-111.4379,6.03,3.2,ml,,121,0.298,0.16,us,us2000agt2,2017-12-07T20:00:16.040Z,"14 km NNW of Georgetown, Idaho",earthquake,1.8,5.4,0.045,66,reviewed,us,us
+2017-09-06T11:18:46.850Z,42.5529,-111.3998,10,3,ml,,113,0.306,0.3,us,us2000agsm,2017-12-07T20:00:16.040Z,"8 km NNW of Georgetown, Idaho",earthquake,2.1,2,0.043,72,reviewed,us,us
+2017-09-06T10:50:57.400Z,42.5663,-111.425,3.34,2.6,ml,,117,0.311,0.27,us,us2000agsf,2017-12-07T20:00:16.040Z,"10 km NNW of Georgetown, Idaho",earthquake,1.6,4.8,0.047,60,reviewed,us,us
+2017-09-06T10:45:03.910Z,42.5661667,-111.4241667,7.34,2.44,ml,18,88,0.3109,0.15,uu,uu60236752,2017-11-22T00:16:12.190Z,"10 km NNW of Georgetown, Idaho",earthquake,0.63,1.4,0.281,6,reviewed,uu,uu
+2017-09-06T10:14:44.680Z,42.6061,-111.4338,9.06,2.8,ml,,121,0.292,0.21,us,us2000agry,2017-12-07T20:00:16.040Z,"14 km NNW of Georgetown, Idaho",earthquake,1.6,11.5,0.045,66,reviewed,us,us
+2017-09-06T09:55:49.630Z,42.685,-111.4332,10,2.7,ml,,125,0.253,0.54,us,us2000bt0k,2017-12-07T20:00:16.040Z,"14 km ENE of Soda Springs, Idaho",earthquake,1.7,2,0.091,16,reviewed,us,us
+2017-09-06T09:54:34.920Z,42.6734,-111.453,10.29,3,ml,,128,0.265,0.39,us,us2000bvkq,2017-12-07T20:00:16.040Z,"12 km E of Soda Springs, Idaho",earthquake,1.6,10.7,0.066,30,reviewed,us,us
+2017-09-06T09:52:54.090Z,42.6004,-111.4534,2.67,3.1,ml,,123,0.308,0.22,us,us2000agrm,2017-12-07T20:00:16.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1,5.2,0.044,68,reviewed,us,us
+2017-09-06T09:44:25.050Z,42.6763,-111.4219,6.42,2.4,ml,,123,0.253,0.42,us,us2000agrd,2017-12-07T20:00:16.040Z,"15 km E of Soda Springs, Idaho",earthquake,1.9,3.2,0.055,44,reviewed,us,us
+2017-09-06T09:36:02.550Z,42.5703333,-111.4231667,7.1,2.33,ml,19,88,0.3077,0.21,uu,uu60236627,2017-09-06T19:09:28.960Z,"10 km NNW of Georgetown, Idaho",earthquake,0.59,1.5,0.219,8,reviewed,uu,uu
+2017-09-06T09:10:53.080Z,42.6047,-111.4492,10,3.7,mwr,,123,0.303,0.22,us,us2000agqn,2017-12-07T20:00:16.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.2,2,0.041,57,reviewed,us,us
+2017-09-06T08:47:15.790Z,42.5739,-111.4251,10.68,2.4,ml,,118,0.306,0.4,us,us2000agq8,2017-12-07T20:00:16.040Z,"11 km NNW of Georgetown, Idaho",earthquake,1.1,10.1,0.066,30,reviewed,us,us
+2017-09-06T08:36:29.830Z,42.6115,-111.4486,5.02,2.3,ml,,123,0.299,0.34,us,us2000bt0j,2017-12-07T20:00:16.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,2.1,4.3,0.062,34,reviewed,us,us
+2017-09-06T08:32:42.440Z,42.582,-111.4431,3.08,2.8,ml,,121,0.312,0.29,us,us2000agpu,2017-12-07T20:00:16.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.8,1.8,0.053,46,reviewed,us,us
+2017-09-06T08:26:55.310Z,42.5819,-111.4285,5.44,3.9,ml,,119,0.303,0.21,us,us2000bt6m,2017-12-07T20:00:16.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.2,4.1,0.147,13,reviewed,us,uu
+2017-09-06T08:26:30.610Z,42.6084,-111.494,10,4.1,mwr,,140,0.329,0.86,us,us2000agpc,2017-12-07T20:00:16.040Z,"10 km ESE of Soda Springs, Idaho",earthquake,1.8,2,0.034,81,reviewed,us,us
+2017-09-06T08:25:47.450Z,42.6031667,-111.4448333,5.97,2.85,ml,13,176,0.3013,0.15,uu,uu60014009,2017-11-30T19:29:52.530Z,"14 km ESE of Soda Springs, Idaho",earthquake,0.72,10.69,0.134,4,reviewed,uu,uu
+2017-09-06T08:23:54.150Z,42.5937,-111.4612,10,2.8,ml,,124,0.316,0.58,us,us2000agp9,2017-12-07T20:00:16.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1,2,0.042,74,reviewed,us,us
+2017-09-06T08:19:52.790Z,42.591,-111.4157,10,2.9,ml,,117,0.29,0.61,us,us2000agp7,2017-12-07T20:00:16.040Z,"12 km NNW of Georgetown, Idaho",earthquake,0.9,2,0.055,44,reviewed,us,us
+2017-09-06T08:03:07.550Z,42.6056,-111.4544,1.84,2.4,ml,,124,0.306,0.32,us,us2000bt0i,2017-12-07T20:00:16.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.2,4.3,0.059,38,reviewed,us,us
+2017-09-06T07:55:09.740Z,42.5968,-111.4665,1.3,4.2,mwr,,125,0.318,0.25,us,us2000agna,2017-12-07T20:00:16.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.5,0.3,0.031,98,reviewed,us,us
+2017-09-06T07:54:26.910Z,42.587,-111.4108,10,3.8,ml,,116,0.29,0.18,us,us2000ax0e,2017-12-07T20:00:16.040Z,"12 km NNW of Georgetown, Idaho",earthquake,2.2,2,0.071,26,reviewed,us,us
+2017-09-06T07:51:07.750Z,42.6055,-111.4666,2.35,3.7,mwr,,126,0.313,0.32,us,us2000agmp,2017-12-07T20:00:16.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,1.5,3.2,0.04,59,reviewed,us,us
+2017-09-06T07:45:36.000Z,42.5977,-111.4173,10,2.6,ml,,133,0.287,0.68,us,us2000agmm,2017-12-07T20:00:16.040Z,"13 km NNW of Georgetown, Idaho",earthquake,2.8,2,0.064,32,reviewed,us,us
+2017-09-06T07:36:52.010Z,42.6146667,-111.4405,5.97,2.68,ml,14,82,0.2925,0.21,uu,uu60014154,2017-12-08T21:02:39.070Z,"14 km ESE of Soda Springs, Idaho",earthquake,0.62,31.61,0.424,2,reviewed,uu,uu
+2017-09-06T07:35:30.390Z,42.5885,-111.4411,7.18,4.2,mwr,,135,0.307,0.43,us,us2000agp1,2017-12-07T20:00:16.040Z,"13 km NNW of Georgetown, Idaho",earthquake,2.2,5,0.036,73,reviewed,us,us
+2017-09-06T07:32:21.740Z,42.5942,-111.4559,6.19,3.8,mwr,,123,0.313,0.27,us,us2000agm1,2017-12-07T20:00:16.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.7,2.6,0.034,82,reviewed,us,us
+2017-09-06T06:43:30.590Z,42.6413,-111.431,10,2.6,ml,,122,0.273,0.38,us,us2000agl6,2017-12-07T20:00:15.040Z,"14 km E of Soda Springs, Idaho",earthquake,1.1,2,0.056,42,reviewed,us,us
+2017-09-06T06:02:38.950Z,42.5954,-111.4283,10,2.6,ml,,119,0.295,0.3,us,us2000agkt,2017-12-07T20:00:15.040Z,"13 km NNW of Georgetown, Idaho",earthquake,1.6,2,0.066,30,reviewed,us,us
+2017-09-06T05:56:27.480Z,42.5698,-111.4272,10,2.8,ml,,128,0.31,0.38,us,us2000agkq,2017-12-07T20:00:15.040Z,"10 km NNW of Georgetown, Idaho",earthquake,1.3,2,0.066,30,reviewed,us,us
+2017-09-06T05:40:52.730Z,42.6117,-111.4653,11.46,2.3,ml,,126,0.309,0.47,us,us2000agki,2017-12-07T20:00:15.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,1.5,10.4,0.053,46,reviewed,us,us
+2017-09-06T05:38:09.220Z,42.6076667,-111.4348333,5.98,2.3,ml,12,148,0.2927,0.14,uu,uu60236172,2017-11-22T00:15:46.070Z,"14 km ESE of Soda Springs, Idaho",earthquake,0.98,31.61,0.25,7,reviewed,uu,uu
+2017-09-06T05:11:47.430Z,42.5712,-111.4253,7.24,2.5,ml,,118,0.308,0.37,us,us2000agjz,2017-12-07T20:00:15.040Z,"10 km NNW of Georgetown, Idaho",earthquake,1.6,5,0.071,26,reviewed,us,us
+2017-09-06T05:02:36.450Z,42.5672,-111.4366,2.56,2.5,ml,,66,0.317,0.28,us,us2000agjk,2017-12-07T20:00:15.040Z,"10 km NNW of Georgetown, Idaho",earthquake,1.7,5.6,0.077,22,reviewed,us,us
+2017-09-06T04:50:10.920Z,42.5858,-111.449,15.38,2.4,ml,,58,0.313,0.42,us,us2000bt0h,2017-12-07T20:00:15.040Z,"13 km NNW of Georgetown, Idaho",earthquake,1.2,9.4,0.062,34,reviewed,us,us
+2017-09-06T04:46:56.740Z,42.5959,-111.4563,10,3,ml,,124,0.312,0.4,us,us2000agjd,2017-12-07T20:00:15.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.8,2,0.048,58,reviewed,us,us
+2017-09-06T04:37:44.500Z,42.572,-111.4444,10,4.6,mww,,44,0.319,1.01,us,us2000agiz,2017-12-07T20:00:15.040Z,"11 km NNW of Georgetown, Idaho",earthquake,3.2,2,0.068,21,reviewed,us,us
+2017-09-06T04:36:28.470Z,42.5925,-111.4674,10,3.4,mwr,,56,0.321,0.84,us,us2000agiu,2017-12-07T20:00:15.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,2.5,2,,9,reviewed,us,slm
+2017-09-06T04:36:04.760Z,42.6251667,-111.4451667,5.97,2.13,ml,14,79,0.2903,0.19,uu,uu60236027,2017-09-29T19:51:51.130Z,"13 km ESE of Soda Springs, Idaho",earthquake,0.7,12.26,0.25,3,reviewed,uu,uu
+2017-09-06T04:31:22.730Z,42.6161,-111.4561,6.68,3,ml,,125,0.301,0.35,us,us2000agit,2017-12-07T20:00:15.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,1.6,0.9,0.048,58,reviewed,us,us
+2017-09-06T04:30:33.140Z,42.6296667,-111.451,5.49,2.01,ml,17,104,0.2919,0.17,uu,uu60236017,2017-11-22T00:15:39.780Z,"southern Idaho",earthquake,0.62,31.61,0.202,5,reviewed,uu,uu
+2017-09-06T04:27:42.630Z,42.6129,-111.4481,10,3,ml,,83,0.298,0.89,us,us2000agis,2017-12-07T20:00:15.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,2.3,2,0.045,64,reviewed,us,us
+2017-09-06T03:55:40.720Z,42.5875,-111.4333,10,3.2,ml,,57,0.303,0.64,us,us2000agid,2017-12-07T20:00:15.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.5,2,0.037,98,reviewed,us,us
+2017-09-06T03:48:09.570Z,42.5897,-111.4305,10,3.1,ml,,119,0.3,0.8,us,us2000agi9,2017-12-07T20:00:15.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.7,2,0.046,62,reviewed,us,us
+2017-09-06T03:45:49.080Z,42.5925,-111.4098,10,2.6,ml,,64,0.286,0.58,us,us2000agi8,2017-12-07T20:00:15.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.9,2,0.06,36,reviewed,us,us
+2017-09-06T03:35:23.790Z,42.5739,-111.4399,6.76,2.4,ml,,44,0.315,0.69,us,us2000agi5,2017-12-07T20:00:15.040Z,"11 km NNW of Georgetown, Idaho",earthquake,2,5.9,0.043,70,reviewed,us,us
+2017-09-06T02:38:44.740Z,42.5784,-111.442,6.25,2.8,ml,,120,0.313,0.37,us,us2000aghl,2017-12-07T20:00:15.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.6,1.2,0.038,89,reviewed,us,us
+2017-09-06T02:36:16.500Z,42.5755,-111.443,1.59,2.6,ml,,120,0.316,0.41,us,us2000aghi,2017-12-07T20:00:15.040Z,"11 km NNW of Georgetown, Idaho",earthquake,1.9,2,0.047,60,reviewed,us,us
+2017-09-06T02:26:41.550Z,42.6041,-111.4448,7.18,3,ml,,122,0.3,0.3,us,us2000aghe,2017-12-07T20:00:15.040Z,"14 km ESE of Soda Springs, Idaho",earthquake,1.3,5.6,0.042,76,reviewed,us,us
+2017-09-06T02:22:10.440Z,42.5868,-111.4189,6.7,3.2,ml,,118,0.295,0.25,us,us2000aghb,2017-12-07T20:00:15.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.5,2,0.039,86,reviewed,us,us
+2017-09-06T01:10:29.490Z,42.587,-111.4433,10,2.6,ml,,121,0.309,0.5,us,us2000bt0c,2017-12-07T20:00:15.040Z,"13 km NNW of Georgetown, Idaho",earthquake,1.7,2,0.053,46,reviewed,us,us
+2017-09-06T01:08:42.450Z,42.5432,-111.411,14.3,2.9,ml,,130,0.319,0.27,us,us2000aggl,2017-12-07T20:00:15.040Z,"7 km NNW of Georgetown, Idaho",earthquake,2.3,8.6,0.047,60,reviewed,us,us
+2017-09-06T01:00:15.480Z,42.5682,-111.4088,7.02,2.8,ml,,115,0.301,0.26,us,us2000aggh,2017-12-07T20:00:15.040Z,"10 km NNW of Georgetown, Idaho",earthquake,1.5,5.5,0.039,88,reviewed,us,us
+2017-09-06T00:37:25.330Z,42.5402,-111.3885,10.31,2.8,ml,,111,0.309,0.53,us,us2000bsv1,2017-12-07T20:00:15.040Z,"6 km NNW of Georgetown, Idaho",earthquake,1.8,10.7,0.071,26,reviewed,us,us
+2017-09-06T00:37:09.650Z,42.568,-111.4265,11.38,2.7,ml,,118,0.311,0.31,us,us2000aggc,2017-12-07T20:00:15.040Z,"10 km NNW of Georgetown, Idaho",earthquake,2,9.9,0.041,80,reviewed,us,us
+2017-09-05T23:00:16.470Z,42.5602,-111.4162,5.72,3.8,mwr,,116,0.31,0.26,us,us2000ages,2017-12-07T20:00:15.040Z,"9 km NNW of Georgetown, Idaho",earthquake,1.7,0.8,0.04,59,reviewed,us,us
+2017-09-05T22:46:59.300Z,42.5576,-111.411,11.56,3,ml,,63,0.309,0.45,us,us2000agep,2017-12-07T20:00:15.040Z,"9 km NNW of Georgetown, Idaho",earthquake,1.8,9.8,0.047,60,reviewed,us,us
+2017-09-05T22:38:33.270Z,42.5845,-111.4185,1.57,2.43,ml,11,135,0.2962,0.24,uu,uu60235377,2017-11-22T21:03:10.790Z,"12 km NNW of Georgetown, Idaho",earthquake,1.2,6.64,0.184,8,reviewed,uu,uu
+2017-09-05T22:32:47.700Z,42.582,-111.4313,5.17,3.8,mwr,,58,0.305,0.36,us,us2000age2,2017-12-07T20:00:14.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.1,4,0.039,62,reviewed,us,us
+2017-09-05T21:58:25.710Z,42.6778333,-111.5236667,7.75,2.43,ml,9,207,0.324,0.24,uu,uu60013269,2017-11-22T00:10:41.930Z,"7 km ENE of Soda Springs, Idaho",earthquake,1.94,2.56,0.215,7,reviewed,uu,uu
+2017-09-05T21:43:18.990Z,42.5906,-111.4393,11.57,3,ml,,121,0.304,0.36,us,us2000agcy,2017-12-07T20:00:14.040Z,"13 km NNW of Georgetown, Idaho",earthquake,1.3,9.8,0.056,42,reviewed,us,us
+2017-09-05T21:23:53.400Z,42.573,-111.407,9.86,3.4,ml,,175,0.296,0.26,us,us2000bvj1,2017-12-07T20:00:14.040Z,"10 km NNW of Georgetown, Idaho",earthquake,3.8,12,0.227,2,reviewed,us,uu
+2017-09-05T21:23:18.360Z,42.5959,-111.4373,6.3,4.3,mwr,,63,0.3,0.38,us,us2000agc9,2017-12-07T20:00:14.040Z,"13 km NNW of Georgetown, Idaho",earthquake,2.2,4.9,0.033,87,reviewed,us,us
+2017-09-05T21:00:35.570Z,42.5633,-111.4071,11.36,2.4,ml,,87,0.303,0.66,us,us2000bsuz,2017-12-07T20:00:14.040Z,"9 km NNW of Georgetown, Idaho",earthquake,1.8,10.2,0.071,26,reviewed,us,us
+2017-09-05T21:00:24.780Z,42.6208333,-111.4375,5.97,2.42,ml,13,127,0.2875,0.16,uu,uu60235172,2017-11-22T00:15:20.620Z,"14 km ESE of Soda Springs, Idaho",earthquake,0.66,31.61,0.198,3,reviewed,uu,uu
+2017-09-05T20:58:51.460Z,42.5781,-111.4231,12.61,2.9,ml,,118,0.302,0.49,us,us2000bsuy,2017-12-07T20:00:14.040Z,"11 km NNW of Georgetown, Idaho",earthquake,1.7,9.4,0.052,48,reviewed,us,us
+2017-09-05T20:58:05.850Z,42.6052,-111.4412,10,2.8,ml,,126,0.298,0.62,us,us2000bt08,2017-12-07T20:00:14.040Z,"14 km ESE of Soda Springs, Idaho",earthquake,2.3,2,0.056,42,reviewed,us,us
+2017-09-05T20:55:46.630Z,42.6113,-111.443,9.31,3.2,ml,,54,0.295,0.31,us,us2000bveh,2017-12-07T20:00:14.040Z,"14 km ESE of Soda Springs, Idaho",earthquake,2.9,11.4,0.069,28,reviewed,us,us
+2017-09-05T20:55:03.610Z,42.5764,-111.4065,10,3.4,ml,,115,0.294,0.28,us,us2000bveq,2017-12-07T20:00:14.040Z,"10 km NNW of Georgetown, Idaho",earthquake,1.1,2,0.097,14,reviewed,us,us
+2017-09-05T20:54:15.420Z,42.5855,-111.4174,10,4.3,mwr,,117,0.294,0.39,us,us2000agbd,2017-12-07T20:00:14.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.7,2,0.032,93,reviewed,us,us
+2017-09-05T20:17:12.800Z,42.5812,-111.454,10,2.6,ml,,122,0.319,0.69,us,us2000agal,2017-12-07T20:00:14.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.6,2,0.04,84,reviewed,us,us
+2017-09-05T19:23:59.900Z,42.5999,-111.4657,10,2.5,ml,,56,0.316,0.59,us,us2000ag9h,2017-12-07T20:00:14.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,1.9,2,0.04,84,reviewed,us,us
+2017-09-05T15:49:47.180Z,42.6031667,-111.4355,9.13,2.14,ml,11,110,0.2955,0.09,uu,uu60234992,2017-09-29T19:51:34.770Z,"14 km NNW of Georgetown, Idaho",earthquake,0.52,1.91,0.186,5,reviewed,uu,uu
+2017-09-05T15:16:54.190Z,42.5871667,-111.4118333,1.41,2.13,ml,14,116,0.2907,0.15,uu,uu60234972,2017-11-22T00:15:13.130Z,"12 km NNW of Georgetown, Idaho",earthquake,0.6,4.96,0.146,7,reviewed,uu,uu
+2017-09-05T14:46:41.690Z,42.6237,-111.499,9.51,2.7,ml,,141,0.319,0.82,us,us2000ag3c,2017-12-07T20:00:13.040Z,"9 km ESE of Soda Springs, Idaho",earthquake,2.8,11.1,0.047,60,reviewed,us,us
+2017-09-05T14:45:25.000Z,42.6083333,-111.4426667,7.32,2.26,ml,14,121,0.2972,0.13,uu,uu60234952,2017-09-29T19:51:30.270Z,"14 km ESE of Soda Springs, Idaho",earthquake,0.54,3.14,0.215,8,reviewed,uu,uu
+2017-09-05T14:05:06.280Z,42.6003333,-111.4615,3.69,2.09,ml,12,124,0.3132,0.2,uu,uu60234912,2017-11-22T00:15:11.680Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.14,3.72,0.16,6,reviewed,uu,uu
+2017-09-05T12:26:28.160Z,42.5875,-111.4216667,6.17,2.42,ml,15,118,0.2962,0.11,uu,uu60234847,2017-09-29T19:51:23.160Z,"12 km NNW of Georgetown, Idaho",earthquake,0.4,0.82,0.126,10,reviewed,uu,uu
+2017-09-05T12:06:01.200Z,42.5781667,-111.4271667,2.96,2.24,ml,13,117,0.3051,0.15,uu,uu60234832,2017-11-22T00:15:08.880Z,"11 km NNW of Georgetown, Idaho",earthquake,0.75,4.79,0.258,7,reviewed,uu,uu
+2017-09-05T12:03:12.570Z,42.586,-111.423,10.08,2.12,ml,14,117,0.2979,0.13,uu,uu60234827,2017-09-29T19:51:17.560Z,"12 km NNW of Georgetown, Idaho",earthquake,0.47,1.47,0.236,7,reviewed,uu,uu
+2017-09-05T11:38:20.480Z,42.6062,-111.4454,5.24,2.9,ml,,123,0.3,0.37,us,us2000ag1p,2017-12-07T20:00:13.040Z,"14 km ESE of Soda Springs, Idaho",earthquake,1.8,1.2,0.044,68,reviewed,us,us
+2017-09-05T10:09:12.350Z,42.5771667,-111.4281667,7.42,2.74,ml,14,117,0.3063,0.13,uu,uu60234722,2017-11-29T23:53:51.140Z,"11 km NNW of Georgetown, Idaho",earthquake,0.59,1.47,0.128,8,reviewed,uu,uu
+2017-09-05T10:02:01.740Z,42.5817,-111.4332,2.1,3.2,ml,,119,0.306,0.25,us,us2000ag0q,2017-12-07T20:00:13.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.6,0.5,0.038,89,reviewed,us,us
+2017-09-05T09:48:04.050Z,42.6191667,-111.436,5.95,2.65,ml,11,121,0.2874,0.27,uu,uu60014024,2017-11-30T23:02:10.430Z,"14 km ESE of Soda Springs, Idaho",earthquake,0.93,14.04,0.145,3,reviewed,uu,uu
+2017-09-05T09:47:10.120Z,42.6444,-111.4727,5.97,3.5,mwr,,130,0.295,0.29,us,us2000ag0e,2017-12-07T20:00:13.040Z,"10 km E of Soda Springs, Idaho",earthquake,1.8,0.7,0.046,46,reviewed,us,us
+2017-09-05T09:07:49.940Z,42.6101667,-111.4335,5.98,2.44,ml,16,120,0.2905,0.16,uu,uu60234632,2017-11-22T00:15:05.990Z,"14 km ESE of Soda Springs, Idaho",earthquake,0.63,31.61,0.142,11,reviewed,uu,uu
+2017-09-05T08:21:16.560Z,42.6464,-111.4672,5,2.2,ml,,138,0.293,1.14,us,us2000bt07,2017-12-07T20:00:13.040Z,"11 km E of Soda Springs, Idaho",earthquake,2.1,1.3,0.069,28,reviewed,us,us
+2017-09-05T08:13:14.830Z,42.5806,-111.4515,2.9,4.3,mwr,,122,0.318,0.53,us,us2000afyp,2017-12-07T20:00:13.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.1,4.2,0.034,84,reviewed,us,us
+2017-09-05T08:12:20.380Z,42.5934,-111.447,4.42,2.2,ml,,122,0.308,0.29,us,us2000afyn,2017-12-07T20:00:13.040Z,"13 km NNW of Georgetown, Idaho",earthquake,1.6,0.6,0.081,20,reviewed,us,us
+2017-09-05T06:20:09.740Z,42.5972,-111.427,7.61,2.4,ml,,119,0.293,0.43,us,us2000bt06,2017-12-07T20:00:13.040Z,"13 km NNW of Georgetown, Idaho",earthquake,1.4,5.1,0.062,34,reviewed,us,us
+2017-09-05T06:18:19.520Z,42.6608,-111.449,8.78,2.4,ml,,58,0.277,0.49,us,us2000afxg,2017-12-07T20:00:13.040Z,"12 km E of Soda Springs, Idaho",earthquake,2.4,10.7,0.057,40,reviewed,us,us
+2017-09-05T06:04:00.220Z,42.5992,-111.4709,2.42,2.7,ml,,126,0.319,0.52,us,us2000afx7,2017-12-07T20:00:13.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,1.7,1.9,0.046,62,reviewed,us,us
+2017-09-05T04:34:33.650Z,42.5879,-111.4512,10,3.1,ml,,56,0.313,0.66,us,us2000afw0,2017-12-07T20:00:13.040Z,"13 km NNW of Georgetown, Idaho",earthquake,1.9,2,0.036,100,reviewed,us,us
+2017-09-05T03:42:34.790Z,42.6782,-111.5026,4.33,2.4,ml,,138,0.266,0.33,us,us2000afvl,2017-12-07T20:00:13.040Z,"8 km ENE of Soda Springs, Idaho",earthquake,1.5,4.1,0.051,50,reviewed,us,us
+2017-09-05T03:38:50.930Z,42.6006,-111.443,10,3,ml,,57,0.301,0.56,us,us2000afvi,2017-12-07T20:00:13.040Z,"14 km NNW of Georgetown, Idaho",earthquake,2.3,2,0.036,102,reviewed,us,us
+2017-09-05T03:21:09.190Z,42.62,-111.5566,10,3.9,mwr,,58,0.332,0.89,us,us2000afv7,2017-12-07T20:00:13.040Z,"5 km SE of Soda Springs, Idaho",earthquake,2.4,2,0.042,54,reviewed,us,us
+2017-09-05T03:12:37.940Z,42.5951,-111.4809,10,3.9,mwr,,55,0.328,0.58,us,us2000ag21,2017-12-07T20:00:12.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,1.9,2,0.039,62,reviewed,us,us
+2017-09-05T03:12:09.410Z,42.5912,-111.398,10,3.9,mwr,,85,0.28,0.6,us,us2000afuy,2017-12-07T20:00:12.040Z,"12 km N of Georgetown, Idaho",earthquake,2.8,2,0.05,38,reviewed,us,us
+2017-09-05T02:28:32.410Z,42.5922,-111.4388,10,3.6,mwr,,57,0.303,0.75,us,us2000afu4,2017-12-07T20:00:12.040Z,"13 km NNW of Georgetown, Idaho",earthquake,1.9,2,0.05,38,reviewed,us,us
+2017-09-05T02:17:41.470Z,42.6015,-111.4521,10.01,2.5,ml,,57,0.306,0.59,us,us2000aftx,2017-12-07T20:00:12.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,2.8,11.2,0.048,56,reviewed,us,us
+2017-09-05T02:05:38.480Z,42.5805,-111.4311,10,3.1,ml,,119,0.306,0.33,us,us2000aftn,2017-12-07T20:00:12.040Z,"11 km NNW of Georgetown, Idaho",earthquake,1.3,2,0.041,78,reviewed,us,us
+2017-09-05T01:39:15.510Z,42.5932,-111.4487,6.5,2.3,ml,,61,0.309,0.35,us,us2000bt02,2017-12-07T20:00:12.040Z,"13 km NNW of Georgetown, Idaho",earthquake,1.9,3.5,0.064,32,reviewed,us,us
+2017-09-05T01:32:39.450Z,42.5974,-111.445,10,4.2,mwr,,122,0.304,0.23,us,us2000afsu,2017-12-07T20:00:12.040Z,"14 km NNW of Georgetown, Idaho",earthquake,1.2,2,0.038,68,reviewed,us,us
+2017-09-05T01:20:08.630Z,42.5903,-111.433,5.84,2.4,ml,,44,0.301,0.6,us,us2000afsl,2017-12-07T20:00:12.040Z,"13 km NNW of Georgetown, Idaho",earthquake,2,5.8,0.048,56,reviewed,us,us
+2017-09-05T00:39:47.100Z,42.6076,-111.4812,1.31,2.4,ml,,104,0.322,0.99,us,us2000bt01,2017-12-07T20:00:12.040Z,"11 km ESE of Soda Springs, Idaho",earthquake,1.1,2,0.091,16,reviewed,us,us
+2017-09-05T00:39:03.850Z,42.5993333,-111.4378333,5.94,2.11,ml,15,130,0.2991,0.21,uu,uu60233807,2017-11-22T00:14:48.270Z,"14 km NNW of Georgetown, Idaho",earthquake,0.82,31.61,0.178,3,reviewed,uu,uu
+2017-09-05T00:37:17.260Z,42.6296,-111.5245,11.93,2.6,ml,,138,0.34,0.71,us,us2000bszz,2017-12-07T20:00:12.040Z,"7 km ESE of Soda Springs, Idaho",earthquake,2.9,9.8,0.071,26,reviewed,us,us
+2017-09-05T00:35:33.400Z,42.591,-111.3712,8.88,3.1,ml,,132,0.265,0.32,us,us1000bj47,2017-12-07T20:00:12.040Z,"12 km N of Georgetown, Idaho",earthquake,2.9,17.4,0.115,10,reviewed,us,us
+2017-09-05T00:34:40.790Z,42.603,-111.472,5.2,4.1,mwr,,46,0.318,0.45,us,us2000afs4,2021-07-14T18:20:36.260Z,"12 km ESE of Soda Springs, Idaho",earthquake,1.7,4.9,0.035,77,reviewed,us,us
+2017-09-05T00:34:28.760Z,42.5916667,-111.431,4.55,2.17,md,15,112,0.2993,0.19,uu,uu60233792,2017-09-29T19:50:49.200Z,"13 km NNW of Georgetown, Idaho",earthquake,0.75,31.61,0.423,2,reviewed,uu,uu
+2017-09-05T00:27:10.550Z,42.6118,-111.4422,10.84,2.4,ml,,83,0.295,0.4,us,us2000bszy,2017-12-07T20:00:12.040Z,"14 km ESE of Soda Springs, Idaho",earthquake,2.8,9.3,0.059,38,reviewed,us,us
+2017-09-05T00:25:18.340Z,42.5926,-111.4378,12.46,2.9,ml,,121,0.302,0.29,us,us2000afrz,2017-12-07T20:00:12.040Z,"13 km NNW of Georgetown, Idaho",earthquake,1.1,9.5,0.039,85,reviewed,us,us
+2017-09-05T00:20:54.370Z,42.5852,-111.3678,11.4,2.5,ml,,110,0.267,0.42,us,us2000afrt,2017-12-07T20:00:12.040Z,"11 km N of Georgetown, Idaho",earthquake,1.4,10.7,0.044,68,reviewed,us,us
+2017-09-05T00:10:58.290Z,42.5808333,-111.425,9.54,2.43,ml,20,87,0.3022,0.16,uu,uu60233737,2017-11-22T00:14:42.110Z,"11 km NNW of Georgetown, Idaho",earthquake,0.56,1.37,0.087,11,reviewed,uu,uu
+2017-09-05T00:08:11.750Z,42.5861667,-111.4243333,5.69,2.74,ml,19,114,0.2986,0.17,uu,uu60014074,2017-12-01T16:33:12.610Z,"12 km NNW of Georgetown, Idaho",earthquake,0.61,2.65,0.111,4,reviewed,uu,uu
+2017-09-05T00:03:14.230Z,42.6134,-111.4835,14.45,2.8,ml,,129,0.32,0.61,us,us2000afri,2017-12-07T20:00:12.040Z,"10 km ESE of Soda Springs, Idaho",earthquake,1.5,8.4,0.043,72,reviewed,us,us
+2017-09-04T23:29:00.710Z,42.5781,-111.4347,3.51,2.7,ml,,119,0.309,0.2,us,us2000afqj,2017-12-07T20:00:12.040Z,"11 km NNW of Georgetown, Idaho",earthquake,1.6,2.4,0.04,82,reviewed,us,us
+2017-09-04T23:21:23.210Z,42.5891667,-111.4191667,10.1,2.57,ml,14,140,0.2937,0.14,uu,uu60014229,2017-12-11T21:34:04.250Z,"12 km NNW of Georgetown, Idaho",earthquake,0.56,1.35,0.243,3,reviewed,uu,uu
+2017-09-04T23:20:11.570Z,42.5988,-111.4695,8.55,2.6,ml,,65,0.319,0.61,us,us2000afqb,2017-12-07T20:00:12.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,2.4,1.8,0.052,48,reviewed,us,us
+2017-09-04T23:20:00.140Z,42.6011667,-111.4303333,5.95,2.03,md,17,128,0.2935,0.16,uu,uu60233642,2017-11-22T00:14:37.710Z,"14 km NNW of Georgetown, Idaho",earthquake,0.63,31.61,0.42,3,reviewed,uu,uu
+2017-09-04T23:17:31.480Z,42.5858,-111.4247,5.09,2.6,ml,,129,0.299,0.29,us,us2000ax00,2017-12-07T20:00:12.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.5,4.5,0.066,30,reviewed,us,us
+2017-09-04T23:14:45.420Z,42.5711,-111.4244,13.19,3.8,mwr,,132,0.308,0.79,us,us2000afq6,2017-12-07T20:00:12.040Z,"10 km NNW of Georgetown, Idaho",earthquake,3,7,0.047,43,reviewed,us,us
+2017-09-04T23:14:36.540Z,42.5878,-111.4553,10,2.5,ml,,123,0.316,1.19,us,us1000ax6t,2017-12-07T20:00:12.040Z,"13 km NNW of Georgetown, Idaho",earthquake,2.9,2,,,reviewed,us,us
+2017-09-04T23:13:33.840Z,42.6109,-111.4375,10.42,3,ml,,122,0.292,0.55,us,us2000afq4,2017-12-07T20:00:12.040Z,"southern Idaho",earthquake,1.7,10.8,0.05,52,reviewed,us,us
+2017-09-04T23:05:56.130Z,42.5825,-111.3888,9.78,2.4,ml,,40,0.28,0.69,us,us2000afq0,2017-12-07T20:00:12.040Z,"11 km N of Georgetown, Idaho",earthquake,2.6,11.4,0.044,68,reviewed,us,us
+2017-09-04T23:01:30.130Z,42.5763,-111.4249,4.07,2.7,ml,,118,0.305,0.42,us,us2000afpx,2017-12-07T20:00:12.040Z,"11 km NNW of Georgetown, Idaho",earthquake,0.9,4.3,0.044,68,reviewed,us,us
+2017-09-04T22:57:56.790Z,42.6086,-111.4367,10,2.6,ml,,121,0.293,0.52,us,us2000bszw,2017-12-07T20:00:12.040Z,"14 km ESE of Soda Springs, Idaho",earthquake,1.4,2,0.071,26,reviewed,us,us
+2017-09-04T22:55:49.220Z,42.6292,-111.4361,6.96,3.3,ml,,123,0.282,0.59,us,us2000afpu,2017-12-07T20:00:12.040Z,"14 km ESE of Soda Springs, Idaho",earthquake,1.5,5,0.053,46,reviewed,us,us
+2017-09-04T22:54:29.550Z,42.5994,-111.4516,7.85,2.8,ml,,123,0.307,0.36,us,us2000bszv,2017-12-07T20:00:11.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.4,5.3,0.057,40,reviewed,us,us
+2017-09-04T22:53:22.330Z,42.5933,-111.3996,13.09,2.6,ml,,115,0.279,0.45,us,us2000bszu,2017-12-07T20:00:11.040Z,"12 km N of Georgetown, Idaho",earthquake,2,8.8,0.064,32,reviewed,us,us
+2017-09-04T22:51:27.010Z,42.5885,-111.4254,10,3.2,ml,,119,0.297,0.35,us,us2000afpq,2017-12-07T20:00:11.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.8,2,0.038,90,reviewed,us,us
+2017-09-04T22:47:42.620Z,42.5939,-111.4379,10,3.5,mwr,,121,0.302,0.69,us,us2000aft4,2017-12-07T20:00:11.040Z,"13 km NNW of Georgetown, Idaho",earthquake,2.6,2,0.083,14,reviewed,us,us
+2017-09-04T22:47:11.640Z,42.5914,-111.4218,14.25,3.1,ml,,118,0.293,0.44,us,us2000afpl,2017-12-07T20:00:11.040Z,"12 km NNW of Georgetown, Idaho",earthquake,2.3,10,0.04,84,reviewed,us,us
+2017-09-04T22:35:37.760Z,42.5808,-111.4319,10,2.7,ml,,119,0.306,0.32,us,us2000afpd,2017-12-07T20:00:11.040Z,"12 km NNW of Georgetown, Idaho",earthquake,0.9,2,0.041,80,reviewed,us,us
+2017-09-04T22:26:20.410Z,42.5909,-111.4505,10,2.7,ml,,139,0.311,0.44,us,us2000afpa,2017-12-07T20:00:11.040Z,"13 km NNW of Georgetown, Idaho",earthquake,1.7,2,0.045,64,reviewed,us,us
+2017-09-04T22:20:46.000Z,42.6195,-111.413,16.78,2.6,ml,,118,0.272,0.47,us,us2000afp9,2017-12-07T20:00:11.040Z,"15 km NNW of Georgetown, Idaho",earthquake,1.3,6,0.051,50,reviewed,us,us
+2017-09-04T22:17:01.640Z,42.6393,-111.4324,10,2.8,ml,,123,0.275,0.81,us,us2000bvkx,2017-12-07T20:00:11.040Z,"14 km E of Soda Springs, Idaho",earthquake,1.7,2,0.085,18,reviewed,us,us
+2017-09-04T22:15:45.910Z,42.5864,-111.4135,5.2,3.8,mwr,,117,0.292,0.37,us,us2000afp3,2017-12-07T20:00:11.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.9,1.2,0.05,39,reviewed,us,us
+2017-09-04T22:14:00.020Z,42.6011,-111.4431,10,2.8,ml,,122,0.301,0.46,us,us2000afp1,2017-12-07T20:00:11.040Z,"14 km NNW of Georgetown, Idaho",earthquake,1.3,2,0.05,52,reviewed,us,us
+2017-09-04T22:10:48.190Z,42.672,-111.489,6,3.1,ml,,,,0.52,us,us1000bj66,2017-12-07T20:00:11.040Z,"9 km ENE of Soda Springs, Idaho",earthquake,1.8,4.4,,,reviewed,uu,uu
+2017-09-04T22:10:31.680Z,42.6129,-111.4479,13.03,2.8,ml,,64,0.298,0.48,us,us2000afnx,2017-12-07T20:00:11.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.7,10,0.043,72,reviewed,us,us
+2017-09-04T21:57:51.820Z,42.5839,-111.4286,10.1,2.4,ml,,119,0.302,0.48,us,us2000afnn,2017-12-07T20:00:11.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.7,10.9,0.048,56,reviewed,us,us
+2017-09-04T21:22:33.840Z,42.6051,-111.4299,10.32,2.4,ml,,120,0.291,0.43,us,us2000afnb,2017-12-07T20:00:11.040Z,"14 km NNW of Georgetown, Idaho",earthquake,1.9,10.4,0.05,52,reviewed,us,us
+2017-09-04T21:16:44.630Z,42.5482,-111.3293,12.71,2.7,ml,,104,0.275,1.43,us,us2000afn8,2017-12-07T20:00:11.040Z,"8 km NNE of Georgetown, Idaho",earthquake,1.9,11.1,0.044,68,reviewed,us,us
+2017-09-04T21:10:55.550Z,42.5856667,-111.4413333,8.57,2.43,ml,19,84,0.309,0.14,uu,uu60233392,2017-11-22T00:14:15.580Z,"12 km NNW of Georgetown, Idaho",earthquake,0.5,1.3,0.152,7,reviewed,uu,uu
+2017-09-04T20:55:13.870Z,42.5861667,-111.4491667,2.38,2.42,ml,19,110,0.3134,0.21,uu,uu60233347,2017-11-22T00:14:14.060Z,"13 km NNW of Georgetown, Idaho",earthquake,0.86,6.53,0.158,5,reviewed,uu,uu
+2017-09-04T20:51:38.640Z,42.5867,-111.4308,10,3.6,mwr,,119,0.302,0.26,us,us2000afmx,2017-12-07T20:00:11.040Z,"12 km NNW of Georgetown, Idaho",earthquake,2.3,2,0.055,32,reviewed,us,us
+2017-09-04T20:48:21.770Z,42.6068333,-111.4515,5.99,2.42,ml,19,81,0.3035,0.15,uu,uu60233332,2017-11-22T00:14:12.480Z,"13 km ESE of Soda Springs, Idaho",earthquake,0.5,31.61,0.228,7,reviewed,uu,uu
+2017-09-04T20:46:55.520Z,42.6037,-111.4512,10,2.6,ml,,123,0.305,0.41,us,us2000afmv,2017-12-07T20:00:11.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.9,2,0.042,74,reviewed,us,us
+2017-09-04T20:41:20.600Z,42.6596,-111.4815,10,2.5,ml,,132,0.281,0.47,us,us2000bswm,2017-12-07T20:00:11.040Z,"10 km E of Soda Springs, Idaho",earthquake,1.5,2,0.051,50,reviewed,us,us
+2017-09-04T20:32:53.860Z,42.5964,-111.4592,10,2.4,ml,,124,0.313,0.75,us,us2000afmr,2017-12-07T20:00:11.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,0.8,2,0.043,72,reviewed,us,us
+2017-09-04T20:19:50.110Z,42.5945,-111.4435,4.52,2.38,ml,19,84,0.3053,0.15,uu,uu60233272,2017-11-22T00:14:07.580Z,"13 km NNW of Georgetown, Idaho",earthquake,0.63,8.07,0.162,5,reviewed,uu,uu
+2017-09-04T20:17:29.090Z,42.6396,-111.4488,10,3,ml,,125,0.285,0.61,us,us2000afmg,2017-12-07T20:00:11.040Z,"12 km E of Soda Springs, Idaho",earthquake,1.9,2,0.042,74,reviewed,us,us
+2017-09-04T20:13:59.960Z,42.6004,-111.4257,3.44,2.9,ml,,85,0.291,0.71,us,us1000bj1b,2017-12-07T20:00:11.040Z,"13 km NNW of Georgetown, Idaho",earthquake,1.2,4.4,0.077,22,reviewed,us,us
+2017-09-04T20:12:23.740Z,42.6089,-111.4543,5.68,3.8,mwr,,124,0.304,0.5,us,us2000afme,2017-12-07T20:00:11.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.9,1.1,0.04,59,reviewed,us,us
+2017-09-04T19:04:58.290Z,42.6291667,-111.4675,2.63,3.68,ml,18,75,0.303,0.28,uu,uu60233207,2017-09-29T22:41:01.272Z,"11 km ESE of Soda Springs, Idaho",earthquake,0.87,6.65,0.146,14,reviewed,uu,uu
+2017-09-04T19:04:57.670Z,42.6407,-111.4411,5.68,3.7,mwr,,124,0.28,0.4,us,us2000aflu,2017-12-07T20:00:11.040Z,"13 km E of Soda Springs, Idaho",earthquake,1.9,3.9,0.056,31,reviewed,us,us
+2017-09-04T18:49:19.770Z,42.6817,-111.5124,10,2.6,ml,,140,0.264,0.59,us,us2000afls,2017-12-07T20:00:11.040Z,"8 km ENE of Soda Springs, Idaho",earthquake,2.3,2,0.043,72,reviewed,us,us
+2017-09-04T17:59:22.070Z,42.63,-111.4379,10,2.5,ml,,123,0.283,0.28,us,us2000aflj,2017-12-07T20:00:10.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,2.2,2,0.041,78,reviewed,us,us
+2017-09-04T16:28:52.780Z,42.6358333,-111.4736667,1.29,2.37,ml,20,81,0.3041,0.25,uu,uu60233057,2017-11-22T00:14:02.610Z,"10 km E of Soda Springs, Idaho",earthquake,0.73,9.4,0.155,8,reviewed,uu,uu
+2017-09-04T15:22:50.020Z,42.6782,-111.4986,10,2.3,ml,,137,0.265,0.39,us,us2000bswk,2017-12-07T20:00:10.040Z,"9 km ENE of Soda Springs, Idaho",earthquake,2,2,0.081,20,reviewed,us,us
+2017-09-04T15:21:33.260Z,42.6783,-111.4883,6.65,2.4,ml,,135,0.264,0.41,us,us2000afkq,2017-12-07T20:00:10.040Z,"9 km ENE of Soda Springs, Idaho",earthquake,1.4,5.2,0.062,34,reviewed,us,us
+2017-09-04T15:17:19.420Z,42.6775,-111.4829,6.16,2.4,ml,,134,0.264,0.3,us,us2000afkn,2017-12-07T20:00:10.040Z,"10 km ENE of Soda Springs, Idaho",earthquake,1.8,5.7,0.064,32,reviewed,us,us
+2017-09-04T14:00:12.490Z,42.6226,-111.4414,6.76,2.7,ml,,123,0.289,0.23,us,us2000bswj,2017-12-07T20:00:10.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.8,1.6,0.128,8,reviewed,us,us
+2017-09-04T13:59:36.960Z,42.6256,-111.4393,9.5,2.5,ml,,123,0.286,0.2,us,us2000afk5,2017-12-07T20:00:10.040Z,"southern Idaho",earthquake,1.2,12.3,0.064,32,reviewed,us,us
+2017-09-04T12:29:25.040Z,42.6755,-111.4956,10,2.8,ml,,136,0.267,0.56,us,us2000afjr,2017-12-07T20:00:10.040Z,"9 km ENE of Soda Springs, Idaho",earthquake,1.8,2,0.043,72,reviewed,us,us
+2017-09-04T12:26:33.670Z,42.6193,-111.4443,10.99,2.6,ml,,123,0.292,0.33,us,us2000afjq,2017-12-07T20:00:10.040Z,"southern Idaho",earthquake,2,9.7,0.046,61,reviewed,us,us
+2017-09-04T12:21:19.060Z,42.673,-111.5109,2.42,2.6,ml,,139,0.272,0.48,us,us2000afjl,2017-12-07T20:00:10.040Z,"7 km ENE of Soda Springs, Idaho",earthquake,0.9,3.3,0.043,72,reviewed,us,us
+2017-09-04T11:15:50.430Z,42.6342,-111.443,8.12,2.3,ml,,81,0.284,0.27,us,us2000afj7,2017-12-07T20:00:10.040Z,"13 km E of Soda Springs, Idaho",earthquake,1.3,12.2,0.064,32,reviewed,us,us
+2017-09-04T11:09:28.910Z,42.6703,-111.5122,4.19,2.4,ml,,131,0.275,0.19,us,us2000afj5,2017-12-07T20:00:10.040Z,"7 km ENE of Soda Springs, Idaho",earthquake,2,7,0.071,26,reviewed,us,us
+2017-09-04T10:52:27.980Z,42.6072,-111.4852,1.76,3.1,ml,,129,0.324,0.31,us,us2000afix,2017-12-07T20:00:10.040Z,"11 km ESE of Soda Springs, Idaho",earthquake,0.9,2.2,0.039,86,reviewed,us,us
+2017-09-04T09:46:20.340Z,42.6708,-111.4853,10,2.6,ml,,142,0.271,0.42,us,us2000afig,2017-12-07T20:00:10.040Z,"9 km E of Soda Springs, Idaho",earthquake,1.8,2,0.056,42,reviewed,us,us
+2017-09-04T09:41:58.870Z,42.5982,-111.4886,10,2.7,ml,,128,0.331,0.47,us,us2000appl,2017-12-07T20:00:10.040Z,"11 km ESE of Soda Springs, Idaho",earthquake,1.8,2,0.071,26,reviewed,us,us
+2017-09-04T09:41:21.520Z,42.6729,-111.513,11.72,2.4,ml,,82,0.317,0.45,us,us2000afid,2017-12-07T20:00:10.040Z,"7 km ENE of Soda Springs, Idaho",earthquake,1.2,10.4,0.069,28,reviewed,us,us
+2017-09-04T09:27:17.730Z,42.6127,-111.4624,10,3,ml,,126,0.307,0.38,us,us2000afi9,2017-12-07T20:00:10.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,1.3,2,0.042,76,reviewed,us,us
+2017-09-04T09:22:53.690Z,42.6649,-111.4937,8.11,2.3,ml,,135,0.278,0.23,us,us2000afi8,2017-12-07T20:00:10.040Z,"9 km E of Soda Springs, Idaho",earthquake,1.8,12.3,0.057,40,reviewed,us,us
+2017-09-04T09:11:33.050Z,42.66,-111.4705,9.61,2.35,ml,19,79,0.2801,0.2,uu,uu60232417,2017-12-11T20:07:42.240Z,"11 km E of Soda Springs, Idaho",earthquake,0.61,1.24,0.151,10,reviewed,uu,uu
+2017-09-04T08:05:36.560Z,42.6654,-111.4878,8.89,2.5,ml,,142,0.276,0.35,us,us1000bj37,2017-12-07T20:00:09.040Z,"9 km E of Soda Springs, Idaho",earthquake,1.3,11.5,0.213,7,reviewed,us,uu
+2017-09-04T08:05:17.850Z,42.6327,-111.4711,11.8,2.6,ml,,128,0.303,0.71,us,us2000afh6,2017-12-07T20:00:09.040Z,"11 km ESE of Soda Springs, Idaho",earthquake,2.4,10.1,0.041,80,reviewed,us,us
+2017-09-04T08:02:43.450Z,42.6618,-111.4942,14.33,2.4,ml,,135,0.281,0.56,us,us2000afh4,2017-12-07T20:00:09.040Z,"9 km E of Soda Springs, Idaho",earthquake,1.9,9.4,0.069,28,reviewed,us,us
+2017-09-04T07:55:05.920Z,42.6562,-111.4858,4.53,3.9,mwr,,84,0.285,0.35,us,us2000afgs,2017-12-07T20:00:09.040Z,"9 km E of Soda Springs, Idaho",earthquake,0.9,4.1,0.035,77,reviewed,us,us
+2017-09-04T07:53:38.980Z,42.624,-111.4841,10,2.4,ml,,142,0.316,0.66,us,us2000afgr,2017-12-07T20:00:09.040Z,"10 km ESE of Soda Springs, Idaho",earthquake,3.6,2,0.064,32,reviewed,us,us
+2017-09-04T07:39:45.740Z,42.6024,-111.4337,10,2.6,ml,,121,0.294,0.33,us,us2000afgk,2017-12-07T20:00:09.040Z,"14 km NNW of Georgetown, Idaho",earthquake,1.4,2,0.045,66,reviewed,us,us
+2017-09-04T07:34:49.780Z,42.654,-111.5055,10,3.4,mwr,,136,0.29,0.33,us,us2000afgd,2017-12-07T20:00:09.040Z,"8 km E of Soda Springs, Idaho",earthquake,1.6,2,0.059,28,reviewed,us,us
+2017-09-04T07:27:57.550Z,42.6704,-111.4751,12.38,2.7,ml,,132,0.27,0.41,us,us2000bswf,2017-12-07T20:00:09.040Z,"10 km E of Soda Springs, Idaho",earthquake,1.7,8.5,0.091,16,reviewed,us,us
+2017-09-04T07:27:35.060Z,42.6649,-111.4788,2.03,2.7,ml,,132,0.276,0.54,us,us2000afga,2017-12-07T20:00:09.040Z,"10 km E of Soda Springs, Idaho",earthquake,0.9,4.9,0.066,30,reviewed,us,us
+2017-09-04T06:55:27.370Z,42.623,-111.4951,1.89,3.7,mwr,,141,0.319,0.31,us,us2000affn,2017-12-07T20:00:09.040Z,"9 km ESE of Soda Springs, Idaho",earthquake,0.8,2.1,0.041,56,reviewed,us,us
+2017-09-04T06:52:33.100Z,42.6168,-111.4694,5.45,3.4,mwr,,127,0.309,0.24,us,us2000affl,2017-12-07T20:00:09.040Z,"11 km ESE of Soda Springs, Idaho",earthquake,1.8,4.5,0.049,40,reviewed,us,us
+2017-09-04T06:45:04.290Z,42.5858,-111.4622,13.55,2.2,ml,,134,0.321,0.32,us,us2000bswe,2017-12-07T20:00:09.040Z,"13 km NNW of Georgetown, Idaho",earthquake,2.1,10.1,0.066,30,reviewed,us,us
+2017-09-04T06:40:55.510Z,42.5945,-111.4459,2.58,2.3,ml,,122,0.306,0.24,us,us2000affe,2017-12-07T20:00:09.040Z,"13 km NNW of Georgetown, Idaho",earthquake,1.3,6.5,0.074,24,reviewed,us,us
+2017-09-04T06:38:34.440Z,42.6281667,-111.453,5.94,2.29,ml,12,134,0.2939,0.16,uu,uu60232142,2017-09-29T19:50:18.750Z,"12 km ESE of Soda Springs, Idaho",earthquake,0.76,31.61,0.23,2,reviewed,uu,uu
+2017-09-04T06:35:14.110Z,42.6195,-111.4881,6.14,2.4,ml,,130,0.32,0.37,us,us2000bswd,2017-12-07T20:00:09.040Z,"10 km ESE of Soda Springs, Idaho",earthquake,1.6,5.4,0.085,18,reviewed,us,us
+2017-09-04T06:33:38.360Z,42.6204,-111.4369,11.09,2.6,ml,,122,0.287,0.38,us,us2000affb,2017-12-07T20:00:09.040Z,"14 km ESE of Soda Springs, Idaho",earthquake,2.5,10.2,0.046,62,reviewed,us,us
+2017-09-04T06:28:15.510Z,42.6283333,-111.4536667,5.92,2.66,ml,15,78,0.2943,0.2,uu,uu60014259,2017-12-11T22:44:08.590Z,"12 km ESE of Soda Springs, Idaho",earthquake,0.77,31.61,0.119,4,reviewed,uu,uu
+2017-09-04T06:27:14.640Z,42.6314,-111.4984,3.27,2.6,ml,,133,0.311,0.31,us,us2000bswc,2017-12-07T20:00:09.040Z,"9 km ESE of Soda Springs, Idaho",earthquake,1.5,6.3,0.071,26,reviewed,us,us
+2017-09-04T06:23:06.680Z,42.65,-111.4536,10,2.9,ml,,131,0.284,1.14,us,us2000awzt,2017-12-07T20:00:09.040Z,"12 km E of Soda Springs, Idaho",earthquake,2.3,2,0.048,56,reviewed,us,us
+2017-09-04T06:20:36.470Z,42.6218,-111.4615,9.94,3.2,ml,,126,0.302,0.42,us,us2000bvjj,2017-12-07T20:00:09.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,1.8,11.4,0.097,14,reviewed,us,us
+2017-09-04T06:17:09.000Z,42.6213,-111.4516,5.71,4.5,mwr,,125,0.296,0.35,us,us2000afeu,2017-12-07T20:00:09.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.7,1,0.037,69,reviewed,us,us
+2017-09-04T05:10:43.140Z,42.6455,-111.4611667,6,2.48,md,11,76,0.2917,0.09,uu,uu60232012,2017-11-22T00:13:24.800Z,"11 km E of Soda Springs, Idaho",earthquake,0.39,31.61,0.105,3,reviewed,uu,uu
+2017-09-04T04:35:33.780Z,42.6602,-111.4983,6.45,2.7,ml,,144,0.283,0.24,us,us2000afdt,2017-12-07T20:00:09.040Z,"8 km E of Soda Springs, Idaho",earthquake,1.6,5.2,0.043,72,reviewed,us,us
+2017-09-04T03:08:36.830Z,42.5938,-111.4625,10,2.8,ml,,124,0.317,0.64,us,us2000afdc,2017-12-07T20:00:09.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.8,2,0.04,84,reviewed,us,us
+2017-09-04T01:21:43.620Z,42.6677,-111.482,5.21,2.3,ml,,138,0.297,0.25,us,us2000bswa,2017-12-07T20:00:09.040Z,"10 km E of Soda Springs, Idaho",earthquake,1.5,3.9,0.055,44,reviewed,us,us
+2017-09-04T00:57:24.890Z,42.6465,-111.4578333,5.96,2.37,ml,15,96,0.289,0.23,uu,uu60231722,2017-11-22T00:13:18.240Z,"12 km E of Soda Springs, Idaho",earthquake,0.76,31.61,0.138,10,reviewed,uu,uu
+2017-09-04T00:36:33.800Z,42.5863,-111.4493,5.09,3.4,mwr,,26,0.313,0.63,us,us2000afc3,2017-12-07T20:00:08.040Z,"13 km NNW of Georgetown, Idaho",earthquake,2.2,6.3,,13,reviewed,us,slm
+2017-09-04T00:05:24.580Z,42.6665,-111.5118,10,3.6,mwr,,140,0.318,0.6,us,us2000afc9,2017-12-07T20:00:08.040Z,"7 km E of Soda Springs, Idaho",earthquake,1.2,2,0.048,41,reviewed,us,us
+2017-09-04T00:03:24.320Z,42.595,-111.4316,10,2.6,ml,,134,0.297,0.82,us,us2000afbq,2017-12-07T20:00:08.040Z,"13 km NNW of Georgetown, Idaho",earthquake,1.9,11,0.042,74,reviewed,us,us
+2017-09-03T23:27:22.860Z,42.6347,-111.4562,11.09,2.5,ml,,137,0.293,0.44,us,us2000afc5,2017-12-07T20:00:08.040Z,"12 km E of Soda Springs, Idaho",earthquake,1.7,10.5,0.056,42,reviewed,us,us
+2017-09-03T23:26:03.630Z,42.6714,-111.4867,10.23,2.5,ml,,142,0.299,0.57,us,us2000afbh,2017-12-07T20:00:08.040Z,"9 km E of Soda Springs, Idaho",earthquake,1,11.1,0.046,62,reviewed,us,us
+2017-09-03T22:37:12.390Z,42.6609,-111.4505,10,2.8,ml,,136,0.278,0.43,us,us2000afar,2017-12-07T20:00:08.040Z,"12 km E of Soda Springs, Idaho",earthquake,1.8,2,0.044,68,reviewed,us,us
+2017-09-03T21:43:14.840Z,42.6659,-111.5228,5,2.5,ml,,67,0.326,1.02,us,us2000bsw9,2017-12-07T20:00:08.040Z,"6 km E of Soda Springs, Idaho",earthquake,1.8,1.9,0.064,32,reviewed,us,us
+2017-09-03T21:41:45.600Z,42.6164,-111.4738,10,2.6,ml,,137,0.313,0.71,us,us2000af9s,2017-12-07T20:00:08.040Z,"11 km ESE of Soda Springs, Idaho",earthquake,2.1,2,0.043,70,reviewed,us,us
+2017-09-03T21:10:15.760Z,42.6433,-111.5416,10,3.4,mwr,,34,0.347,0.67,us,us2000af9l,2017-12-07T20:00:08.040Z,"5 km ESE of Soda Springs, Idaho",earthquake,2,2,0.083,14,reviewed,us,us
+2017-09-03T20:53:57.810Z,42.6996667,-111.4665,8.93,2.7,ml,14,151,0.2776,0.16,uu,uu60014119,2017-12-04T23:08:50.100Z,"12 km ENE of Soda Springs, Idaho",earthquake,0.74,2.51,0.046,6,reviewed,uu,uu
+2017-09-03T20:53:26.640Z,42.6715,-111.4978,10,2.8,ml,,142,0.307,0.42,us,us2000af9h,2017-12-07T20:00:08.040Z,"8 km ENE of Soda Springs, Idaho",earthquake,2.2,2,0.045,64,reviewed,us,us
+2017-09-03T19:20:23.810Z,42.6525,-111.4774,10,2.8,ml,,140,0.3,0.91,us,us2000af8c,2017-12-07T20:00:08.040Z,"10 km E of Soda Springs, Idaho",earthquake,1.8,2,0.052,48,reviewed,us,us
+2017-09-03T18:58:25.490Z,42.6581,-111.4707,10,2.4,ml,,140,0.293,0.42,us,us2000af84,2017-12-07T20:00:08.040Z,"10 km E of Soda Springs, Idaho",earthquake,2.1,2,0.057,40,reviewed,us,us
+2017-09-03T18:51:31.820Z,42.6561,-111.4852,10,2.3,ml,,140,0.303,0.42,us,us2000bsw8,2017-12-07T20:00:08.040Z,"9 km E of Soda Springs, Idaho",earthquake,1.3,2,0.071,26,reviewed,us,us
+2017-09-03T18:36:46.750Z,42.6153,-111.4633,3,3.6,mwr,,134,0.306,0.42,us,us2000af80,2017-12-07T20:00:08.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,2,2.7,0.058,29,reviewed,us,us
+2017-09-03T18:13:07.230Z,42.6103,-111.3969,11.94,2.4,ml,,133,0.268,0.57,us,us2000bsw7,2017-12-07T20:00:08.040Z,"14 km N of Georgetown, Idaho",earthquake,2.5,10.7,0.074,24,reviewed,us,us
+2017-09-03T18:11:14.520Z,42.6252,-111.4301,10,2.6,ml,,136,0.28,0.44,us,us2000af7p,2017-12-07T20:00:08.040Z,"14 km ESE of Soda Springs, Idaho",earthquake,1.6,2,0.048,56,reviewed,us,us
+2017-09-03T17:55:21.210Z,42.6347,-111.4321,10,2.7,ml,,137,0.277,0.62,us,us2000af7k,2017-12-07T20:00:08.040Z,"14 km E of Soda Springs, Idaho",earthquake,2.3,2,0.048,58,reviewed,us,us
+2017-09-03T17:48:30.850Z,42.6606,-111.4405,10,2.8,ml,,147,0.271,0.58,us,us2000bvwt,2017-12-07T20:00:08.040Z,"13 km E of Soda Springs, Idaho",earthquake,1.8,2,0.066,30,reviewed,us,us
+2017-09-03T17:41:39.590Z,42.6381,-111.474,7.69,4.7,mww,,136,0.303,0.56,us,us2000af79,2018-01-26T03:54:27.968Z,"10 km E of Soda Springs, Idaho",earthquake,1.5,4.2,0.06,27,reviewed,us,us
+2017-09-03T17:28:16.320Z,42.6704,-111.4632,3.5,2.3,ml,,138,0.283,0.24,us,us2000af70,2017-12-07T20:00:08.040Z,"11 km E of Soda Springs, Idaho",earthquake,2.4,1.3,0.05,52,reviewed,us,us
+2017-09-03T17:25:58.550Z,42.6266,-111.4679,5.23,2.4,ml,,137,0.304,0.52,us,us2000af6w,2017-12-07T20:00:08.040Z,"11 km ESE of Soda Springs, Idaho",earthquake,2,7.1,0.066,30,reviewed,us,us
+2017-09-03T17:07:32.920Z,42.5884,-111.4793,10,3,ml,,133,0.33,0.88,us,us2000af6m,2017-12-07T20:00:08.040Z,"12 km SE of Soda Springs, Idaho",earthquake,2.6,2,0.042,76,reviewed,us,us
+2017-09-03T17:00:10.770Z,42.6605,-111.4555,1.69,2.56,ml,16,79,0.2819,0.23,uu,uu60230932,2017-12-11T22:32:13.530Z,"12 km E of Soda Springs, Idaho",earthquake,0.77,7.07,0.161,6,reviewed,uu,uu
+2017-09-03T16:56:56.570Z,42.5953,-111.4331,6.69,2.6,ml,,85,0.298,0.68,us,us2000bsw6,2017-12-07T20:00:08.040Z,"13 km NNW of Georgetown, Idaho",earthquake,2,1.7,0.074,24,reviewed,us,us
+2017-09-03T16:55:01.670Z,42.7663333,-111.4008333,7.52,2.29,md,12,275,0.708,0.2,uu,uu60014179,2017-12-12T20:25:56.460Z,"20 km NE of Soda Springs, Idaho",earthquake,5.24,1.77,0.262,9,reviewed,uu,uu
+2017-09-03T16:49:17.380Z,42.6137,-111.4287,10,4.7,mww,,54,0.285,0.48,us,us2000af5z,2017-12-07T20:00:08.040Z,"15 km ESE of Soda Springs, Idaho",earthquake,1.8,1.9,0.058,29,reviewed,us,us
+2017-09-03T16:45:22.030Z,42.6776,-111.477,6.47,2.5,ml,,141,0.291,0.28,us,us2000af5w,2017-12-07T20:00:08.040Z,"10 km ENE of Soda Springs, Idaho",earthquake,1.9,6.1,0.066,30,reviewed,us,us
+2017-09-03T16:41:15.250Z,42.6679,-111.4745,6.96,2.6,ml,,140,0.292,0.2,us,us2000af5v,2017-12-07T20:00:08.040Z,"10 km E of Soda Springs, Idaho",earthquake,2.3,1.2,0.066,30,reviewed,us,us
+2017-09-03T16:09:56.400Z,42.6631,-111.428,8.13,3.6,mwr,,136,0.262,0.48,us,us2000af57,2017-12-07T20:00:07.040Z,"14 km E of Soda Springs, Idaho",earthquake,1.4,7.5,0.044,50,reviewed,us,us
+2017-09-03T15:58:23.320Z,42.6171667,-111.4406667,5.97,2.45,ml,16,92,0.2914,0.29,uu,uu60014159,2018-02-13T16:13:56.550Z,"14 km ESE of Soda Springs, Idaho",earthquake,0.8,31.61,0.336,3,reviewed,uu,uu
+2017-09-03T15:57:30.480Z,42.6725,-111.4814,6.88,2.5,ml,,149,0.295,0.25,us,us2000af4y,2017-12-07T20:00:07.040Z,"10 km E of Soda Springs, Idaho",earthquake,1.4,6.6,0.056,42,reviewed,us,us
+2017-09-03T15:51:05.500Z,42.6098,-111.4542,5.98,2.6,ml,,92,0.304,0.4,us,us2000bsw3,2017-12-07T20:00:07.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,2,1.9,0.066,30,reviewed,uu,us
+2017-09-03T15:47:52.410Z,42.5895,-111.4839,9.46,3.3,mwr,,134,0.333,0.32,us,us2000af4q,2017-12-07T20:00:07.040Z,"12 km SE of Soda Springs, Idaho",earthquake,2.5,10.3,0.055,32,reviewed,us,us
+2017-09-03T15:40:24.750Z,42.602,-111.4335,5.86,2.6,ml,,134,0.294,0.48,us,us2000af4l,2017-12-07T20:00:07.040Z,"14 km NNW of Georgetown, Idaho",earthquake,1.4,5.6,0.059,38,reviewed,us,us
+2017-09-03T15:23:36.950Z,42.6186,-111.4718,6.26,2.7,ml,,139,0.31,0.47,us,us2000bsw1,2017-12-07T20:00:07.040Z,"11 km ESE of Soda Springs, Idaho",earthquake,1.6,6,0.077,22,reviewed,us,us
+2017-09-03T15:12:38.730Z,42.6559,-111.4148,6.44,2.8,ml,,135,0.256,0.68,us,us2000af3x,2017-12-07T20:00:07.040Z,"15 km E of Soda Springs, Idaho",earthquake,2.2,5.9,0.048,56,reviewed,us,us
+2017-09-03T14:54:33.290Z,42.597,-111.4394,12.14,3,ml,,132,0.301,0.51,us,us2000af3n,2017-12-07T20:00:07.040Z,"13 km NNW of Georgetown, Idaho",earthquake,2.3,10.7,0.06,36,reviewed,us,us
+2017-09-03T14:42:17.590Z,42.6144,-111.446,10,3.7,mwr,,120,0.296,0.62,us,us2000af3g,2017-12-07T20:00:07.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.1,2,0.05,39,reviewed,us,us
+2017-09-03T14:39:59.750Z,42.6108,-111.4563,10,2.4,ml,,136,0.304,0.52,us,us2000af3f,2017-12-07T20:00:07.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,2.5,2,0.062,34,reviewed,us,us
+2017-09-03T14:21:51.040Z,42.5993,-111.4353,10,2.5,ml,,134,0.297,0.78,us,us2000af33,2017-12-07T20:00:07.040Z,"14 km NNW of Georgetown, Idaho",earthquake,1.4,2,0.064,32,reviewed,us,us
+2017-09-03T14:12:52.960Z,42.6073,-111.413,3.1,3.6,mwr,,132,0.279,0.61,us,us2000af2t,2017-12-07T20:00:07.040Z,"14 km NNW of Georgetown, Idaho",earthquake,1.6,6,0.052,35,reviewed,us,us
+2017-09-03T14:08:49.200Z,42.5903,-111.439,10,2.6,ml,,134,0.305,0.39,us,us2000bsvy,2017-12-07T20:00:07.040Z,"13 km NNW of Georgetown, Idaho",earthquake,1.8,2,0.081,20,reviewed,us,us
+2017-09-03T14:07:33.040Z,42.617,-111.4462,10,2.5,ml,,136,0.295,1.01,us,us2000af2l,2017-12-07T20:00:07.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.4,2,0.064,32,reviewed,us,us
+2017-09-03T13:56:29.970Z,42.6142,-111.4264,10,3.7,ml,,142,0.283,0.88,us,us2000af2c,2017-12-07T20:00:07.040Z,"15 km ESE of Soda Springs, Idaho",earthquake,1.3,2,0.056,42,reviewed,us,us
+2017-09-03T13:55:27.210Z,42.6228,-111.4437,6.01,2.5,ml,,180,0.29,0.23,us,us2000af2b,2017-12-07T20:00:07.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.5,1.8,0.105,12,reviewed,uu,us
+2017-09-03T13:47:00.470Z,42.643,-111.4339,10,2.7,ml,,135,0.274,0.87,us,us2000af22,2017-12-07T20:00:07.040Z,"14 km E of Soda Springs, Idaho",earthquake,2.2,2,0.055,44,reviewed,us,us
+2017-09-03T13:19:13.460Z,42.659,-111.4712,10,2.8,ml,,137,0.293,0.48,us,us2000af1j,2017-12-07T20:00:07.040Z,"10 km E of Soda Springs, Idaho",earthquake,1.9,2,0.055,44,reviewed,us,us
+2017-09-03T13:12:56.140Z,42.6574,-111.4382,10,2.7,ml,,136,0.271,0.6,us,us2000af1g,2017-12-07T20:00:07.040Z,"13 km E of Soda Springs, Idaho",earthquake,1.5,2,0.047,60,reviewed,us,us
+2017-09-03T13:06:49.140Z,42.6606,-111.4602,10,2.9,ml,,139,0.285,0.8,us,us2000af1e,2017-12-07T20:00:07.040Z,"11 km E of Soda Springs, Idaho",earthquake,1.5,2,0.049,54,reviewed,us,us
+2017-09-03T12:47:00.520Z,42.654,-111.4651,3.61,2.4,ml,,83,0.291,0.42,us,us2000bsvv,2017-12-07T20:00:07.040Z,"11 km E of Soda Springs, Idaho",earthquake,1.7,5.1,0.066,30,reviewed,us,us
+2017-09-03T12:45:43.350Z,42.6681,-111.4869,6.83,2.4,ml,,141,0.301,0.31,us,us2000af10,2017-12-07T20:00:07.040Z,"9 km E of Soda Springs, Idaho",earthquake,1.1,5.6,0.074,24,reviewed,us,us
+2017-09-03T11:43:14.610Z,42.5992,-111.4977,1.64,2.8,ml,,56,0.336,0.57,us,us2000af08,2017-12-07T20:00:07.040Z,"10 km SE of Soda Springs, Idaho",earthquake,1.1,2.3,0.039,86,reviewed,us,us
+2017-09-03T11:23:21.930Z,42.6701,-111.4828,4.4,3.7,mwr,,48,0.297,0.4,us,us2000af06,2017-12-07T20:00:07.040Z,"10 km E of Soda Springs, Idaho",earthquake,1.2,5.1,0.035,80,reviewed,us,us
+2017-09-03T11:16:41.510Z,42.6499,-111.4871,6.89,2.3,ml,,149,0.307,0.41,us,us2000af04,2017-12-07T20:00:07.040Z,"9 km E of Soda Springs, Idaho",earthquake,1.2,5.5,0.069,28,reviewed,us,us
+2017-09-03T09:24:04.220Z,42.6568,-111.5087,5,2.9,ml,,139,0.319,0.58,us,us2000aeyw,2017-12-07T20:00:06.040Z,"7 km E of Soda Springs, Idaho",earthquake,1.7,1.5,0.048,58,reviewed,us,us
+2017-09-03T08:51:33.430Z,42.633,-111.4441667,5.96,2.42,ml,9,100,0.2859,0.26,uu,uu60014174,2017-12-08T23:45:55.660Z,"13 km E of Soda Springs, Idaho",earthquake,0.87,13.19,0.229,3,reviewed,uu,uu
+2017-09-03T08:50:47.640Z,42.674,-111.4811,6.83,2.6,ml,,142,0.295,0.38,us,us2000aey8,2017-12-07T20:00:06.040Z,"10 km ENE of Soda Springs, Idaho",earthquake,1.4,6.3,0.051,50,reviewed,us,us
+2017-09-03T08:47:41.880Z,42.6491,-111.4942,4.95,2.3,ml,,138,0.312,0.49,us,us2000aey5,2017-12-07T20:00:06.040Z,"9 km E of Soda Springs, Idaho",earthquake,1.4,6.3,0.051,50,reviewed,us,us
+2017-09-03T08:24:18.160Z,42.6729,-111.5011,5.65,3.2,ml,,143,0.309,0.54,us,us2000aexw,2017-12-07T20:00:06.040Z,"8 km ENE of Soda Springs, Idaho",earthquake,1.2,6.2,0.059,38,reviewed,us,us
+2017-09-03T07:15:07.200Z,42.6249,-111.4559,6.39,2.7,ml,,128,0.297,0.5,us,us2000aews,2017-12-07T20:00:06.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,1.9,5.2,0.055,44,reviewed,us,us
+2017-09-03T07:10:52.230Z,42.6273,-111.4655,6.39,2.8,ml,,138,0.302,0.35,us,us2000aewq,2017-12-07T20:00:06.040Z,"11 km ESE of Soda Springs, Idaho",earthquake,1.7,6,0.05,52,reviewed,us,us
+2017-09-03T07:00:07.440Z,42.6652,-111.4623,10,3,ml,,149,0.284,0.59,us,us2000aewk,2017-12-07T20:00:06.040Z,"11 km E of Soda Springs, Idaho",earthquake,2.3,2,0.043,70,reviewed,us,us
+2017-09-03T06:58:33.260Z,42.6626667,-111.4661667,1.59,2.18,ml,14,89,0.2885,0.26,uu,uu60229967,2017-11-22T00:12:17.280Z,"11 km E of Soda Springs, Idaho",earthquake,0.81,6.68,0.097,6,reviewed,uu,uu
+2017-09-03T06:44:52.390Z,42.6631,-111.4805,2.5,4,mwr,,138,0.298,0.48,us,us2000aew2,2017-12-07T20:00:06.040Z,"10 km E of Soda Springs, Idaho",earthquake,1.9,5,0.035,77,reviewed,us,us
+2017-09-03T06:42:04.930Z,42.6422,-111.4522,10,2.7,ml,,138,0.287,0.53,us,us2000aevx,2017-12-07T20:00:06.040Z,"12 km E of Soda Springs, Idaho",earthquake,2.3,2,0.05,52,reviewed,us,us
+2017-09-03T06:30:43.820Z,42.7238,-111.5218,10,2.4,ml,,149,0.313,0.27,us,us2000bsvu,2017-12-07T20:00:06.040Z,"10 km NE of Soda Springs, Idaho",earthquake,3,2,0.074,24,reviewed,us,us
+2017-09-03T06:06:10.840Z,42.4984,-111.2832,10,3.6,ml,,157,0.299,0.38,us,us2000bv7a,2017-12-07T20:00:06.040Z,"7 km ENE of Georgetown, Idaho",earthquake,3.9,2,0.128,8,reviewed,us,us
+2017-09-03T06:05:43.070Z,42.651,-111.4884,10,4.1,mwr,,141,0.308,0.66,us,us2000aeve,2017-12-07T20:00:06.040Z,"9 km E of Soda Springs, Idaho",earthquake,1.1,2,0.029,112,reviewed,us,us
+2017-09-03T06:04:36.820Z,42.6484,-111.4513,10,3.7,mwr,,138,0.283,0.34,us,us2000aeun,2017-12-07T20:00:06.040Z,"12 km E of Soda Springs, Idaho",earthquake,1.9,2,,22,reviewed,us,slm
+2017-09-03T05:53:21.780Z,42.6114,-111.4549,10,2.3,ml,,136,0.303,0.37,us,us2000aeuj,2017-12-07T20:00:06.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.7,2,0.053,46,reviewed,us,us
+2017-09-03T05:40:56.170Z,42.6504,-111.4522,3.8,2.8,ml,,139,0.283,0.52,us,us2000aeug,2017-12-07T20:00:06.040Z,"12 km E of Soda Springs, Idaho",earthquake,1.4,6.9,0.052,48,reviewed,us,us
+2017-09-03T05:14:00.440Z,42.6026,-111.4393,10,2.2,ml,,135,0.298,0.55,us,us2000bsvt,2017-12-07T20:00:06.040Z,"14 km NNW of Georgetown, Idaho",earthquake,2.2,2,0.071,26,reviewed,us,us
+2017-09-03T04:38:43.630Z,42.6431,-111.4989,10,2.8,ml,,48,0.318,0.69,us,us2000aetj,2017-12-07T20:00:06.040Z,"8 km E of Soda Springs, Idaho",earthquake,2.4,2,0.041,78,reviewed,us,us
+2017-09-03T04:36:39.990Z,42.6583,-111.469,10,2.4,ml,,48,0.292,0.7,us,us2000aetg,2017-12-07T20:00:06.040Z,"11 km E of Soda Springs, Idaho",earthquake,1.7,2,0.042,74,reviewed,us,us
+2017-09-03T04:22:00.940Z,42.6546,-111.4898,10,3.3,ml,,36,0.307,1.06,us,us2000aet9,2017-12-07T20:00:06.040Z,"9 km E of Soda Springs, Idaho",earthquake,2.8,2,0.041,80,reviewed,us,us
+2017-09-03T04:19:00.840Z,42.6172,-111.4592,10,2.8,ml,,57,0.303,1.1,us,us2000bvpq,2017-12-07T20:00:06.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,2.3,2,0.071,26,reviewed,us,us
+2017-09-03T04:17:20.320Z,42.6186,-111.4769,10,3.3,ml,,40,0.314,0.73,us,us2000aet7,2017-12-07T20:00:06.040Z,"11 km ESE of Soda Springs, Idaho",earthquake,2.2,2,0.039,86,reviewed,us,us
+2017-09-03T04:14:36.100Z,42.6301,-111.4797,10,3.3,ml,,55,0.31,0.71,us,us2000al3b,2017-12-07T20:00:06.040Z,"10 km ESE of Soda Springs, Idaho",earthquake,1.2,2,0.047,60,reviewed,us,us
+2017-09-03T04:13:59.220Z,42.6698,-111.4892,10,3,ml,,58,0.302,0.58,us,us2000awzr,2017-12-07T20:00:06.040Z,"9 km E of Soda Springs, Idaho",earthquake,2.3,2,0.066,30,reviewed,us,us
+2017-09-03T04:12:32.270Z,42.5758,-111.3851,10,2.9,ml,,65,0.282,0.86,us,us2000bsuv,2017-12-07T20:00:06.040Z,"10 km N of Georgetown, Idaho",earthquake,2.7,2,0.059,38,reviewed,us,us
+2017-09-03T04:11:53.220Z,42.6541,-111.4569,8.96,2.9,ml,,47,0.285,1.02,us,us2000aesv,2017-12-07T20:00:06.040Z,"12 km E of Soda Springs, Idaho",earthquake,2.6,11.6,0.041,79,reviewed,us,us
+2017-09-03T04:04:15.560Z,42.6396,-111.5001,10,2.6,ml,,34,0.32,0.7,us,us2000aesm,2017-12-07T20:00:06.040Z,"8 km E of Soda Springs, Idaho",earthquake,2.5,2,0.041,78,reviewed,us,us
+2017-09-03T03:56:31.620Z,42.6051,-111.4827,10,2.7,ml,,55,0.324,0.78,us,us2000bsv9,2017-12-07T20:00:06.040Z,"11 km ESE of Soda Springs, Idaho",earthquake,2.4,2,0.059,38,reviewed,us,us
+2017-09-03T03:56:09.100Z,42.643,-111.4944,10,2.6,ml,,48,0.315,0.44,us,us2000bsv7,2017-12-07T20:00:06.040Z,"9 km E of Soda Springs, Idaho",earthquake,1.9,2,0.052,48,reviewed,us,us
+2017-09-03T03:55:38.090Z,42.6144,-111.4487,10,2.5,ml,,57,0.297,0.68,us,us2000aesd,2017-12-07T20:00:06.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.7,2,0.049,54,reviewed,us,us
+2017-09-03T03:49:00.350Z,42.6178333,-111.4448333,5.97,2.27,ml,14,107,0.2937,0.25,uu,uu60229622,2017-11-22T00:12:01.290Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.02,31.61,0.127,4,reviewed,uu,uu
+2017-09-03T03:30:54.240Z,42.6415,-111.4881,10,2.7,ml,,48,0.311,0.39,us,us2000bsvr,2017-12-07T20:00:05.040Z,"9 km E of Soda Springs, Idaho",earthquake,2.6,2,0.055,44,reviewed,us,us
+2017-09-03T03:30:04.590Z,42.6714,-111.5015,10,2.6,ml,,58,0.31,0.98,us,us2000aerl,2017-12-07T20:00:05.040Z,"8 km ENE of Soda Springs, Idaho",earthquake,1.8,2,0.044,69,reviewed,us,us
+2017-09-03T03:15:00.390Z,42.652,-111.4319,10,2.9,ml,,33,0.269,1.09,us,us2000aeqx,2017-12-07T20:00:05.040Z,"14 km E of Soda Springs, Idaho",earthquake,2.8,2,0.039,86,reviewed,us,us
+2017-09-03T03:09:50.570Z,42.6549,-111.5716,10,2.5,ml,,49,0.364,0.77,us,us2000aeqr,2017-12-07T20:00:05.040Z,"2 km E of Soda Springs, Idaho",earthquake,3.9,2,0.046,63,reviewed,us,us
+2017-09-03T02:47:50.640Z,42.6654,-111.4169,10,2.5,ml,,56,0.253,0.91,us,us2000aeq1,2017-12-07T20:00:05.040Z,"15 km E of Soda Springs, Idaho",earthquake,3.5,0.8,0.041,80,reviewed,us,us
+2017-09-03T02:44:01.680Z,42.6212,-111.4954,10,2.5,ml,,47,0.324,0.7,us,us2000aepy,2017-12-07T20:00:05.040Z,"9 km ESE of Soda Springs, Idaho",earthquake,2.7,2,0.048,56,reviewed,us,us
+2017-09-03T02:37:32.370Z,42.5888333,-111.441,6,2.5,ml,14,96,0.307,0.15,uu,uu60229447,2017-11-22T00:11:52.000Z,"13 km NNW of Georgetown, Idaho",earthquake,0.53,31.61,0.119,4,reviewed,uu,uu
+2017-09-03T02:31:06.150Z,42.6128333,-111.4253333,5.89,2.82,md,9,155,0.284,0.24,uu,uu60014264,2017-12-11T22:52:57.080Z,"15 km NNW of Georgetown, Idaho",earthquake,1.49,31.61,0.205,5,reviewed,uu,uu
+2017-09-03T02:29:23.290Z,42.636,-111.4812,10,4.1,mb,,24,0.309,1.15,us,us2000aepg,2017-12-07T20:00:05.040Z,"10 km ESE of Soda Springs, Idaho",earthquake,1.9,2,0.107,24,reviewed,us,us
+2017-09-03T02:16:04.100Z,42.6685,-111.4991,10,3.2,ml,,48,0.309,0.91,us,us2000aepa,2017-12-07T20:00:05.040Z,"8 km E of Soda Springs, Idaho",earthquake,1.5,2,0.048,58,reviewed,us,us
+2017-09-03T02:14:13.150Z,42.6564,-111.4099,10,3.3,ml,,64,0.252,0.82,us,us2000aep9,2017-12-07T20:00:05.040Z,"15 km E of Soda Springs, Idaho",earthquake,3.1,2,0.052,48,reviewed,us,us
+2017-09-03T02:13:15.750Z,42.6688,-111.4785,10,3,ml,,140,0.294,0.68,us,us1000bj4g,2017-12-07T20:00:05.040Z,"10 km E of Soda Springs, Idaho",earthquake,2.1,2,0.077,22,reviewed,us,us
+2017-09-03T02:12:21.270Z,42.6638,-111.4244,10,2.9,ml,,47,0.259,0.44,us,us2000ag7e,2017-12-07T20:00:05.040Z,"14 km E of Soda Springs, Idaho",earthquake,4.6,2,0.045,66,reviewed,us,us
+2017-09-03T02:11:36.790Z,42.6237,-111.3948,10,2.8,ml,,40,0.259,0.6,us,us2000aep2,2017-12-07T20:00:05.040Z,"15 km N of Georgetown, Idaho",earthquake,3.1,2,0.043,72,reviewed,us,us
+2017-09-03T02:03:05.230Z,42.625,-111.5765,10,2.6,ml,,59,0.378,0.39,us,us2000bsuu,2017-12-07T20:00:05.040Z,"3 km SE of Soda Springs, Idaho",earthquake,2.1,2,0.057,40,reviewed,us,us
+2017-09-03T02:02:52.880Z,42.5973,-111.5656,10,2.5,ml,,48,0.382,0.95,us,us2000aenw,2017-12-07T20:00:05.040Z,"7 km SSE of Soda Springs, Idaho",earthquake,4.1,2,0.156,5,reviewed,us,uu
+2017-09-03T01:54:28.470Z,42.6222,-111.4964,3.78,2.9,ml,,31,0.325,0.7,us,us2000aenu,2017-12-07T20:00:05.040Z,"9 km ESE of Soda Springs, Idaho",earthquake,1.4,7.3,0.038,90,reviewed,us,us
+2017-09-03T01:50:59.760Z,42.6151,-111.5103,10,2.8,ml,,31,0.337,0.81,us,us2000aent,2017-12-07T20:00:05.040Z,"8 km ESE of Soda Springs, Idaho",earthquake,1.6,2,0.038,90,reviewed,us,us
+2017-09-03T01:38:13.000Z,42.6555,-111.4111,10,2.8,ml,,47,0.254,0.92,us,us2000aenl,2017-12-07T20:00:05.040Z,"15 km E of Soda Springs, Idaho",earthquake,3.1,2,0.044,68,reviewed,us,us
+2017-09-03T01:34:59.480Z,42.6275,-111.4658333,5.97,2.59,ml,11,183,0.3026,0.11,uu,uu60014029,2017-11-30T23:15:04.970Z,"11 km ESE of Soda Springs, Idaho",earthquake,0.64,31.61,0.19,2,reviewed,uu,uu
+2017-09-03T01:31:05.410Z,42.6327,-111.4792,10,2.8,ml,,127,0.309,0.78,us,us2000ag6j,2017-12-07T20:00:05.040Z,"10 km ESE of Soda Springs, Idaho",earthquake,1.8,2,0.071,26,reviewed,us,us
+2017-09-03T01:30:19.340Z,42.657,-111.454,15.07,2.7,ml,,47,0.282,0.49,us,us2000aenj,2017-12-07T20:00:05.040Z,"12 km E of Soda Springs, Idaho",earthquake,2.2,9.5,0.06,36,reviewed,us,us
+2017-09-03T01:27:57.890Z,42.669,-111.4708,10,2.8,ml,,48,0.289,0.78,us,us2000aenh,2017-12-07T20:00:05.040Z,"11 km E of Soda Springs, Idaho",earthquake,1.1,2,0.041,80,reviewed,us,us
+2017-09-03T01:25:07.070Z,42.6539,-111.5291,10,2.4,ml,,59,0.335,0.5,us,us2000aene,2017-12-07T20:00:05.040Z,"6 km E of Soda Springs, Idaho",earthquake,1.8,2,0.047,60,reviewed,us,us
+2017-09-03T01:21:21.480Z,42.613,-111.4778,10,2.7,ml,,46,0.317,0.7,us,us2000aend,2017-12-07T20:00:05.040Z,"11 km ESE of Soda Springs, Idaho",earthquake,2.1,2,0.042,76,reviewed,us,us
+2017-09-03T01:16:45.960Z,42.6358,-111.4258,10,3.1,ml,,40,0.272,0.62,us,us2000aen9,2017-12-07T20:00:05.040Z,"14 km E of Soda Springs, Idaho",earthquake,3.3,2,0.04,82,reviewed,us,us
+2017-09-03T01:10:37.600Z,42.6073,-111.4772,10,2.9,ml,,41,0.319,0.85,us,us2000aemw,2017-12-07T20:00:05.040Z,"11 km ESE of Soda Springs, Idaho",earthquake,1.7,2,0.042,74,reviewed,us,us
+2017-09-03T01:06:47.180Z,42.6269,-111.4705,10,2.7,ml,,51,0.306,1.14,us,us2000bvnv,2017-12-07T20:00:05.040Z,"11 km ESE of Soda Springs, Idaho",earthquake,1.5,2,0.058,39,reviewed,us,us
+2017-09-03T01:02:49.510Z,42.7005,-111.5026667,11.44,3.7,ml,10,202,0.3034,0.18,uu,uu60013589,2017-11-22T16:15:35.290Z,"9 km ENE of Soda Springs, Idaho",earthquake,1.12,2.05,0.023,9,reviewed,uu,uu
+2017-09-03T01:02:37.310Z,42.6006,-111.4695,10,3.5,ml,,46,0.318,0.67,us,us2000aemu,2017-12-07T20:00:05.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,3.3,2,0.047,60,reviewed,us,us
+2017-09-03T01:01:58.920Z,42.6005,-111.4327,10,3.5,ml,,27,0.295,0.89,us,us2000aemj,2017-12-07T20:00:05.040Z,"14 km NNW of Georgetown, Idaho",earthquake,2.7,2,0.038,90,reviewed,us,us
+2017-09-03T00:59:30.110Z,42.6085,-111.4225,0.82,2.48,ml,8,286,0.5592,0.22,uu,uu60014224,2017-12-11T21:22:11.230Z,"14 km NNW of Georgetown, Idaho",earthquake,6.82,31.61,0.14,3,reviewed,uu,uu
+2017-09-03T00:56:26.690Z,42.6556,-111.49,16.84,3.1,ml,,171,0.307,0.29,us,us2000bvfs,2017-12-07T20:00:05.040Z,"9 km E of Soda Springs, Idaho",earthquake,3.6,10.3,0.085,18,reviewed,us,us
+2017-09-03T00:55:18.180Z,42.6314,-111.4816,10,3,ml,,83,0.311,0.34,us,us2000bvfg,2017-12-07T20:00:05.040Z,"10 km ESE of Soda Springs, Idaho",earthquake,1.4,2,0.091,16,reviewed,us,us
+2017-09-03T00:54:43.260Z,42.5897,-111.4341,12.98,2.6,ml,,144,0.302,0.72,us,us1000bk01,2017-12-07T20:00:05.040Z,"13 km NNW of Georgetown, Idaho",earthquake,3.4,10.6,0.105,14,reviewed,us,us
+2017-09-03T00:54:06.150Z,42.6292,-111.4734,8.94,3,ml,,82,0.306,0.5,us,us2000anlc,2017-12-07T20:00:05.040Z,"11 km ESE of Soda Springs, Idaho",earthquake,1.8,11.5,0.059,38,reviewed,us,us
+2017-09-03T00:52:14.150Z,42.6101,-111.4472,15.16,3,ml,,64,0.299,0.61,us,us2000bvf2,2017-12-07T20:00:05.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.2,9.6,0.071,26,reviewed,us,us
+2017-09-03T00:50:56.440Z,42.6454,-111.4598,10,3.4,ml,,133,0.29,0.48,us,us2000al10,2017-12-07T20:00:05.040Z,"11 km E of Soda Springs, Idaho",earthquake,1.5,2,0.091,16,reviewed,us,us
+2017-09-03T00:50:03.350Z,42.6324,-111.4641,8.19,2.9,ml,,82,0.299,0.71,us,us2000awzp,2017-12-07T20:00:05.040Z,"11 km ESE of Soda Springs, Idaho",earthquake,1.8,8.8,0.071,26,reviewed,us,us
+2017-09-03T00:47:51.220Z,42.668,-111.5118,13.32,2.9,ml,,152,0.318,0.52,us,us2000bvw4,2017-12-07T20:00:05.040Z,"7 km E of Soda Springs, Idaho",earthquake,2.5,10.7,0.085,18,reviewed,us,us
+2017-09-03T00:47:02.940Z,42.6011,-111.4606,10,2.8,ml,,81,0.312,0.51,us,us2000ankr,2017-12-07T20:00:04.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,0.8,2,0.077,22,reviewed,us,us
+2017-09-03T00:45:55.050Z,42.6656,-111.4477,9.43,3,ml,,58,0.274,0.22,us,us2000aen6,2017-12-07T20:00:04.040Z,"12 km E of Soda Springs, Idaho",earthquake,2.3,11.4,0.053,46,reviewed,us,us
+2017-09-03T00:44:38.490Z,42.6282,-111.4938,6.21,3.1,ml,,47,0.32,0.53,us,us2000aelu,2017-12-07T20:00:04.040Z,"9 km ESE of Soda Springs, Idaho",earthquake,1.4,6,0.05,52,reviewed,us,us
+2017-09-03T00:44:04.490Z,42.4908333,-111.6541667,6.19,2.18,md,9,266,0.3858,0.22,uu,uu60014209,2017-12-11T21:02:08.650Z,"11 km SSE of Grace, Idaho",earthquake,3.48,31.61,0.398,3,reviewed,uu,uu
+2017-09-03T00:41:24.300Z,42.6272,-111.4629,9.95,3.4,ml,,71,0.3,0.57,us,us2000ah72,2017-12-07T20:00:04.040Z,"12 km ESE of Soda Springs, Idaho",earthquake,2,10.8,0.081,20,reviewed,us,us
+2017-09-03T00:39:48.290Z,42.6286,-111.4666,10,4.2,mwr,,56,0.302,0.47,us,us2000aelm,2017-12-07T20:00:04.040Z,"11 km ESE of Soda Springs, Idaho",earthquake,1.5,2,0.039,63,reviewed,us,us
+2017-09-03T00:38:13.800Z,42.6312,-111.4353,12.39,2.9,ml,,79,0.281,0.38,us,us2000aell,2017-12-07T20:00:04.040Z,"14 km E of Soda Springs, Idaho",earthquake,1.7,10.1,0.064,32,reviewed,us,us
+2017-09-03T00:32:12.020Z,42.5522,-111.4486,15.63,3.2,ml,,106,0.333,0.57,us,us2000aemp,2017-12-07T20:00:04.040Z,"10 km NW of Georgetown, Idaho",earthquake,2.5,10.4,0.061,35,reviewed,us,us
+2017-09-03T00:31:53.560Z,42.6181,-111.4512,10.96,3,ml,,81,0.297,0.66,us,us2000aifh,2017-12-07T20:00:04.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,2,10.4,0.128,8,reviewed,us,us
+2017-09-03T00:31:24.850Z,42.6158,-111.4482,11.73,2.2,ml,,81,0.296,0.69,us,us1000bk1d,2017-12-07T20:00:04.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.2,10.1,0.115,14,reviewed,us,us
+2017-09-03T00:25:00.640Z,42.6314,-111.4672,13.4,3.4,ml,,56,0.301,0.6,us,us2000ael1,2017-12-07T20:00:04.040Z,"11 km ESE of Soda Springs, Idaho",earthquake,1.7,11.2,0.049,54,reviewed,us,us
+2017-09-03T00:24:29.310Z,42.6092,-111.4175,10,3.1,ml,,54,0.281,0.39,us,us2000aieu,2017-12-07T20:00:04.040Z,"14 km NNW of Georgetown, Idaho",earthquake,2.1,2,0.077,22,reviewed,us,us
+2017-09-03T00:23:29.870Z,42.6644,-111.4871,10,2.5,ml,,80,0.302,0.6,us,us2000aiei,2017-12-07T20:00:04.040Z,"9 km E of Soda Springs, Idaho",earthquake,1.8,2,0.074,24,reviewed,us,us
+2017-09-03T00:21:49.560Z,42.6336,-111.4664,2.45,3.1,ml,,56,0.3,0.44,us,us2000aidv,2017-12-07T20:00:04.040Z,"11 km ESE of Soda Springs, Idaho",earthquake,1.2,4.4,0.064,32,reviewed,us,us
+2017-09-03T00:19:45.290Z,42.6159,-111.4517,3.65,3.5,ml,,96,0.299,0.26,us,us2000ag6h,2017-12-07T20:00:04.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,1.5,4.6,0.062,34,reviewed,us,us
+2017-09-03T00:19:28.390Z,42.6281,-111.4633,7.38,3,ml,,138,0.3,0.32,us,us2000bvpd,2017-12-07T20:00:04.040Z,"11 km ESE of Soda Springs, Idaho",earthquake,1.9,6.7,0.51,2,reviewed,us,uu
+2017-09-03T00:18:36.960Z,42.5502,-111.3834,10,2.7,ml,,142,0.299,0.36,us,us2000bvp8,2017-12-07T20:00:04.040Z,"7 km N of Georgetown, Idaho",earthquake,1.8,2,0.091,16,reviewed,us,us
+2017-09-03T00:17:13.610Z,42.6432,-111.4718,10,3.9,mwr,,129,0.299,0.64,us,us2000aekv,2018-01-26T03:50:47.213Z,"10 km E of Soda Springs, Idaho",earthquake,2.8,2,,9,reviewed,us,slm
+2017-09-03T00:16:38.040Z,42.6054,-111.4591,11.25,3.4,ml,,69,0.309,0.53,us,us2000ag6i,2017-12-07T20:00:04.040Z,"13 km ESE of Soda Springs, Idaho",earthquake,2.4,9.2,0.069,28,reviewed,us,us
+2017-09-03T00:16:01.780Z,42.5577,-111.4644,6.97,2.7,ml,,115,0.339,0.3,us,us1000bjhv,2017-12-07T20:00:04.040Z,"11 km NW of Georgetown, Idaho",earthquake,2,5.6,0.115,10,reviewed,us,us
+2017-09-03T00:13:00.280Z,42.6541,-111.4529,10.99,2.9,ml,,81,0.282,0.65,us,us2000ah6j,2017-12-07T20:00:04.040Z,"12 km E of Soda Springs, Idaho",earthquake,2.6,10.7,0.057,40,reviewed,us,us
+2017-09-03T00:11:49.890Z,42.6343,-111.4649,6.76,3,ml,,154,0.298,0.52,us,us2000bvn2,2017-12-07T20:00:04.040Z,"11 km E of Soda Springs, Idaho",earthquake,2,1.1,0.105,12,reviewed,us,us
+2017-09-03T00:11:25.730Z,42.5832,-111.3925,11.2,2.9,ml,,62,0.282,0.49,us,us2000ah5y,2017-12-07T20:00:04.040Z,"11 km N of Georgetown, Idaho",earthquake,2.4,10.4,0.074,24,reviewed,us,us
+2017-09-03T00:10:35.160Z,42.6461,-111.4223,4.84,2.8,ml,,95,0.265,0.32,us,us2000ah5p,2017-12-07T20:00:04.040Z,"14 km E of Soda Springs, Idaho",earthquake,2,3.6,0.062,34,reviewed,us,us
+2017-09-03T00:07:35.470Z,42.6571,-111.4319,2.18,2.9,ml,,147,0.267,0.46,us,us2000bvnn,2017-12-07T20:00:04.040Z,"14 km E of Soda Springs, Idaho",earthquake,1.4,5.2,0.128,8,reviewed,us,us
+2017-09-03T00:07:14.730Z,42.6868333,-111.4101667,0.95,3.4,ml,14,90,0.2414,0.24,uu,uu60229182,2017-09-29T19:49:22.460Z,"16 km ENE of Soda Springs, Idaho",earthquake,0.66,3.64,0.127,9,reviewed,uu,uu
+2017-09-03T00:07:14.510Z,42.6635,-111.3986,10.59,3.2,ml,,81,0.242,0.38,us,us2000aeks,2021-02-19T02:09:53.584Z,"16 km E of Soda Springs, Idaho",earthquake,1.7,10.1,0.051,50,reviewed,us,us
+2017-09-03T00:05:28.340Z,42.6673,-111.5066,10,2.8,ml,,150,0.315,0.87,us,us2000aekq,2017-12-07T20:00:04.040Z,"8 km E of Soda Springs, Idaho",earthquake,2.5,2,0.077,22,reviewed,us,us
+2017-09-03T00:02:33.180Z,42.6983,-111.4953,10,2.9,ml,,146,0.298,0.38,us,us2000bvw6,2017-12-07T20:00:04.040Z,"10 km ENE of Soda Springs, Idaho",earthquake,1.7,2,0.097,14,reviewed,us,us
+2017-09-02T23:59:50.850Z,42.622,-111.4573333,6,4.07,ml,13,93,0.2996,0.18,uu,uu60013734,2017-11-22T20:07:37.131Z,"12 km ESE of Soda Springs, Idaho",earthquake,0.51,11.91,0.123,4,reviewed,uu,uu
+2017-09-02T23:56:52.630Z,42.6474,-111.4492,9.52,5.3,mww,,29,0.282,0.6,us,us2000aekg,2020-04-01T01:14:38.349Z,"12 km E of Soda Springs, Idaho",earthquake,2.1,3.1,0.038,68,reviewed,us,us
+2017-09-02T23:55:28.270Z,42.635,-111.4386,6.04,4,mwr,,40,0.281,0.77,us,us2000aeke,2017-11-28T18:33:58.040Z,"13 km E of Soda Springs, Idaho",earthquake,2.2,5.2,,18,reviewed,us,slm
+2017-09-02T23:48:20.120Z,42.6474,-111.4604,3.65,2.4,ml,,91,0.29,0.35,us,us2000aekc,2017-11-28T18:33:58.040Z,"11 km E of Soda Springs, Idaho",earthquake,1.6,2,0.053,46,reviewed,us,us
+2017-09-02T23:26:46.880Z,42.6357,-111.4496,5,2.6,ml,,138,0.288,0.42,us,us2000anim,2017-11-28T18:33:58.040Z,"12 km E of Soda Springs, Idaho",earthquake,1.8,1.9,0.105,12,reviewed,us,us
+2017-09-02T23:26:20.590Z,42.6427,-111.4354,12.51,2.8,ml,,55,0.275,0.45,us,us2000aek8,2017-11-28T18:33:58.040Z,"13 km E of Soda Springs, Idaho",earthquake,1.9,10.7,0.05,52,reviewed,us,us
+2017-08-05T10:25:46.500Z,42.7109,-111.6506,5,2.6,ml,,159,0.409,0.33,us,us2000a52s,2017-10-18T01:54:19.040Z,"7 km NNW of Soda Springs, Idaho",earthquake,2.4,1.9,0.066,30,reviewed,us,us
+2017-07-11T20:51:23.030Z,42.2323333,-111.617,5.09,2,ml,10,267,0.1687,0.15,uu,uu60214812,2017-07-13T18:21:01.920Z,"17 km W of Paris, Idaho",earthquake,4.16,1.03,0.24,2,reviewed,uu,uu
+2017-05-31T10:20:04.910Z,42.4313333,-111.5465,10.55,2.15,ml,17,109,0.3599,0.11,uu,uu60198447,2017-05-31T22:11:57.500Z,"15 km WSW of Georgetown, Idaho",earthquake,0.4,0.6,0.093,7,reviewed,uu,uu
+2017-05-08T07:05:06.540Z,42.5234,-111.7102,7.97,2.6,ml,,26,0.409,0.89,us,us10008qff,2017-08-01T23:02:11.040Z,"6 km SSE of Grace, Idaho",earthquake,2.3,9.1,0.039,88,reviewed,us,us
+2017-02-06T00:30:28.970Z,42.6909,-111.7102,2.95,3.4,ml,,50,0.455,0.6,us,us20008hun,2017-05-09T01:24:27.040Z,"9 km WNW of Soda Springs, Idaho",earthquake,2.3,8.2,0.036,100,reviewed,us,us

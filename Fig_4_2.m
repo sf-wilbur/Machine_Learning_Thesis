@@ -6,11 +6,11 @@ vpvs_suv = 1.73; %Sulphur (Brumbaugh) model vp/vs ratio
 
 
 %Read in the different text files needed to run script 
-suv = fopen('sulphur_velocity.txt','r');
-sv = fopen('sawtooth_p_model.txt', 'r');
-cv = fopen('challis_velocity.txt', 'r');
-fix = fopen('ak_135.txt','r');
-fid = fopen('ak_gradient.txt','r');
+suv = fopen('Velocity_Profiles/sulphur_velocity.txt','r');
+sv = fopen('Velocity_Profiles/sawtooth_p_model.txt', 'r');
+cv = fopen('Velocity_Profiles/challis_velocity.txt', 'r');
+fix = fopen('Velocity_Profiles/ak_135.txt','r');
+fid = fopen('Velocity_Profiles/ak_gradient.txt','r');
 
 %Create textscan format for reading the decimals 
 sul = textscan(suv,'%f%f','Delimiter',',');%sulphur

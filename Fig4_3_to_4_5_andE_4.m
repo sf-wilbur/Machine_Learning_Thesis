@@ -1,8 +1,8 @@
 clear all; 
 % Read in catalogs 
-EQT_Challis=readtable('EQT_Challis_Gradient.csv'); % gradient model for challis 
-EQT_Sulphur=readtable('EQT_Sulphur_sulvel.csv'); % sulphur with local velocity model 
-EQT_Stanley=readtable('EQT_Stanley_Gradient.csv'); % gradient velocity model
+EQT_Challis=readtable('EQ_Catalogs/EQT_Challis_Gradient.csv'); % gradient model for challis 
+EQT_Sulphur=readtable('EQ_Catalogs/EQT_Sulphur_sulvel.csv'); % sulphur with local velocity model 
+EQT_Stanley=readtable('EQ_Catalogs/EQT_Stanley_Gradient.csv'); % gradient velocity model
 % For stanley 
 % EQT_Stanley_AK.Herr<=2.5&EQT_Stanley_AK.Verr<=4.2)
 A_stan_idx=find(strcmp('A', EQT_Stanley.quality));

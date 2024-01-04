@@ -10,20 +10,20 @@ main_lon2 = -114.33;
 main_lat3 =44.5074;	
 main_lon3 = -114.112;
 
-EQT_Challis=readtable('EQT_Challis_Gradient.csv'); % gradient velocity model new depths
+EQT_Challis=readtable('EQ_Catalogs/EQT_Challis_Gradient.csv'); % gradient velocity model new depths
 
 
 A_B=[EQT_Challis.Herr<=5 &EQT_Challis.Verr<=5];
 
 
 % p_model=readtable('sawtooth_p_model.txt');
-stations=readtable('challis_local_stations.csv');
+stations=readtable('Station_Data/challis_local_stations.csv');
 USGS_mainshock=[42.6474	-111.4492]; %M5.3 mainshock, 9/2/2017
 UU_mainshock=[42.651 -111.441];
 USGS_aftershock=[42.563 -111.416]; %M5 aftershock, 9/10/2017
 UU_aftershock=[42.569 -111.419];
-Qfaults = shaperead('QuaternaryFaults.shp', 'UseGeoCoords', true,'BoundingBox',[min_lon min_lat; max_lon max_lat]);
-Qfaults2 = shaperead('Qfaults_US_Database.shp', 'UseGeoCoords', true,'BoundingBox',[min_lon min_lat; max_lon max_lat]);
+Qfaults = shaperead('Shape_Files/QuaternaryFaults.shp', 'UseGeoCoords', true,'BoundingBox',[min_lon min_lat; max_lon max_lat]);
+Qfaults2 = shaperead('Shape_Files/Qfaults_US_Database.shp', 'UseGeoCoords', true,'BoundingBox',[min_lon min_lat; max_lon max_lat]);
 
 %% bin aftershocks with step size defined above
 
@@ -73,7 +73,7 @@ h.Label.String = 'Number of Earthquakes';
 caxis([1 50])
 
 hold on
-Qfaults3 = shaperead('Geologic_Map_Idaho_Faults.shp', 'UseGeoCoords', true,'BoundingBox',[-115.75 44; -114.7 44.7]);
+Qfaults3 = shaperead('Shape_Files/Geologic_Map_Idaho_Faults.shp', 'UseGeoCoords', true,'BoundingBox',[-115.75 44; -114.7 44.7]);
 for i=8:90
     geoplot(Qfaults3(i).Lat,Qfaults3(i).Lon,'k')
 end

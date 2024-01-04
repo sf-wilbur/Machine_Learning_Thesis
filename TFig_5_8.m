@@ -1,5 +1,5 @@
 clear all close all
-Cat = readtable('EQT_Challis_Gradient.csv');
+Cat = readtable('EQ_Catalogs/EQT_Challis_Gradient.csv');
 T = readtable('1970_present_EQ_westernUS_M2.5.xlsx');%this is the full catalog noe filter using time and space
 T2 = length(T.horizontalError);
 %%

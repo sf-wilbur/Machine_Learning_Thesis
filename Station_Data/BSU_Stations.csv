@@ -1,0 +1,17 @@
+﻿Station,Latitude,Longitude,Elevation (m),Owner,Instrument
+BANN, 44.304563,-115.23193,2139.78,BSU,120 s Nanometrics Trillium
+EPIC, 44.394323,-115.174951,2000.67,BSU,120 s Nanometrics Trillium
+TRAP, 44.319263,-115.095688,2035.42,BSU,120 s Nanometrics Trillium
+IRON, 44.220566,-114.981243,1940.8,BSU,120 s Nanometrics Trillium
+FOX,44.16611111,-115.2780556,1482.5,BSU,120 s Nanometrics Trillium
+SAC,44.16083333,-115.1811111,1540.75,BSU,120 s Nanometrics Trillium
+MVIL,44.21656,-114.93347,1909.42,IRIS,120 s Meridian Compact Posthole
+BSM5,43.59343,-115.96722,946.32,BSU,120 s Nanometrics Trillium
+ID11,44.1128,-115.4372,1305.51,USGS,120 s Meridian Compact Posthole
+WARM,44.674589,-115.688409,1582.48,IRIS,120 s Meridian Compact Posthole
+TCK,44.72185,-115.005578,1343.07,IRIS,120 s Meridian Compact Posthole
+DDR,44.588589,-114.828089,1676.9,IRIS,120 s Meridian Compact Posthole
+MFRD,44.423611,-115.293888,1950.4,BSU,120 s Nanometrics Trillium
+RDFL,44.16563,-114.90429,1981.79,IRIS,120 s Meridian Compact Posthole
+PETL,43.98655,-114.86997,2171.78,IRIS,120 s Meridian Compact Posthole
+SUNB,44.282687,-114.73134,1841.15,IRIS,120 s Meridian Compact Posthole
